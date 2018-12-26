@@ -1,0 +1,962 @@
+[2018-09-11 16:24:51] ShadowsocksR started on port 10800
+[2018-09-11 16:24:57] [Info] Connect www.google.com.hk:443
+[2018-09-11 16:24:57] [Info] Connect www.google.com.hk:443
+[2018-09-11 16:24:57] [Info] Disconnect www.google.com.hk:443
+[2018-09-11 16:24:57] [Info] Connect ssl.gstatic.com:443
+[2018-09-11 16:24:58] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:24:58] [Info] Connect clients1.google.com:443
+[2018-09-11 16:24:58] [Info] Connect www.gstatic.com:443
+[2018-09-11 16:24:58] [Info] Connect www.google.com:443
+[2018-09-11 16:24:58] [Info] Connect apis.google.com:443
+[2018-09-11 16:24:58] [Info] Connect www.googleapis.com:443
+[2018-09-11 16:25:00] [Info] Connect translate.googleapis.com:443
+[2018-09-11 16:25:01] [Info] Connect raw.githubusercontent.com:443
+[2018-09-11 16:25:01] [Info] Connect github.com:443
+[2018-09-11 16:25:01] [Info] Connect github.com:443
+[2018-09-11 16:25:01] [Error] connect to update server error
+[2018-09-11 16:25:02] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:02] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:02] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:02] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:02] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:02] [Info] Connect avatars3.githubusercontent.com:443
+[2018-09-11 16:25:02] [Info] Connect avatars0.githubusercontent.com:443
+[2018-09-11 16:25:02] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:02] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:03] [Info] Connect assets-cdn.github.com:443
+[2018-09-11 16:25:04] [Info] Direct connect www.google-analytics.com:443
+[2018-09-11 16:25:04] [Info] Connect collector.githubapp.com:443
+[2018-09-11 16:25:04] [Info] Connect collector.githubapp.com:443
+[2018-09-11 16:25:04] [Info] Direct connect www.google-analytics.com:443
+[2018-09-11 16:25:05] [Info] Connect api.github.com:443
+[2018-09-11 16:25:13] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:25:13] [Info] Connect camo.githubusercontent.com:443
+[2018-09-11 16:25:14] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:25:16] [Info] Direct connect www.google-analytics.com:443
+[2018-09-11 16:25:18] [Info] Connect avatars1.githubusercontent.com:443
+[2018-09-11 16:25:19] [Info] Connect live.github.com:443
+[2018-09-11 16:25:26] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-11 16:25:28] [Info] Connect v20.events.data.microsoft.com:443
+[2018-09-11 16:25:32] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-09-11 16:25:32] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-11 16:25:33] [Info] Disconnect live.github.com:443
+[2018-09-11 16:25:33] [Info] Connect live.github.com:443
+[2018-09-11 16:25:40] [Info] Connect github.com:443
+[2018-09-11 16:25:40] [Info] Connect github.com:443
+[2018-09-11 16:25:40] [Info] Disconnect live.github.com:443
+[2018-09-11 16:25:40] [Info] Connect live.github.com:443
+[2018-09-11 16:25:51] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:25:51] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:25:52] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:25:55] [Info] Disconnect github.com:443
+[2018-09-11 16:25:55] [Info] Disconnect github.com:443
+[2018-09-11 16:25:55] [Info] Disconnect live.github.com:443
+[2018-09-11 16:25:55] [Info] Connect live.github.com:443
+[2018-09-11 16:25:59] [Info] Connect www.google.com.hk:443
+[2018-09-11 16:26:00] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:26:00] [Info] Connect apis.google.com:443
+[2018-09-11 16:26:01] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:26:19] [Info] Disconnect collector.githubapp.com:443
+[2018-09-11 16:26:29] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-09-11 16:26:29] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:26:42] [Info] Disconnect raw.githubusercontent.com:443
+[2018-09-11 16:26:53] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:26:53] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:26:53] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:26:54] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:27:00] [Info] Disconnect www.gstatic.com:443
+[2018-09-11 16:27:00] [Info] Disconnect apis.google.com:443
+[2018-09-11 16:27:00] [Info] Disconnect www.google.com:443
+[2018-09-11 16:27:00] [Info] Disconnect www.google.com.hk:443
+[2018-09-11 16:27:00] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-11 16:27:00] [Info] Disconnect www.googleapis.com:443
+[2018-09-11 16:27:03] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:27:03] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:27:03] [Info] Disconnect translate.googleapis.com:443
+[2018-09-11 16:27:03] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:27:03] [Info] Disconnect avatars0.githubusercontent.com:443
+[2018-09-11 16:27:03] [Info] Disconnect avatars3.githubusercontent.com:443
+[2018-09-11 16:27:03] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:27:03] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:27:06] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:27:09] [Info] Disconnect github.com:443
+[2018-09-11 16:27:09] [Info] Disconnect api.github.com:443
+[2018-09-11 16:27:09] [Info] Disconnect github.com:443
+[2018-09-11 16:27:14] [Info] Disconnect collector.githubapp.com:443
+[2018-09-11 16:27:14] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:27:16] [Info] Disconnect camo.githubusercontent.com:443
+[2018-09-11 16:27:20] [Info] Disconnect avatars1.githubusercontent.com:443
+[2018-09-11 16:27:40] [Info] Disconnect clients1.google.com:443
+[2018-09-11 16:27:55] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:27:55] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:27:56] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:27:56] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:27:57] [Info] Connect v20.events.data.microsoft.com:443
+[2018-09-11 16:27:58] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-09-11 16:28:01] [Info] Disconnect www.google.com.hk:443
+[2018-09-11 16:28:03] [Info] Disconnect assets-cdn.github.com:443
+[2018-09-11 16:28:03] [Info] Disconnect apis.google.com:443
+[2018-09-11 16:28:17] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-09-11 16:28:57] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:28:57] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:28:58] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:28:58] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:29:59] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:29:59] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:30:00] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:30:00] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:30:01] [Info] Connect raw.githubusercontent.com:443
+[2018-09-11 16:30:01] [Error] connect to update server error
+[2018-09-11 16:31:02] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:31:02] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:31:02] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:31:02] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:31:41] [Info] Disconnect raw.githubusercontent.com:443
+[2018-09-11 16:32:04] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:32:04] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:32:04] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:32:04] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:32:05] [Info] Connect android.clients.google.com:443
+[2018-09-11 16:32:24] [Info] Connect clients4.google.com:443
+[2018-09-11 16:32:37] [Info] Connect settings-win.data.microsoft.com:443
+[2018-09-11 16:32:39] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-09-11 16:32:51] [Info] Connect mtalk.google.com:443
+[2018-09-11 16:33:06] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:33:06] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:33:06] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:33:07] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:34:08] [Info] Disconnect android.clients.google.com:443
+[2018-09-11 16:34:08] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:34:26] [Info] Disconnect clients4.google.com:443
+[2018-09-11 16:34:34] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:34:34] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:34:34] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:34:53] [Info] Disconnect mtalk.google.com:443
+[2018-09-11 16:34:53] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:35:01] [Info] Connect roaming.officeapps.live.com:443
+[2018-09-11 16:35:03] [Info] Disconnect roaming.officeapps.live.com:443
+[2018-09-11 16:35:06] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:35:06] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:35:36] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:35:36] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:35:36] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:35:37] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:36:13] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:36:13] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:36:38] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:36:38] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:36:39] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:36:39] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:36:55] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:36:55] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:37:40] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:37:40] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:37:41] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:37:41] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:38:43] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:38:57] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:38:57] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:39:00] [Info] Connect cdn.onenote.net:443
+[2018-09-11 16:40:01] [Info] Disconnect cdn.onenote.net:443
+[2018-09-11 16:40:20] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:40:21] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:40:21] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:41:00] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:41:00] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:41:01] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-11 16:41:04] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-11 16:41:22] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:41:22] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:41:23] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:41:23] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:42:24] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:42:25] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:42:25] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:42:25] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:43:02] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:43:02] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:43:27] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:43:27] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:43:27] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:43:27] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:43:39] [Info] Disconnect live.github.com:443
+[2018-09-11 16:43:45] [Info] Direct connect www.baidu.com:443
+[2018-09-11 16:43:45] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:43:45] [Info] Direct connect www.baidu.com:443
+[2018-09-11 16:43:45] [Info] Direct connect ss0.bdstatic.com:443
+[2018-09-11 16:43:45] [Info] Direct connect ss1.baidu.com:443
+[2018-09-11 16:43:45] [Info] Direct connect ss2.bdstatic.com:443
+[2018-09-11 16:43:45] [Info] Direct connect sp0.baidu.com:443
+[2018-09-11 16:43:45] [Info] Direct connect ss3.baidu.com:443
+[2018-09-11 16:43:45] [Info] Direct connect ss1.bdstatic.com:443
+[2018-09-11 16:43:45] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:43:45] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:45] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:45] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:43:45] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:45] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:45] [Info] Direct connect css.360doc.com:80
+[2018-09-11 16:43:45] [Info] Direct connect css.360doc.com:80
+[2018-09-11 16:43:45] [Info] Direct connect css.360doc.com:80
+[2018-09-11 16:43:45] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:45] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect blockart.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect image109.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect hm.baidu.com:443
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-11 16:43:46] [Info] Direct connect eclick.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect webservice.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect recommend.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:46] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:47] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-11 16:43:47] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-11 16:43:47] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:47] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:47] [Info] Direct connect pubimage.360doc.com:80
+[2018-09-11 16:43:47] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-11 16:43:47] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-11 16:43:47] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-11 16:43:47] [Info] Direct connect www.360doc.com:80
+[2018-09-11 16:43:50] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-11 16:43:50] [Info] Direct connect nsclick.baidu.com:80
+[2018-09-11 16:43:50] [Info] Direct connect api.share.baidu.com:80
+[2018-09-11 16:44:06] [Info] Connect android.clients.google.com:443
+[2018-09-11 16:44:07] [Info] Connect www.googleapis.com:443
+[2018-09-11 16:44:07] [Info] Connect clients4.google.com:443
+[2018-09-11 16:44:29] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:44:29] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:44:29] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:44:29] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:44:52] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:44:52] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:45:01] [Info] Connect login.live.com:443
+[2018-09-11 16:45:31] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:45:31] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:45:31] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:45:32] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:46:03] [Info] Disconnect login.live.com:443
+[2018-09-11 16:46:09] [Info] Disconnect android.clients.google.com:443
+[2018-09-11 16:46:09] [Info] Disconnect www.googleapis.com:443
+[2018-09-11 16:46:13] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:46:13] [Info] Disconnect clients4.google.com:443
+[2018-09-11 16:46:13] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:46:33] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:47:00] [Info] Connect clients4.google.com:443
+[2018-09-11 16:47:06] [Info] Connect ws.audioscrobbler.com:80
+[2018-09-11 16:47:07] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:47:07] [Info] Disconnect ws.audioscrobbler.com:80
+[2018-09-11 16:47:07] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:47:07] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:48:09] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:48:09] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:48:09] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:48:10] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:48:14] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:48:14] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:48:22] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-09-11 16:49:03] [Info] Disconnect clients4.google.com:443
+[2018-09-11 16:49:11] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:49:11] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:49:12] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:49:12] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:50:13] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:50:13] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:50:14] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:50:14] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:50:16] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:50:16] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:51:15] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:52:17] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:52:17] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:53:47] [Info] Direct connect hm.baidu.com:443
+[2018-09-11 16:53:47] [Info] Direct connect hm.baidu.com:443
+[2018-09-11 16:53:58] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:53:59] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:53:59] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:54:19] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:54:19] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:54:35] [Info] Direct connect nsclick.baidu.com:80
+[2018-09-11 16:54:35] [Info] Direct connect hm.baidu.com:443
+[2018-09-11 16:54:35] [Info] Direct connect hm.baidu.com:443
+[2018-09-11 16:54:43] [Info] Direct connect ss0.bdstatic.com:443
+[2018-09-11 16:54:43] [Info] Direct connect www.baidu.com:443
+[2018-09-11 16:54:43] [Info] Direct connect www.baidu.com:443
+[2018-09-11 16:54:43] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:54:43] [Info] Direct connect ss1.baidu.com:443
+[2018-09-11 16:54:43] [Info] Direct connect ss3.baidu.com:443
+[2018-09-11 16:54:43] [Info] Direct connect ss2.bdstatic.com:443
+[2018-09-11 16:54:43] [Info] Direct connect ss1.bdstatic.com:443
+[2018-09-11 16:54:43] [Info] Direct connect sp0.baidu.com:443
+[2018-09-11 16:54:43] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:54:44] [Info] Direct connect cloud.tencent.com:443
+[2018-09-11 16:54:44] [Info] Direct connect cloud.tencent.com:443
+[2018-09-11 16:54:44] [Info] Direct connect imgcache.qq.com:443
+[2018-09-11 16:54:44] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mc.qcloudimg.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mc.qcloudimg.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mc.qcloudimg.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mc.qcloudimg.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mc.qcloudimg.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mccdn.qcloud.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mccdn.qcloud.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mccdn.qcloud.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mccdn.qcloud.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mccdn.qcloud.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mccdn.qcloud.com:443
+[2018-09-11 16:54:44] [Info] Direct connect mc.qcloudimg.com:443
+[2018-09-11 16:54:44] [Info] Direct connect main.qcloudimg.com:443
+[2018-09-11 16:54:44] [Info] Direct connect main.qcloudimg.com:443
+[2018-09-11 16:54:45] [Info] Direct connect pingjs.qq.com:443
+[2018-09-11 16:54:45] [Info] Direct connect www.qcloud.com:443
+[2018-09-11 16:54:45] [Info] Direct connect ping.cloud.tencent.com:443
+[2018-09-11 16:54:45] [Info] Direct connect tajs.qq.com:443
+[2018-09-11 16:54:45] [Info] Direct connect www.google-analytics.com:443
+[2018-09-11 16:54:45] [Info] Direct connect pingtas.qq.com:443
+[2018-09-11 16:54:45] [Info] Connect opc.cloud.tencent.com:443
+[2018-09-11 16:54:45] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-09-11 16:54:45] [Info] Direct connect www.googletagmanager.com:443
+[2018-09-11 16:54:45] [Info] Direct connect report.huatuo.qq.com:443
+[2018-09-11 16:54:45] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-09-11 16:54:45] [Info] Direct connect huatuospeed.weiyun.com:443
+[2018-09-11 16:54:45] [Info] Direct connect www.googleadservices.com:443
+[2018-09-11 16:54:45] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:54:45] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:54:45] [Info] Direct connect googleads.g.doubleclick.net:443
+[2018-09-11 16:54:45] [Info] Direct connect googleads.g.doubleclick.net:443
+[2018-09-11 16:54:47] [Info] Direct connect upload-dianshi-1255598498.file.myqcloud.com:443
+[2018-09-11 16:54:50] [Info] Direct connect pingfore.qq.com:443
+[2018-09-11 16:54:52] [Info] Direct connect ping.cloud.tencent.com:443
+[2018-09-11 16:54:54] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss1.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss1.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss1.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss1.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss1.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss0.baidu.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss2.bdstatic.com:443
+[2018-09-11 16:54:55] [Info] Direct connect ss3.baidu.com:443
+[2018-09-11 16:54:55] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:55:01] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:55:01] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 16:55:01] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 16:55:01] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-11 16:55:07] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2018-09-11 16:55:07] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2018-09-11 16:55:07] [Info] Direct connect mail.qq.com:443
+[2018-09-11 16:55:08] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:55:08] [Info] Direct connect js.aq.qq.com:443
+[2018-09-11 16:55:08] [Info] Direct connect rl.mail.qq.com:443
+[2018-09-11 16:55:08] [Info] Direct connect rescdn.qqmail.com:443
+[2018-09-11 16:55:08] [Info] Direct connect rescdn.qqmail.com:443
+[2018-09-11 16:55:09] [Info] Direct connect mobile.12306.cn:80
+[2018-09-11 16:55:09] [Info] Direct connect mobile.12306.cn:80
+[2018-09-11 16:55:09] [Info] Direct connect mobile.12306.cn:80
+[2018-09-11 16:55:09] [Info] Direct connect mobile.12306.cn:80
+[2018-09-11 16:55:09] [Info] Direct connect mobile.12306.cn:80
+[2018-09-11 16:55:09] [Info] Connect cn.gravatar.com:443
+[2018-09-11 16:55:10] [Info] Connect i1.wp.com:443
+[2018-09-11 16:55:11] [Info] Direct connect wp.mail.qq.com:443
+[2018-09-11 16:56:03] [Info] Disconnect zh.wikipedia.org:443
+[2018-09-11 16:56:10] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:56:22] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:56:22] [Info] Connect mtalk.google.com:5228
+[2018-09-11 16:56:35] [Info] Connect client-office365-tas.msedge.net:443
+[2018-09-11 16:56:49] [Info] Disconnect opc.cloud.tencent.com:443
+[2018-09-11 16:57:09] [Info] Connect config.edge.skype.com:443
+[2018-09-11 16:57:12] [Info] Disconnect cn.gravatar.com:443
+[2018-09-11 16:57:12] [Info] Disconnect i1.wp.com:443
+[2018-09-11 16:57:44] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-11 16:57:44] [Info] Disconnect client-office365-tas.msedge.net:443
+[2018-09-11 16:57:46] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-11 16:57:58] [Info] Connect v20.events.data.microsoft.com:443
+[2018-09-11 16:57:59] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-09-11 16:58:04] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:58:05] [Info] Connect ben.crxmouse.com:443
+[2018-09-11 16:58:09] [Info] Disconnect mtalk.google.com:5228
+[2018-09-11 16:58:09] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:58:09] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-11 16:58:14] [Info] Disconnect config.edge.skype.com:443
+[2018-09-11 16:58:17] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-09-11 16:58:21] [Info] Connect settings-win.data.microsoft.com:443
+[2018-09-11 16:58:22] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-09-11 17:01:00] [Info] Connect client-office365-tas.msedge.net:443
+[2018-09-11 17:01:00] [Info] Connect config.edge.skype.com:443
+[2018-09-11 17:01:02] [Info] Connect nexus.officeapps.live.com:443
+[2018-09-11 17:01:02] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:01:02] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:01:05] [Info] Connect nexusrules.officeapps.live.com:443
+[2018-09-11 17:01:07] [Info] Disconnect client-office365-tas.msedge.net:443
+[2018-09-11 17:01:07] [Info] Disconnect nexus.officeapps.live.com:443
+[2018-09-11 17:01:07] [Info] Disconnect nexusrules.officeapps.live.com:443
+[2018-09-11 17:01:07] [Info] Disconnect config.edge.skype.com:443
+[2018-09-11 17:02:56] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:02:56] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:05:50] [Info] Connect nexus.officeapps.live.com:443
+[2018-09-11 17:05:57] [Info] Disconnect nexus.officeapps.live.com:443
+[2018-09-11 17:10:25] [Info] Connect nexusrules.officeapps.live.com:443
+[2018-09-11 17:12:06] [Info] Disconnect nexusrules.officeapps.live.com:443
+[2018-09-11 17:12:51] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-11 17:12:53] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-11 17:13:48] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-11 17:13:50] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-11 17:21:37] [Info] Connect cdn.onenote.net:443
+[2018-09-11 17:22:17] [Info] Connect roaming.officeapps.live.com:443
+[2018-09-11 17:22:19] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:22:19] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:22:19] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:22:19] [Info] Disconnect roaming.officeapps.live.com:443
+[2018-09-11 17:22:22] [Info] Connect android.clients.google.com:443
+[2018-09-11 17:22:22] [Info] Connect www.googleapis.com:443
+[2018-09-11 17:22:22] [Info] Connect mtalk.google.com:5228
+[2018-09-11 17:22:22] [Info] Connect accounts.google.com:443
+[2018-09-11 17:22:22] [Info] Direct connect clientservices.googleapis.com:443
+[2018-09-11 17:22:22] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-11 17:22:22] [Info] Direct connect www.google-analytics.com:443
+[2018-09-11 17:22:22] [Info] Connect cdn.mxpnl.com:443
+[2018-09-11 17:22:22] [Info] Connect raw.githubusercontent.com:443
+[2018-09-11 17:22:23] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:22:23] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:22:23] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-11 17:22:23] [Info] Connect lh5.googleusercontent.com:443
+[2018-09-11 17:22:23] [Info] Connect securetoken.googleapis.com:443
+[2018-09-11 17:22:23] [Info] Connect api.mixpanel.com:443
+[2018-09-11 17:22:23] [Info] Connect api.mixpanel.com:443
+[2018-09-11 17:22:23] [Info] Connect api.mixpanel.com:443
+[2018-09-11 17:22:24] [Info] Connect www.googleapis.com:443
+[2018-09-11 17:22:24] [Info] Connect clients4.google.com:443
+[2018-09-11 17:22:25] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-09-11 17:22:26] [Info] Connect s-usc1c-nss-203.firebaseio.com:443
+[2018-09-11 17:22:26] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-09-11 17:22:31] [Info] Connect ssl.gstatic.com:443
+[2018-09-11 17:22:31] [Info] Connect ssl.gstatic.com:443
+[2018-09-11 17:22:31] [Info] Connect clients2.google.com:443
+[2018-09-11 17:22:32] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-11 17:22:32] [Info] Connect clients2.googleusercontent.com:443
+[2018-09-11 17:22:37] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-09-11 17:22:38] [Info] Disconnect cdn.onenote.net:443
+[2018-09-11 17:22:40] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-09-11 17:22:42] [Info] Connect zh.wikipedia.org:80
+[2018-09-11 17:22:42] [Info] Connect zh.wikipedia.org:443
+[2018-09-11 17:22:42] [Info] Disconnect zh.wikipedia.org:80
+[2018-09-12 12:03:59] ShadowsocksR started on port 10800
+[2018-09-12 12:04:09] [Info] Connect raw.githubusercontent.com:443
+[2018-09-12 12:04:09] [Error] connect to update server error
+[2018-09-12 12:04:24] [Info] Connect avatars1.githubusercontent.com:443
+[2018-09-12 12:04:24] [Info] Connect assets-cdn.github.com:443
+[2018-09-12 12:04:24] [Info] Connect github.com:443
+[2018-09-12 12:04:24] [Info] Connect github.com:443
+[2018-09-12 12:04:25] [Info] Connect codeload.github.com:443
+[2018-09-12 12:04:30] [Info] Connect clients4.google.com:443
+[2018-09-12 12:04:40] [Info] Disconnect github.com:443
+[2018-09-12 12:04:50] [Info] Connect www.sublimetext.com:443
+[2018-09-12 12:04:51] [Info] Connect ocsp.comodoca.com:80
+[2018-09-12 12:04:51] [Info] Disconnect ocsp.comodoca.com:80
+[2018-09-12 12:04:54] [Info] Connect packagecontrol.io:443
+[2018-09-12 12:05:02] [Info] Disconnect www.sublimetext.com:443
+[2018-09-12 12:05:04] [Info] Disconnect packagecontrol.io:443
+[2018-09-18 09:56:47] ShadowsocksR started on port 10800
+[2018-09-18 09:56:48] [Info] Connect chrome.google.com:443
+[2018-09-18 09:56:50] [Info] Connect www.gstatic.com:443
+[2018-09-18 09:56:50] [Info] Connect apis.google.com:443
+[2018-09-18 09:56:50] [Info] Connect www.google.com:443
+[2018-09-18 09:56:50] [Info] Connect www.google.com:443
+[2018-09-18 09:56:50] [Info] Direct connect ssl.google-analytics.com:443
+[2018-09-18 09:56:50] [Info] Connect translate.googleapis.com:443
+[2018-09-18 09:56:51] [Info] Connect ssl.gstatic.com:443
+[2018-09-18 09:56:51] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 09:56:51] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 09:56:51] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 09:56:51] [Info] Connect ssl.gstatic.com:443
+[2018-09-18 09:56:51] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-09-18 09:56:52] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 09:56:52] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 09:56:52] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Connect plus.google.com:443
+[2018-09-18 09:56:52] [Info] Connect plus.google.com:443
+[2018-09-18 09:56:52] [Info] Connect plus.google.com:443
+[2018-09-18 09:56:52] [Info] Connect plus.google.com:443
+[2018-09-18 09:56:52] [Info] Connect plus.google.com:443
+[2018-09-18 09:56:52] [Info] Connect plus.google.com:443
+[2018-09-18 09:56:52] [Info] Direct connect csi.gstatic.com:443
+[2018-09-18 09:56:52] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:56:52] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:56:56] [Info] Connect www.googleapis.com:443
+[2018-09-18 09:56:56] [Info] Connect clients2.google.com:443
+[2018-09-18 09:56:56] [Info] Connect clients2.googleusercontent.com:443
+[2018-09-18 09:56:57] [Info] Connect raw.githubusercontent.com:443
+[2018-09-18 09:56:57] [Info] Connect sb-ssl.google.com:443
+[2018-09-18 09:56:57] [Error] connect to update server error
+[2018-09-18 09:57:00] [Info] Disconnect www.google.com:443
+[2018-09-18 09:57:12] [Info] Disconnect plus.google.com:443
+[2018-09-18 09:57:12] [Info] Disconnect plus.google.com:443
+[2018-09-18 09:57:12] [Info] Disconnect plus.google.com:443
+[2018-09-18 09:57:12] [Info] Disconnect plus.google.com:443
+[2018-09-18 09:57:12] [Info] Disconnect plus.google.com:443
+[2018-09-18 09:57:12] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-18 09:57:17] [Info] Connect clients1.google.com:443
+[2018-09-18 09:57:17] [Info] Connect clients1.google.com:443
+[2018-09-18 09:57:17] [Info] Connect clients1.google.com:443
+[2018-09-18 09:57:58] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 09:58:18] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 09:58:28] [Info] Connect clients4.google.com:443
+[2018-09-18 09:58:28] [Info] Disconnect clients1.google.com:443
+[2018-09-18 09:58:28] [Info] Disconnect clients1.google.com:443
+[2018-09-18 09:58:28] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-09-18 09:58:28] [Info] Connect apis.google.com:443
+[2018-09-18 09:58:28] [Info] Connect google.com:443
+[2018-09-18 09:58:37] [Info] Disconnect raw.githubusercontent.com:443
+[2018-09-18 09:58:39] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 09:58:52] [Info] Disconnect apis.google.com:443
+[2018-09-18 09:58:52] [Info] Disconnect translate.googleapis.com:443
+[2018-09-18 09:58:54] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-18 09:58:54] [Info] Disconnect plus.google.com:443
+[2018-09-18 09:58:58] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-09-18 09:58:58] [Info] Disconnect sb-ssl.google.com:443
+[2018-09-18 09:58:58] [Info] Disconnect clients2.google.com:443
+[2018-09-18 09:58:58] [Info] Disconnect www.googleapis.com:443
+[2018-09-18 09:59:00] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 09:59:00] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 09:59:07] [Info] Direct connect gj.mmstat.com:443
+[2018-09-18 09:59:07] [Info] Disconnect apis.google.com:443
+[2018-09-18 09:59:07] [Info] Disconnect clients1.google.com:443
+[2018-09-18 09:59:07] [Info] Disconnect chrome.google.com:443
+[2018-09-18 09:59:07] [Info] Disconnect www.google.com:443
+[2018-09-18 09:59:07] [Info] Disconnect www.gstatic.com:443
+[2018-09-18 09:59:07] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:59:08] [Info] Disconnect clients4.google.com:443
+[2018-09-18 09:59:08] [Info] Disconnect google.com:443
+[2018-09-18 09:59:10] [Info] Connect www.googleapis.com:443
+[2018-09-18 09:59:10] [Info] Connect accounts.google.com:443
+[2018-09-18 09:59:10] [Info] Connect mtalk.google.com:5228
+[2018-09-18 09:59:10] [Info] Connect android.clients.google.com:443
+[2018-09-18 09:59:10] [Info] Direct connect clientservices.googleapis.com:443
+[2018-09-18 09:59:10] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 09:59:10] [Info] Connect cdn.mxpnl.com:443
+[2018-09-18 09:59:11] [Info] Connect raw.githubusercontent.com:443
+[2018-09-18 09:59:11] [Info] Connect lh5.googleusercontent.com:443
+[2018-09-18 09:59:11] [Info] Connect securetoken.googleapis.com:443
+[2018-09-18 09:59:11] [Info] Connect api.mixpanel.com:443
+[2018-09-18 09:59:11] [Info] Connect api.mixpanel.com:443
+[2018-09-18 09:59:11] [Info] Connect api.mixpanel.com:443
+[2018-09-18 09:59:11] [Info] Disconnect api.mixpanel.com:443
+[2018-09-18 09:59:11] [Info] Disconnect api.mixpanel.com:443
+[2018-09-18 09:59:11] [Info] Connect www.googleapis.com:443
+[2018-09-18 09:59:12] [Info] Connect s-usc1c-nss-203.firebaseio.com:443
+[2018-09-18 09:59:12] [Info] Connect clients4.google.com:443
+[2018-09-18 09:59:13] [Info] Connect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:14] [Info] Connect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:14] [Info] Connect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:14] [Info] Connect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:18] [Info] Connect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:18] [Info] Disconnect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:19] [Info] Connect ssl.gstatic.com:443
+[2018-09-18 09:59:19] [Info] Connect ssl.gstatic.com:443
+[2018-09-18 09:59:19] [Info] Connect clients2.google.com:443
+[2018-09-18 09:59:20] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-18 09:59:20] [Info] Connect clients2.googleusercontent.com:443
+[2018-09-18 09:59:28] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-09-18 09:59:30] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-09-18 09:59:34] [Info] Connect chrome.google.com:443
+[2018-09-18 09:59:34] [Info] Connect ssl.gstatic.com:443
+[2018-09-18 09:59:34] [Info] Connect www.google.com:443
+[2018-09-18 09:59:34] [Info] Connect www.gstatic.com:443
+[2018-09-18 09:59:34] [Info] Direct connect ssl.google-analytics.com:443
+[2018-09-18 09:59:34] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 09:59:34] [Info] Connect apis.google.com:443
+[2018-09-18 09:59:35] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 09:59:35] [Info] Connect translate.googleapis.com:443
+[2018-09-18 09:59:37] [Info] Direct connect csi.gstatic.com:443
+[2018-09-18 09:59:37] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:59:37] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:59:37] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 09:59:38] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:59:38] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 09:59:50] [Info] Connect share.axure.com:443
+[2018-09-18 09:59:50] [Info] Connect share.axure.com:443
+[2018-09-18 09:59:50] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-18 09:59:50] [Info] Disconnect apis.google.com:443
+[2018-09-18 09:59:52] [Info] Connect share.axure.com:443
+[2018-09-18 09:59:52] [Info] Direct connect fonts.googleapis.com:443
+[2018-09-18 09:59:52] [Info] Connect share.axure.com:443
+[2018-09-18 09:59:52] [Info] Connect share.axure.com:443
+[2018-09-18 09:59:52] [Info] Connect share.axure.com:443
+[2018-09-18 09:59:52] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 09:59:54] [Info] Connect accounts.axure.com:443
+[2018-09-18 09:59:56] [Info] Connect www.axure.com:443
+[2018-09-18 09:59:56] [Info] Connect www.axure.com:443
+[2018-09-18 09:59:56] [Info] Disconnect accounts.axure.com:443
+[2018-09-18 09:59:56] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 09:59:58] [Info] Connect www.axure.com:443
+[2018-09-18 09:59:58] [Info] Connect accounts.axure.com:443
+[2018-09-18 09:59:58] [Info] Connect accounts.axure.com:443
+[2018-09-18 09:59:58] [Info] Connect accounts.axure.com:443
+[2018-09-18 09:59:58] [Info] Direct connect www.google-analytics.com:443
+[2018-09-18 09:59:58] [Info] Disconnect raw.githubusercontent.com:443
+[2018-09-18 09:59:58] [Info] Disconnect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:58] [Info] Disconnect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:58] [Info] Disconnect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 09:59:58] [Info] Disconnect s-usc1c-nss-203.firebaseio.com:443
+[2018-09-18 09:59:59] [Info] Disconnect share.axure.com:443
+[2018-09-18 10:00:10] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:11] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:13] [Info] Connect www.sublimetext.com:443
+[2018-09-18 10:00:14] [Info] Connect ocsp.comodoca.com:80
+[2018-09-18 10:00:14] [Info] Disconnect ocsp.comodoca.com:80
+[2018-09-18 10:00:17] [Info] Connect packagecontrol.io:443
+[2018-09-18 10:00:18] [Info] Connect ocsp.digicert.com:80
+[2018-09-18 10:00:18] [Info] Disconnect ocsp.digicert.com:80
+[2018-09-18 10:00:18] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-09-18 10:00:20] [Info] Connect clients4.google.com:443
+[2018-09-18 10:00:25] [Info] Disconnect www.sublimetext.com:443
+[2018-09-18 10:00:27] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:27] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:27] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:27] [Info] Disconnect accounts.axure.com:443
+[2018-09-18 10:00:27] [Info] Disconnect share.axure.com:443
+[2018-09-18 10:00:27] [Info] Disconnect accounts.axure.com:443
+[2018-09-18 10:00:28] [Info] Disconnect packagecontrol.io:443
+[2018-09-18 10:00:28] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:31] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:31] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-09-18 10:00:32] [Info] Connect settings-win.data.microsoft.com:443
+[2018-09-18 10:00:33] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-09-18 10:00:36] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-18 10:00:37] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-18 10:01:01] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 10:01:01] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 10:01:04] [Info] Disconnect accounts.axure.com:443
+[2018-09-18 10:01:10] [Info] Disconnect accounts.google.com:443
+[2018-09-18 10:01:10] [Info] Disconnect android.clients.google.com:443
+[2018-09-18 10:01:12] [Info] Disconnect www.googleapis.com:443
+[2018-09-18 10:01:12] [Info] Disconnect securetoken.googleapis.com:443
+[2018-09-18 10:01:12] [Info] Disconnect cdn.mxpnl.com:443
+[2018-09-18 10:01:12] [Info] Disconnect lh5.googleusercontent.com:443
+[2018-09-18 10:01:18] [Info] Connect google.com:443
+[2018-09-18 10:01:19] [Info] Disconnect api.mixpanel.com:443
+[2018-09-18 10:01:21] [Info] Disconnect clients2.google.com:443
+[2018-09-18 10:01:21] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-18 10:01:21] [Info] Connect cdn.mxpnl.com:443
+[2018-09-18 10:01:22] [Info] Connect api.mixpanel.com:443
+[2018-09-18 10:01:22] [Info] Connect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 10:01:22] [Info] Connect api.mixpanel.com:443
+[2018-09-18 10:01:22] [Info] Connect api.mixpanel.com:443
+[2018-09-18 10:01:23] [Info] Disconnect api.mixpanel.com:443
+[2018-09-18 10:01:27] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-09-18 10:01:37] [Info] Disconnect translate.googleapis.com:443
+[2018-09-18 10:01:37] [Info] Disconnect www.google.com:443
+[2018-09-18 10:01:37] [Info] Disconnect www.gstatic.com:443
+[2018-09-18 10:01:39] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 10:01:39] [Info] Disconnect chrome.google.com:443
+[2018-09-18 10:01:53] [Info] Disconnect share.axure.com:443
+[2018-09-18 10:01:53] [Info] Disconnect share.axure.com:443
+[2018-09-18 10:01:57] [Info] Connect raw.githubusercontent.com:443
+[2018-09-18 10:01:57] [Error] connect to update server error
+[2018-09-18 10:01:59] [Info] Disconnect www.axure.com:443
+[2018-09-18 10:01:59] [Info] Disconnect www.axure.com:443
+[2018-09-18 10:01:59] [Info] Disconnect share.axure.com:443
+[2018-09-18 10:01:59] [Info] Disconnect share.axure.com:443
+[2018-09-18 10:01:59] [Info] Disconnect www.axure.com:443
+[2018-09-18 10:02:23] [Info] Disconnect api.mixpanel.com:443
+[2018-09-18 10:02:23] [Info] Disconnect api.mixpanel.com:443
+[2018-09-18 10:02:23] [Info] Disconnect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 10:02:25] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-09-18 10:02:26] [Info] Disconnect clients4.google.com:443
+[2018-09-18 10:02:28] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:02:28] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:03:07] [Info] Connect chrome.google.com:443
+[2018-09-18 10:03:07] [Info] Connect www.google.com:443
+[2018-09-18 10:03:07] [Info] Connect apis.google.com:443
+[2018-09-18 10:03:07] [Info] Connect ssl.gstatic.com:443
+[2018-09-18 10:03:07] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 10:03:07] [Info] Connect www.gstatic.com:443
+[2018-09-18 10:03:08] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 10:03:10] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 10:03:10] [Info] Connect plus.google.com:443
+[2018-09-18 10:03:20] [Info] Disconnect google.com:443
+[2018-09-18 10:03:20] [Info] Connect apis.google.com:443
+[2018-09-18 10:03:20] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 10:03:20] [Info] Disconnect apis.google.com:443
+[2018-09-18 10:03:24] [Info] Disconnect cdn.mxpnl.com:443
+[2018-09-18 10:03:37] [Info] Disconnect raw.githubusercontent.com:443
+[2018-09-18 10:03:48] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 10:03:48] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-09-18 10:03:48] [Info] Disconnect apis.google.com:443
+[2018-09-18 10:04:01] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 10:04:01] [Info] Connect clients1.google.com:443
+[2018-09-18 10:04:11] [Debug] DNS query fail: embed.typeform.com
+[2018-09-18 10:04:11] [Info] Connect embed.typeform.com:443
+[2018-09-18 10:04:12] [Info] Connect google.com:443
+[2018-09-18 10:04:26] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 10:04:28] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:04:28] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:05:09] [Info] Direct connect update.googleapis.com:443
+[2018-09-18 10:05:12] [Info] Disconnect plus.google.com:443
+[2018-09-18 10:05:14] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-18 10:05:18] [Info] Connect beacons5.gvt3.com:443
+[2018-09-18 10:05:18] [Info] Disconnect embed.typeform.com:443
+[2018-09-18 10:05:23] [Info] Disconnect www.gstatic.com:443
+[2018-09-18 10:05:23] [Info] Disconnect www.google.com:443
+[2018-09-18 10:05:25] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 10:05:29] [Info] Disconnect chrome.google.com:443
+[2018-09-18 10:05:57] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-18 10:05:59] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-18 10:06:04] [Info] Disconnect clients1.google.com:443
+[2018-09-18 10:06:14] [Info] Disconnect clients4.google.com:443
+[2018-09-18 10:06:14] [Info] Disconnect google.com:443
+[2018-09-18 10:06:29] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:06:29] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:07:21] [Info] Disconnect beacons5.gvt3.com:443
+[2018-09-18 10:07:38] [Info] Connect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-09-18 10:07:39] [Info] Disconnect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-09-18 10:08:30] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:08:30] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:08:44] [Info] Connect client-office365-tas.msedge.net:443
+[2018-09-18 10:08:44] [Info] Connect config.edge.skype.com:443
+[2018-09-18 10:08:44] [Info] Connect geo-prod.do.dsp.mp.microsoft.com:443
+[2018-09-18 10:08:45] [Info] Connect kv501-prod.do.dsp.mp.microsoft.com:443
+[2018-09-18 10:08:45] [Info] Disconnect geo-prod.do.dsp.mp.microsoft.com:443
+[2018-09-18 10:08:45] [Info] Disconnect kv501-prod.do.dsp.mp.microsoft.com:443
+[2018-09-18 10:08:46] [Info] Connect cp501-prod.do.dsp.mp.microsoft.com:443
+[2018-09-18 10:08:46] [Info] Direct connect officecdn.microsoft.com:80
+[2018-09-18 10:08:46] [Info] Direct connect officecdn.microsoft.com:80
+[2018-09-18 10:08:46] [Info] Direct connect officecdn.microsoft.com:80
+[2018-09-18 10:08:46] [Info] Direct connect officecdn.microsoft.com:80
+[2018-09-18 10:08:46] [Info] Disconnect cp501-prod.do.dsp.mp.microsoft.com:443
+[2018-09-18 10:08:51] [Info] Connect nexus.officeapps.live.com:443
+[2018-09-18 10:08:54] [Info] Connect nexusrules.officeapps.live.com:443
+[2018-09-18 10:08:56] [Info] Disconnect client-office365-tas.msedge.net:443
+[2018-09-18 10:08:56] [Info] Disconnect config.edge.skype.com:443
+[2018-09-18 10:08:56] [Info] Disconnect nexus.officeapps.live.com:443
+[2018-09-18 10:08:56] [Info] Disconnect nexusrules.officeapps.live.com:443
+[2018-09-18 10:09:09] [Info] Connect cdn.onenote.net:443
+[2018-09-18 10:10:09] [Info] Disconnect cdn.onenote.net:443
+[2018-09-18 10:10:31] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:10:31] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:12:33] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:12:33] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:14:34] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:14:34] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:14:35] [Info] Disconnect s-usc1c-nss-202.firebaseio.com:443
+[2018-09-18 10:14:42] [Info] Connect roaming.officeapps.live.com:443
+[2018-09-18 10:14:43] [Info] Disconnect roaming.officeapps.live.com:443
+[2018-09-18 10:14:50] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-09-18 10:14:53] [Info] Connect v20.events.data.microsoft.com:443
+[2018-09-18 10:14:55] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-09-18 10:15:26] [Info] Connect clients4.google.com:443
+[2018-09-18 10:15:33] [Info] Connect settings-win.data.microsoft.com:443
+[2018-09-18 10:15:36] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-09-18 10:16:20] [Info] Disconnect www.googleapis.com:443
+[2018-09-18 10:16:36] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:16:36] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:17:29] [Info] Disconnect clients4.google.com:443
+[2018-09-18 10:18:37] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:18:37] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:19:37] [Info] Connect clients4.google.com:443
+[2018-09-18 10:19:46] [Info] Connect roaming.officeapps.live.com:443
+[2018-09-18 10:19:48] [Info] Disconnect roaming.officeapps.live.com:443
+[2018-09-18 10:20:38] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:20:38] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:21:39] [Info] Disconnect clients4.google.com:443
+[2018-09-18 10:22:38] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-18 10:22:39] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:22:39] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:22:40] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-18 10:23:14] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-18 10:23:16] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-18 10:24:40] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:24:40] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:26:41] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:26:41] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:28:42] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:28:42] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:29:00] [Info] Connect roaming.officeapps.live.com:443
+[2018-09-18 10:29:02] [Info] Disconnect roaming.officeapps.live.com:443
+[2018-09-18 10:30:23] [Info] Connect clients4.google.com:443
+[2018-09-18 10:30:36] [Info] Connect settings-win.data.microsoft.com:443
+[2018-09-18 10:30:37] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-09-18 10:30:43] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:30:43] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:32:24] [Info] Disconnect clients4.google.com:443
+[2018-09-18 10:32:26] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-09-18 10:32:44] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:32:44] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:33:49] [Info] Connect client-office365-tas.msedge.net:443
+[2018-09-18 10:33:49] [Info] Connect config.edge.skype.com:443
+[2018-09-18 10:34:09] [Info] Connect roaming.officeapps.live.com:443
+[2018-09-18 10:34:10] [Info] Disconnect roaming.officeapps.live.com:443
+[2018-09-18 10:34:18] [Info] Connect chrome.google.com:443
+[2018-09-18 10:34:18] [Info] Connect www.google.com:443
+[2018-09-18 10:34:18] [Info] Direct connect ssl.google-analytics.com:443
+[2018-09-18 10:34:18] [Info] Connect www.gstatic.com:443
+[2018-09-18 10:34:18] [Info] Connect apis.google.com:443
+[2018-09-18 10:34:18] [Info] Connect ssl.gstatic.com:443
+[2018-09-18 10:34:18] [Info] Direct connect fonts.gstatic.com:443
+[2018-09-18 10:34:19] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-09-18 10:34:20] [Info] Direct connect csi.gstatic.com:443
+[2018-09-18 10:34:21] [Info] Connect lh3.googleusercontent.com:443
+[2018-09-18 10:34:24] [Info] Connect clients4.google.com:443
+[2018-09-18 10:34:46] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:34:46] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:34:56] [Info] Disconnect client-office365-tas.msedge.net:443
+[2018-09-18 10:34:58] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:34:59] [Info] Disconnect config.edge.skype.com:443
+[2018-09-18 10:34:59] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:34:59] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:34:59] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:35:00] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:35:00] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:35:00] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:35:00] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:35:00] [Info] Direct connect suggestion.baidu.com:80
+[2018-09-18 10:35:01] [Info] Direct connect www.baidu.com:443
+[2018-09-18 10:35:01] [Info] Direct connect www.baidu.com:443
+[2018-09-18 10:35:01] [Info] Disconnect ssl.gstatic.com:443
+[2018-09-18 10:35:01] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 10:35:01] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 10:35:01] [Info] Direct connect ss2.baidu.com:443
+[2018-09-18 10:35:01] [Info] Direct connect ss0.bdstatic.com:443
+[2018-09-18 10:35:02] [Info] Direct connect ss1.baidu.com:443
+[2018-09-18 10:35:02] [Info] Direct connect ss1.baidu.com:443
+[2018-09-18 10:35:02] [Info] Direct connect ss1.baidu.com:443
+[2018-09-18 10:35:02] [Info] Direct connect ss0.baidu.com:443
+[2018-09-18 10:35:02] [Info] Direct connect ss0.baidu.com:443
+[2018-09-18 10:35:02] [Info] Direct connect ss0.baidu.com:443
+[2018-09-18 10:35:02] [Info] Direct connect sp0.baidu.com:443
+[2018-09-18 10:35:03] [Info] Direct connect sp2.baidu.com:443
+[2018-09-18 10:35:03] [Info] Direct connect ss1.bdstatic.com:443
+[2018-09-18 10:35:03] [Info] Direct connect jingyan.baidu.com:80
+[2018-09-18 10:35:03] [Info] Direct connect jingyan.baidu.com:443
+[2018-09-18 10:35:04] [Info] Direct connect exp.bdstatic.com:443
+[2018-09-18 10:35:04] [Info] Direct connect exp.bdstatic.com:443
+[2018-09-18 10:35:04] [Info] Direct connect exp.bdstatic.com:443
+[2018-09-18 10:35:04] [Info] Direct connect exp.bdstatic.com:443
+[2018-09-18 10:35:04] [Info] Direct connect exp.bdstatic.com:443
+[2018-09-18 10:35:04] [Info] Direct connect exp.bdstatic.com:443
+[2018-09-18 10:35:04] [Info] Direct connect fex.bdstatic.com:443
+[2018-09-18 10:35:04] [Info] Direct connect hm.baidu.com:443
+[2018-09-18 10:35:04] [Info] Direct connect himg.bdimg.com:443
+[2018-09-18 10:35:04] [Info] Direct connect kstj.baidu.com:443
+[2018-09-18 10:35:05] [Info] Direct connect jingyan.baidu.com:443
+[2018-09-18 10:35:05] [Info] Direct connect imgsa.baidu.com:443
+[2018-09-18 10:35:05] [Info] Direct connect imgsa.baidu.com:443
+[2018-09-18 10:35:05] [Info] Direct connect imgsa.baidu.com:443
+[2018-09-18 10:35:05] [Info] Direct connect imgsa.baidu.com:443
+[2018-09-18 10:35:05] [Info] Direct connect imgsa.baidu.com:443
+[2018-09-18 10:35:05] [Info] Direct connect imgsa.baidu.com:443
+[2018-09-18 10:35:05] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 10:35:05] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 10:35:32] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 10:35:32] [Info] Connect google.com:443
+[2018-09-18 10:35:32] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-09-18 10:35:36] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 10:35:36] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 10:36:19] [Info] Disconnect www.gstatic.com:443
+[2018-09-18 10:36:21] [Info] Direct connect ss1.baidu.com:443
+[2018-09-18 10:36:21] [Info] Direct connect ss2.baidu.com:443
+[2018-09-18 10:36:21] [Info] Direct connect ss0.baidu.com:443
+[2018-09-18 10:36:21] [Info] Direct connect ss0.bdstatic.com:443
+[2018-09-18 10:36:21] [Info] Direct connect ss1.bdstatic.com:443
+[2018-09-18 10:36:21] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Connect ben.crxmouse.com:443
+[2018-09-18 10:36:21] [Info] Direct connect libs.baidu.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect push.zhanzhang.baidu.com:80
+[2018-09-18 10:36:21] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Disconnect www.google.com:443
+[2018-09-18 10:36:21] [Info] Disconnect apis.google.com:443
+[2018-09-18 10:36:21] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:21] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:22] [Info] Direct connect hm.baidu.com:443
+[2018-09-18 10:36:22] [Info] Direct connect api.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Connect clients1.google.com:443
+[2018-09-18 10:36:22] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:22] [Info] Direct connect files.iaxure.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:22] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect api.share.baidu.com:80
+[2018-09-18 10:36:22] [Info] Direct connect www.iaxure.com:80
+[2018-09-18 10:36:25] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-09-18 10:36:25] [Info] Direct connect api.share.baidu.com:80
+[2018-09-18 10:36:25] [Info] Direct connect nsclick.baidu.com:80
+[2018-09-18 10:36:47] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:36:47] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:37:00] [Info] Direct connect hm.baidu.com:443
+[2018-09-18 10:37:00] [Info] Direct connect jingyan.baidu.com:443
+[2018-09-18 10:37:00] [Info] Direct connect kstj.baidu.com:443
+[2018-09-18 10:37:00] [Info] Direct connect gsp1.baidu.com:443
+[2018-09-18 10:37:00] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 10:37:27] [Info] Disconnect ben.crxmouse.com:443
+[2018-09-18 10:37:39] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 10:37:41] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-09-18 10:37:50] [Info] Connect v10.events.data.microsoft.com:443
+[2018-09-18 10:37:54] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-09-18 10:37:58] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-09-18 10:38:24] [Info] Disconnect clients1.google.com:443
+[2018-09-18 10:38:31] [Info] Connect cdn.onenote.net:443
+[2018-09-18 10:38:48] [Info] Disconnect mtalk.google.com:5228
+[2018-09-18 10:38:48] [Info] Connect mtalk.google.com:5228
+[2018-09-18 10:39:01] [Info] Disconnect google.com:443
+[2018-09-18 10:39:32] [Info] Disconnect cdn.onenote.net:443
+[2018-09-18 10:40:00] [Info] Disconnect clients4.google.com:443
+[2018-09-18 10:40:00] [Info] Direct connect nsclick.baidu.com:80
+[2018-09-18 10:40:00] [Info] Direct connect hm.baidu.com:443
+[2018-09-18 10:40:11] [Info] Connect clients4.google.com:443

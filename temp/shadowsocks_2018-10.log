@@ -1,0 +1,1916 @@
+[2018-10-10 16:49:02] ShadowsocksR started on port 10800
+[2018-10-10 16:49:05] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-10 16:49:05] [Info] Connect www.googleapis.com:443
+[2018-10-10 16:49:08] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-10 16:49:08] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-10 16:49:08] [Info] Direct connect mail.dimpt.com:80
+[2018-10-10 16:49:09] [Info] Connect ben.crxmouse.com:443
+[2018-10-10 16:49:11] [Info] Connect raw.githubusercontent.com:443
+[2018-10-10 16:49:12] [Info] Disconnect www.googleapis.com:443
+[2018-10-10 16:49:12] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-10 16:49:12] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-10 16:49:12] [Info] Connect raw.githubusercontent.com:443
+[2018-10-10 16:49:13] [Error] connect to update server error
+[2018-10-10 16:49:45] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-10 16:49:45] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-10 16:49:48] [Info] Connect sb-ssl.google.com:443
+[2018-10-10 16:50:08] [Info] Connect www.googleapis.com:443
+[2018-10-10 16:50:09] [Info] Connect clients4.google.com:443
+[2018-10-10 16:50:15] [Info] Connect clients2.google.com:443
+[2018-10-10 16:50:17] [Info] Connect clients2.googleusercontent.com:443
+[2018-10-12 14:00:25] ShadowsocksR started on port 10800
+[2018-10-12 14:00:27] [Info] Connect clients1.google.com:443
+[2018-10-12 14:00:35] [Info] Connect raw.githubusercontent.com:443
+[2018-10-12 14:00:36] [Error] connect to update server error
+[2018-10-12 14:00:49] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-12 14:00:51] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-12 14:00:56] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:00:56] [Info] Connect bt.byr.cn:80
+[2018-10-12 14:00:57] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:00:57] [Info] Connect bt.byr.cn:443
+[2018-10-12 14:00:57] [Info] Disconnect bt.byr.cn:80
+[2018-10-12 14:00:59] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:01:02] [Info] Direct connect www.google-analytics.com:443
+[2018-10-12 14:01:02] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-12 14:01:08] [Info] Connect ia.media-imdb.com:443
+[2018-10-12 14:01:08] [Info] Connect clients2.google.com:443
+[2018-10-12 14:01:09] [Info] Connect p.media-imdb.com:443
+[2018-10-12 14:01:09] [Info] Connect p.media-imdb.com:443
+[2018-10-12 14:01:09] [Info] Connect p.media-imdb.com:443
+[2018-10-12 14:01:09] [Info] Connect p.media-imdb.com:443
+[2018-10-12 14:01:09] [Info] Connect p.media-imdb.com:443
+[2018-10-12 14:01:09] [Info] Connect p.media-imdb.com:443
+[2018-10-12 14:01:09] [Info] Connect clients2.googleusercontent.com:443
+[2018-10-12 14:01:45] [Info] Connect android.clients.google.com:443
+[2018-10-12 14:01:45] [Info] Direct connect mail.dimpt.com:80
+[2018-10-12 14:01:45] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-12 14:01:50] [Info] Connect android.clients.google.com:443
+[2018-10-12 14:01:51] [Info] Connect www.googleapis.com:443
+[2018-10-12 14:01:52] [Info] Connect clients4.google.com:443
+[2018-10-12 14:02:16] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-12 14:02:42] [Info] Connect mtalk.google.com:443
+[2018-10-12 14:02:52] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:03:10] [Info] Disconnect clients1.google.com:443
+[2018-10-12 14:03:10] [Info] Disconnect clients2.google.com:443
+[2018-10-12 14:03:14] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-10-12 14:03:14] [Info] Disconnect p.media-imdb.com:443
+[2018-10-12 14:03:15] [Info] Disconnect p.media-imdb.com:443
+[2018-10-12 14:03:15] [Info] Disconnect p.media-imdb.com:443
+[2018-10-12 14:03:15] [Info] Disconnect p.media-imdb.com:443
+[2018-10-12 14:03:15] [Info] Disconnect p.media-imdb.com:443
+[2018-10-12 14:03:15] [Info] Disconnect p.media-imdb.com:443
+[2018-10-12 14:03:38] [Info] Disconnect bt.byr.cn:443
+[2018-10-12 14:03:38] [Info] Disconnect ia.media-imdb.com:443
+[2018-10-12 14:03:52] [Info] Disconnect android.clients.google.com:443
+[2018-10-12 14:03:55] [Info] Disconnect www.googleapis.com:443
+[2018-10-12 14:03:55] [Info] Disconnect clients4.google.com:443
+[2018-10-12 14:04:35] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-12 14:04:35] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-12 14:04:35] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-12 14:04:35] [Info] Connect notification.adblockplus.org:443
+[2018-10-12 14:04:37] [Info] Connect ocsp.usertrust.com:80
+[2018-10-12 14:04:38] [Info] Connect ocsp.comodoca.com:80
+[2018-10-12 14:04:38] [Info] Disconnect ocsp.usertrust.com:80
+[2018-10-12 14:04:38] [Info] Connect ocsp.comodoca.com:80
+[2018-10-12 14:04:38] [Info] Disconnect ocsp.comodoca.com:80
+[2018-10-12 14:04:39] [Info] Disconnect ocsp.comodoca.com:80
+[2018-10-12 14:04:39] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-12 14:04:39] [Info] Disconnect notification.adblockplus.org:443
+[2018-10-12 14:04:39] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-12 14:04:40] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-12 14:04:42] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-12 14:04:44] [Info] Disconnect mtalk.google.com:443
+[2018-10-12 14:04:44] [Info] Connect mtalk.google.com:5228
+[2018-10-12 14:04:48] [Info] Connect ssl.gstatic.com:443
+[2018-10-12 14:04:48] [Info] Connect ssl.gstatic.com:443
+[2018-10-12 14:04:48] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-12 14:04:49] [Info] Connect android.clients.google.com:443
+[2018-10-12 14:05:06] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:05:06] [Info] Connect ia.media-imdb.com:443
+[2018-10-12 14:05:06] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:05:07] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:05:07] [Info] Connect p.media-imdb.com:443
+[2018-10-12 14:05:07] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:05:08] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:05:08] [Info] Connect bt.byr.cn:443
+[2018-10-12 14:05:08] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:05:08] [Info] Connect bt.byr.cn:443
+[2018-10-12 14:05:08] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:05:08] [Info] Connect bt.byr.cn:443
+[2018-10-12 14:05:08] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:05:08] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:05:08] [Info] Connect bt.byr.cn:443
+[2018-10-12 14:05:08] [Info] Connect bt.byr.cn:443
+[2018-10-12 14:05:08] [Debug] DNS query fail: bt.byr.cn
+[2018-10-12 14:05:08] [Info] Connect bt.byr.cn:443
+[2018-10-12 14:05:09] [Info] Connect translate.googleapis.com:443
+[2018-10-12 14:05:35] [Info] Connect raw.githubusercontent.com:443
+[2018-10-12 14:05:36] [Error] connect to update server error
+[2018-10-12 14:05:38] [Info] Disconnect p.media-imdb.com:443
+[2018-10-12 14:06:12] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:06:12] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:06:12] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:06:12] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:06:12] [Info] Disconnect bt.byr.cn:443
+[2018-10-12 14:06:12] [Info] Disconnect bt.byr.cn:443
+[2018-10-12 14:06:12] [Info] Disconnect bt.byr.cn:443
+[2018-10-12 14:06:12] [Info] Disconnect bt.byr.cn:443
+[2018-10-12 14:06:12] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-12 14:06:12] [Info] Disconnect bt.byr.cn:443
+[2018-10-12 14:06:12] [Info] Disconnect bt.byr.cn:443
+[2018-10-12 14:06:12] [Info] Disconnect ia.media-imdb.com:443
+[2018-10-12 14:06:45] [Info] Disconnect mtalk.google.com:5228
+[2018-10-12 14:06:45] [Info] Connect mtalk.google.com:5228
+[2018-10-12 14:06:46] [Info] Connect track.tiara.daum.net:443
+[2018-10-12 14:06:46] [Info] Connect play.kakao.com:443
+[2018-10-12 14:06:46] [Info] Direct connect mail.dimpt.com:80
+[2018-10-12 14:06:46] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-12 14:06:47] [Info] Connect s.symcd.com:80
+[2018-10-12 14:06:47] [Info] Connect ocsp.digicert.com:80
+[2018-10-12 14:06:48] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:06:48] [Info] Disconnect s.symcd.com:80
+[2018-10-12 14:06:48] [Info] Connect status.thawte.com:80
+[2018-10-12 14:06:48] [Info] Disconnect ocsp.digicert.com:80
+[2018-10-12 14:06:48] [Info] Connect status.thawte.com:80
+[2018-10-12 14:06:49] [Info] Disconnect status.thawte.com:80
+[2018-10-12 14:06:49] [Info] Disconnect status.thawte.com:80
+[2018-10-12 14:06:49] [Info] Connect get.daum.net:80
+[2018-10-12 14:06:50] [Info] Disconnect play.kakao.com:443
+[2018-10-12 14:06:50] [Info] Connect t1.daumcdn.net:80
+[2018-10-12 14:06:50] [Info] Disconnect get.daum.net:80
+[2018-10-12 14:06:50] [Info] Connect tl.symcb.com:80
+[2018-10-12 14:06:51] [Info] Disconnect t1.daumcdn.net:80
+[2018-10-12 14:06:51] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-12 14:06:51] [Info] Disconnect android.clients.google.com:443
+[2018-10-12 14:06:52] [Debug] DNS query fail: potplayertv.daum.net
+[2018-10-12 14:06:52] [Info] Connect potplayertv.daum.net:80
+[2018-10-12 14:06:52] [Info] Disconnect tl.symcb.com:80
+[2018-10-12 14:06:53] [Info] Disconnect potplayertv.daum.net:80
+[2018-10-12 14:06:53] [Info] Connect t1.daumcdn.net:80
+[2018-10-12 14:06:53] [Info] Connect t1.daumcdn.net:80
+[2018-10-12 14:06:53] [Info] Disconnect t1.daumcdn.net:80
+[2018-10-12 14:07:11] [Info] Disconnect translate.googleapis.com:443
+[2018-10-12 14:07:16] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-12 14:07:31] [Info] Disconnect t1.daumcdn.net:80
+[2018-10-12 14:07:32] [Info] Connect t1.daumcdn.net:80
+[2018-10-12 14:07:32] [Info] Disconnect t1.daumcdn.net:80
+[2018-10-12 14:07:55] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:08:05] [Info] Disconnect track.tiara.daum.net:443
+[2018-10-12 14:08:24] [Info] Connect clients4.google.com:443
+[2018-10-12 14:08:46] [Info] Disconnect mtalk.google.com:5228
+[2018-10-12 14:08:46] [Info] Connect mtalk.google.com:5228
+[2018-10-12 14:09:00] [Info] Connect cdn.mxpnl.com:443
+[2018-10-12 14:09:00] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-12 14:09:00] [Info] Connect lh5.googleusercontent.com:443
+[2018-10-12 14:09:00] [Info] Connect securetoken.googleapis.com:443
+[2018-10-12 14:09:00] [Info] Connect www.googleapis.com:443
+[2018-10-12 14:09:01] [Info] Direct connect www.baidu.com:443
+[2018-10-12 14:09:01] [Info] Direct connect www.baidu.com:443
+[2018-10-12 14:09:01] [Info] Direct connect ss1.baidu.com:443
+[2018-10-12 14:09:01] [Info] Direct connect ss0.bdstatic.com:443
+[2018-10-12 14:09:01] [Info] Direct connect ss0.baidu.com:443
+[2018-10-12 14:09:01] [Info] Direct connect sp0.baidu.com:443
+[2018-10-12 14:09:01] [Info] Direct connect ss1.bdstatic.com:443
+[2018-10-12 14:09:01] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:09:01] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:09:01] [Info] Direct connect ss2.baidu.com:443
+[2018-10-12 14:09:05] [Info] Direct connect sp2.baidu.com:443
+[2018-10-12 14:09:05] [Info] Direct connect jingyan.baidu.com:80
+[2018-10-12 14:09:06] [Info] Direct connect jingyan.baidu.com:443
+[2018-10-12 14:09:06] [Info] Direct connect exp.bdstatic.com:443
+[2018-10-12 14:09:06] [Info] Direct connect exp.bdstatic.com:443
+[2018-10-12 14:09:06] [Info] Direct connect exp.bdstatic.com:443
+[2018-10-12 14:09:06] [Info] Direct connect exp.bdstatic.com:443
+[2018-10-12 14:09:06] [Info] Direct connect exp.bdstatic.com:443
+[2018-10-12 14:09:06] [Info] Direct connect exp.bdstatic.com:443
+[2018-10-12 14:09:06] [Info] Direct connect hm.baidu.com:443
+[2018-10-12 14:09:06] [Info] Direct connect himg.bdimg.com:443
+[2018-10-12 14:09:07] [Info] Direct connect kstj.baidu.com:443
+[2018-10-12 14:09:07] [Info] Direct connect jingyan.baidu.com:443
+[2018-10-12 14:09:07] [Info] Direct connect imgsa.baidu.com:443
+[2018-10-12 14:09:07] [Info] Direct connect imgsa.baidu.com:443
+[2018-10-12 14:09:07] [Info] Direct connect imgsa.baidu.com:443
+[2018-10-12 14:09:07] [Info] Direct connect imgsa.baidu.com:443
+[2018-10-12 14:09:07] [Info] Direct connect imgsa.baidu.com:443
+[2018-10-12 14:09:07] [Info] Direct connect imgsa.baidu.com:443
+[2018-10-12 14:09:07] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:09:07] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:09:16] [Info] Direct connect gsp1.baidu.com:443
+[2018-10-12 14:09:16] [Info] Disconnect cdn.mxpnl.com:443
+[2018-10-12 14:09:16] [Info] Disconnect lh5.googleusercontent.com:443
+[2018-10-12 14:10:27] [Info] Disconnect clients4.google.com:443
+[2018-10-12 14:10:47] [Info] Disconnect mtalk.google.com:5228
+[2018-10-12 14:10:48] [Info] Connect mtalk.google.com:5228
+[2018-10-12 14:11:02] [Info] Disconnect securetoken.googleapis.com:443
+[2018-10-12 14:11:04] [Info] Disconnect www.googleapis.com:443
+[2018-10-12 14:11:15] [Info] Connect t1.daumcdn.net:80
+[2018-10-12 14:11:16] [Debug] DNS query fail: potplayertv.daum.net
+[2018-10-12 14:11:16] [Info] Connect potplayertv.daum.net:80
+[2018-10-12 14:11:16] [Info] Disconnect t1.daumcdn.net:80
+[2018-10-12 14:11:16] [Info] Disconnect potplayertv.daum.net:80
+[2018-10-12 14:11:48] [Info] Direct connect mail.dimpt.com:80
+[2018-10-12 14:11:48] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-12 14:11:48] [Info] Connect beacons5.gvt3.com:443
+[2018-10-12 14:11:48] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:11:53] [Info] Disconnect beacons5.gvt3.com:443
+[2018-10-12 14:11:53] [Info] Connect beacons5.gvt3.com:443
+[2018-10-12 14:11:54] [Info] Disconnect beacons5.gvt3.com:443
+[2018-10-12 14:12:49] [Info] Disconnect mtalk.google.com:5228
+[2018-10-12 14:12:49] [Info] Connect mtalk.google.com:5228
+[2018-10-12 14:12:56] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-12 14:13:05] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-12 14:13:05] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-12 14:13:05] [Info] Connect ben.crxmouse.com:443
+[2018-10-12 14:13:05] [Info] Connect beacons5.gvt3.com:443
+[2018-10-12 14:13:05] [Info] Connect clients1.google.com:443
+[2018-10-12 14:13:06] [Info] Disconnect beacons5.gvt3.com:443
+[2018-10-12 14:13:07] [Info] Direct connect beacons.gvt2.com:443
+[2018-10-12 14:13:08] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-12 14:13:08] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-23 12:04:34] ShadowsocksR started on port 10800
+[2018-10-23 12:04:34] [Info] Connect clients1.google.com:443
+[2018-10-23 12:04:40] [Info] Connect dc.ads.linkedin.com:443
+[2018-10-23 12:04:40] [Info] Connect d1.awsstatic.com:443
+[2018-10-23 12:04:40] [Info] Connect a0.awsstatic.com:443
+[2018-10-23 12:04:41] [Info] Connect aws.amazon.com:443
+[2018-10-23 12:04:41] [Info] Connect aws.amazon.com:443
+[2018-10-23 12:04:42] [Info] Connect ben.crxmouse.com:443
+[2018-10-23 12:04:42] [Info] Connect fls-na.amazon.com:443
+[2018-10-23 12:04:43] [Info] Connect a0.awsstatic.com:443
+[2018-10-23 12:04:43] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:04:43] [Info] Connect amazonwebservices.d2.sc.omtrdc.net:443
+[2018-10-23 12:04:43] [Info] Connect 112-tzm-766.mktoresp.com:443
+[2018-10-23 12:04:43] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:04:43] [Info] Direct connect googleads.g.doubleclick.net:443
+[2018-10-23 12:04:43] [Info] Connect raw.githubusercontent.com:443
+[2018-10-23 12:04:44] [Error] connect to update server error
+[2018-10-23 12:04:46] [Info] Connect s0.awsstatic.com:443
+[2018-10-23 12:04:46] [Info] Connect s0.awsstatic.com:443
+[2018-10-23 12:04:46] [Info] Connect s0.awsstatic.com:443
+[2018-10-23 12:04:48] [Info] Connect amazonwebservices.d2.sc.omtrdc.net:443
+[2018-10-23 12:04:51] [Info] Connect translate.googleapis.com:443
+[2018-10-23 12:04:51] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:05:03] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:05:03] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:05:04] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:05:24] [Info] Disconnect amazonwebservices.d2.sc.omtrdc.net:443
+[2018-10-23 12:05:50] [Info] Disconnect aws.amazon.com:443
+[2018-10-23 12:05:56] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-23 12:05:58] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-23 12:05:58] [Info] Disconnect s0.awsstatic.com:443
+[2018-10-23 12:05:58] [Info] Disconnect s0.awsstatic.com:443
+[2018-10-23 12:05:58] [Info] Connect amazonwebservices.d2.sc.omtrdc.net:443
+[2018-10-23 12:05:59] [Info] Connect aws.amazon.com:443
+[2018-10-23 12:05:59] [Info] Connect ben.crxmouse.com:443
+[2018-10-23 12:05:59] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:05:59] [Info] Connect amazonwebservices.d2.sc.omtrdc.net:443
+[2018-10-23 12:06:00] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:00] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:00] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:00] [Info] Connect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:12] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:12] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:12] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:12] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:12] [Info] Disconnect amazonwebservicesinc.tt.omtrdc.net:443
+[2018-10-23 12:06:25] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-23 12:06:31] [Info] Disconnect amazonwebservices.d2.sc.omtrdc.net:443
+[2018-10-23 12:06:34] [Info] Disconnect amazonwebservices.d2.sc.omtrdc.net:443
+[2018-10-23 12:06:44] [Info] Disconnect a0.awsstatic.com:443
+[2018-10-23 12:06:52] [Info] Disconnect translate.googleapis.com:443
+[2018-10-23 12:06:54] [Info] Disconnect d1.awsstatic.com:443
+[2018-10-23 12:06:54] [Info] Disconnect a0.awsstatic.com:443
+[2018-10-23 12:07:00] [Info] Disconnect aws.amazon.com:443
+[2018-10-23 12:07:01] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-23 12:07:01] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-23 12:07:06] [Info] Disconnect aws.amazon.com:443
+[2018-10-23 12:07:18] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-23 12:07:18] [Info] Connect android.clients.google.com:443
+[2018-10-23 12:07:24] [Info] Connect v20.events.data.microsoft.com:443
+[2018-10-23 12:07:24] [Info] Connect android.clients.google.com:443
+[2018-10-23 12:07:25] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-10-23 12:07:55] [Info] Disconnect dc.ads.linkedin.com:443
+[2018-10-23 12:08:00] [Info] Disconnect 112-tzm-766.mktoresp.com:443
+[2018-10-23 12:08:02] [Info] Disconnect s0.awsstatic.com:443
+[2018-10-23 12:08:02] [Info] Disconnect fls-na.amazon.com:443
+[2018-10-23 12:08:25] [Info] Connect clients4.google.com:443
+[2018-10-23 12:08:43] [Info] Connect mtalk.google.com:443
+[2018-10-23 12:09:02] [Info] Disconnect clients1.google.com:443
+[2018-10-23 12:09:26] [Info] Disconnect android.clients.google.com:443
+[2018-10-23 12:09:43] [Info] Connect raw.githubusercontent.com:443
+[2018-10-23 12:09:44] [Error] connect to update server error
+[2018-10-23 12:10:28] [Info] Disconnect clients4.google.com:443
+[2018-10-23 12:10:45] [Info] Disconnect mtalk.google.com:443
+[2018-10-23 12:10:45] [Info] Connect mtalk.google.com:5228
+[2018-10-23 12:10:49] [Info] Connect android.clients.google.com:443
+[2018-10-23 12:10:50] [Info] Connect www.googleapis.com:443
+[2018-10-23 12:10:50] [Info] Connect clients4.google.com:443
+[2018-10-23 12:11:24] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-23 12:11:40] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-23 12:12:23] [Info] Connect clients2.google.com:443
+[2018-10-23 12:12:24] [Info] Connect clients2.googleusercontent.com:443
+[2018-10-23 12:12:32] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:32] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:33] [Info] Connect ben.crxmouse.com:443
+[2018-10-23 12:12:33] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:33] [Info] Connect cdnjs.cloudflare.com:443
+[2018-10-23 12:12:33] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:33] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:33] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:34] [Info] Connect js.stripe.com:443
+[2018-10-23 12:12:34] [Info] Connect checkout.stripe.com:443
+[2018-10-23 12:12:37] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:38] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:38] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:38] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:38] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:38] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:39] [Info] Connect js.stripe.com:443
+[2018-10-23 12:12:40] [Info] Direct connect www.google-analytics.com:443
+[2018-10-23 12:12:40] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:40] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:40] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:40] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:40] [Info] Connect getadblock.com:443
+[2018-10-23 12:12:40] [Info] Connect log.getadblock.com:443
+[2018-10-23 12:12:44] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:44] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:44] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:44] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:45] [Info] Disconnect getadblock.com:443
+[2018-10-23 12:12:45] [Info] Disconnect log.getadblock.com:443
+[2018-10-23 12:12:51] [Info] Disconnect android.clients.google.com:443
+[2018-10-23 12:12:55] [Info] Disconnect mtalk.google.com:5228
+[2018-10-23 12:12:55] [Info] Connect mtalk.google.com:5228
+[2018-10-23 12:13:22] [Info] Connect clients4.google.com:443
+[2018-10-23 12:13:40] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-23 12:14:24] [Info] Disconnect www.googleapis.com:443
+[2018-10-23 12:14:26] [Info] Disconnect clients2.google.com:443
+[2018-10-23 12:14:34] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-10-23 12:14:36] [Info] Disconnect cdnjs.cloudflare.com:443
+[2018-10-23 12:14:36] [Info] Disconnect checkout.stripe.com:443
+[2018-10-23 12:14:40] [Info] Disconnect js.stripe.com:443
+[2018-10-23 12:14:54] [Info] Disconnect clients4.google.com:443
+[2018-10-23 12:14:56] [Info] Disconnect mtalk.google.com:5228
+[2018-10-23 12:14:56] [Info] Connect mtalk.google.com:5228
+[2018-10-23 12:15:11] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-23 12:15:13] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-23 12:15:27] [Info] Disconnect clients4.google.com:443
+[2018-10-23 12:16:57] [Info] Disconnect mtalk.google.com:5228
+[2018-10-23 12:16:57] [Info] Connect mtalk.google.com:5228
+[2018-10-23 12:18:58] [Info] Disconnect mtalk.google.com:5228
+[2018-10-23 12:18:58] [Info] Connect mtalk.google.com:5228
+[2018-10-23 12:19:34] [Info] Direct connect console.amazonaws.cn:443
+[2018-10-23 12:19:34] [Info] Direct connect console.amazonaws.cn:443
+[2018-10-23 12:19:34] [Info] Direct connect console.amazonaws.cn:443
+[2018-10-23 12:21:00] [Info] Disconnect mtalk.google.com:5228
+[2018-10-23 12:21:00] [Info] Connect mtalk.google.com:5228
+[2018-10-23 12:21:55] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-23 12:21:57] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-24 10:02:52] ShadowsocksR started on port 10800
+[2018-10-24 10:02:53] [Info] Connect cdn.onenote.net:443
+[2018-10-24 10:02:55] [Debug] DNS query fail: bt.byr.cn
+[2018-10-24 10:02:55] [Info] Connect bt.byr.cn:80
+[2018-10-24 10:02:55] [Info] Connect ia.media-imdb.com:443
+[2018-10-24 10:02:56] [Info] Disconnect bt.byr.cn:80
+[2018-10-24 10:02:56] [Info] Connect www.howsmyssl.com:443
+[2018-10-24 10:02:56] [Info] Connect ben.crxmouse.com:443
+[2018-10-24 10:02:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-24 10:02:58] [Debug] DNS query fail: bt.byr.cn
+[2018-10-24 10:02:58] [Info] Connect bt.byr.cn:80
+[2018-10-24 10:02:58] [Info] Disconnect www.howsmyssl.com:443
+[2018-10-24 10:02:59] [Debug] DNS query fail: bt.byr.cn
+[2018-10-24 10:02:59] [Info] Connect bt.byr.cn:443
+[2018-10-24 10:02:59] [Info] Disconnect bt.byr.cn:80
+[2018-10-24 10:03:02] [Info] Connect raw.githubusercontent.com:443
+[2018-10-24 10:03:02] [Error] connect to update server error
+[2018-10-24 10:03:03] [Info] Direct connect www.google-analytics.com:443
+[2018-10-24 10:03:03] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-24 10:03:06] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-10-24 10:03:06] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-10-24 10:03:12] [Info] Direct connect mail.dimpt.com:80
+[2018-10-24 10:03:14] [Info] Disconnect ia.media-imdb.com:443
+[2018-10-24 10:03:21] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-24 10:03:32] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-24 10:03:52] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-24 10:03:53] [Info] Disconnect cdn.onenote.net:443
+[2018-10-24 10:04:20] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-24 10:46:43] ShadowsocksR started on port 10800
+[2018-10-24 10:46:52] [Info] Connect raw.githubusercontent.com:443
+[2018-10-24 10:46:53] [Error] connect to update server error
+[2018-10-24 10:47:05] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-24 10:47:06] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-24 16:31:48] ShadowsocksR started on port 10800
+[2018-10-24 16:31:49] [Info] Connect login.live.com:443
+[2018-10-24 16:31:57] [Debug] DNS query fail: bt.byr.cn
+[2018-10-24 16:31:57] [Info] Connect bt.byr.cn:443
+[2018-10-24 16:31:58] [Info] Connect raw.githubusercontent.com:443
+[2018-10-24 16:31:58] [Error] connect to update server error
+[2018-10-24 16:31:59] [Info] Connect ben.crxmouse.com:443
+[2018-10-24 16:32:01] [Info] Direct connect www.google-analytics.com:443
+[2018-10-24 16:32:01] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-24 16:32:04] [Info] Connect ia.media-imdb.com:443
+[2018-10-24 16:32:04] [Info] Connect clients1.google.com:443
+[2018-10-24 16:32:05] [Info] Connect p.media-imdb.com:443
+[2018-10-24 16:32:05] [Info] Connect p.media-imdb.com:443
+[2018-10-24 16:32:05] [Info] Connect p.media-imdb.com:443
+[2018-10-24 16:32:05] [Info] Connect p.media-imdb.com:443
+[2018-10-24 16:32:05] [Info] Connect p.media-imdb.com:443
+[2018-10-24 16:32:05] [Info] Connect p.media-imdb.com:443
+[2018-10-24 16:32:19] [Info] Connect cdn.onenote.net:443
+[2018-10-24 16:32:52] [Info] Disconnect login.live.com:443
+[2018-10-24 16:33:19] [Info] Disconnect cdn.onenote.net:443
+[2018-10-24 16:33:23] [Info] Connect clients4.google.com:443
+[2018-10-24 16:33:38] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-24 16:33:47] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-24 16:33:53] [Info] Connect mtalk.google.com:443
+[2018-10-24 16:33:54] [Info] Disconnect clients4.google.com:443
+[2018-10-24 16:33:59] [Info] Connect mtalk.google.com:443
+[2018-10-24 16:34:04] [Info] Connect mtalk.google.com:443
+[2018-10-24 16:34:06] [Info] Disconnect clients1.google.com:443
+[2018-10-24 16:34:06] [Info] Disconnect p.media-imdb.com:443
+[2018-10-24 16:34:06] [Info] Disconnect p.media-imdb.com:443
+[2018-10-24 16:34:06] [Info] Disconnect p.media-imdb.com:443
+[2018-10-24 16:34:06] [Info] Disconnect p.media-imdb.com:443
+[2018-10-24 16:34:06] [Info] Disconnect p.media-imdb.com:443
+[2018-10-24 16:34:06] [Info] Disconnect p.media-imdb.com:443
+[2018-10-24 16:34:09] [Info] Disconnect mtalk.google.com:443
+[2018-10-24 16:34:42] [Info] Disconnect ia.media-imdb.com:443
+[2018-10-24 16:34:42] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-24 16:34:42] [Info] Direct connect mail.dimpt.com:80
+[2018-10-24 16:34:43] [Info] Connect ben.crxmouse.com:443
+[2018-10-24 16:34:49] [Info] Connect ben.crxmouse.com:443
+[2018-10-24 16:34:50] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-24 16:34:54] [Info] Connect ben.crxmouse.com:443
+[2018-10-24 16:34:59] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-24 16:35:12] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-24 16:35:17] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-24 16:35:23] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-24 16:35:37] [Info] Connect www.googleapis.com:443
+[2018-10-24 16:35:43] [Info] Connect www.googleapis.com:443
+[2018-10-24 16:35:45] [Info] Direct connect hq.mail.chinaunicom.cn:443
+[2018-10-31 14:59:36] ShadowsocksR started on port 10800
+[2018-10-31 14:59:36] [Info] Connect clients1.google.com:443
+[2018-10-31 14:59:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 14:59:40] [Info] Connect translate.google.com.hk:443
+[2018-10-31 14:59:40] [Info] Connect translate.google.com.hk:443
+[2018-10-31 14:59:40] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 14:59:41] [Info] Direct connect fonts.googleapis.com:443
+[2018-10-31 14:59:41] [Info] Direct connect fonts.gstatic.com:443
+[2018-10-31 14:59:41] [Info] Connect www.gstatic.com:443
+[2018-10-31 14:59:41] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 14:59:41] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 14:59:41] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 14:59:41] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 14:59:41] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 14:59:42] [Info] Connect apis.google.com:443
+[2018-10-31 14:59:42] [Info] Connect play.google.com:443
+[2018-10-31 14:59:43] [Info] Connect play.google.com:443
+[2018-10-31 14:59:43] [Info] Direct connect csi.gstatic.com:443
+[2018-10-31 14:59:46] [Info] Connect raw.githubusercontent.com:443
+[2018-10-31 14:59:48] [Error] connect to update server error
+[2018-10-31 14:59:50] [Info] Disconnect translate.google.com.hk:443
+[2018-10-31 15:00:13] [Info] Direct connect www.google-analytics.com:443
+[2018-10-31 15:00:13] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-31 15:00:13] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 15:00:13] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 15:00:13] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 15:00:13] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 15:00:13] [Info] Connect www.google.com:443
+[2018-10-31 15:00:13] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-31 15:00:13] [Info] Connect about.gitlab.com:443
+[2018-10-31 15:00:14] [Info] Connect cdn.bizible.com:443
+[2018-10-31 15:00:41] [Info] Connect google.com.hk:443
+[2018-10-31 15:00:48] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 15:00:48] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 15:00:49] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 15:00:49] [Info] Connect onedriveclucprodbn20020.blob.core.windows.net:443
+[2018-10-31 15:00:49] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-31 15:00:49] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-31 15:00:51] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-31 15:00:51] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-31 15:00:57] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:00:57] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:01:07] [Info] Connect v20.events.data.microsoft.com:443
+[2018-10-31 15:01:09] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-10-31 15:01:28] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-31 15:01:31] [Info] Connect 194-vvc-221.mktoresp.com:443
+[2018-10-31 15:01:32] [Info] Direct connect googleads.g.doubleclick.net:443
+[2018-10-31 15:01:32] [Info] Direct connect www.googleadservices.com:443
+[2018-10-31 15:01:32] [Info] Direct connect fonts.gstatic.com:443
+[2018-10-31 15:01:32] [Info] Connect www.linkedin.com:443
+[2018-10-31 15:01:32] [Info] Direct connect www.googletagmanager.com:443
+[2018-10-31 15:01:32] [Info] Connect use.fontawesome.com:443
+[2018-10-31 15:01:32] [Info] Connect cdnjs.cloudflare.com:443
+[2018-10-31 15:01:32] [Info] Connect static.hotjar.com:443
+[2018-10-31 15:01:32] [Info] Connect px.ads.linkedin.com:443
+[2018-10-31 15:01:32] [Info] Connect snap.licdn.com:443
+[2018-10-31 15:01:32] [Info] Connect consent.cookiebot.com:443
+[2018-10-31 15:01:32] [Info] Connect munchkin.marketo.net:443
+[2018-10-31 15:01:32] [Info] Connect script.hotjar.com:443
+[2018-10-31 15:01:32] [Info] Connect s.swiftypecdn.com:443
+[2018-10-31 15:01:32] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:01:32] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:01:32] [Info] Connect cdnjs.cloudflare.com:443
+[2018-10-31 15:01:32] [Info] Disconnect cdnjs.cloudflare.com:443
+[2018-10-31 15:01:32] [Info] Connect www.youtube.com:443
+[2018-10-31 15:01:33] [Info] Connect js.driftt.com:443
+[2018-10-31 15:01:33] [Info] Disconnect consent.cookiebot.com:443
+[2018-10-31 15:01:35] [Info] Direct connect googleads.g.doubleclick.net:443
+[2018-10-31 15:01:35] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:01:38] [Info] Connect i.ytimg.com:443
+[2018-10-31 15:01:38] [Info] Connect yt3.ggpht.com:443
+[2018-10-31 15:01:39] [Info] Disconnect munchkin.marketo.net:443
+[2018-10-31 15:01:39] [Info] Connect s.swiftypecdn.com:443
+[2018-10-31 15:01:39] [Info] Disconnect script.hotjar.com:443
+[2018-10-31 15:01:39] [Info] Connect i.ytimg.com:443
+[2018-10-31 15:01:39] [Info] Disconnect s.swiftypecdn.com:443
+[2018-10-31 15:01:39] [Info] Disconnect snap.licdn.com:443
+[2018-10-31 15:01:39] [Info] Disconnect i.ytimg.com:443
+[2018-10-31 15:01:43] [Info] Disconnect www.gstatic.com:443
+[2018-10-31 15:01:43] [Info] Disconnect apis.google.com:443
+[2018-10-31 15:01:43] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:01:45] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 15:01:45] [Info] Disconnect play.google.com:443
+[2018-10-31 15:02:11] [Info] Connect cc.swiftype.com:443
+[2018-10-31 15:02:11] [Info] Disconnect use.fontawesome.com:443
+[2018-10-31 15:02:18] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 15:02:18] [Info] Connect customer.api.drift.com:443
+[2018-10-31 15:02:18] [Info] Connect customer.api.drift.com:443
+[2018-10-31 15:02:20] [Info] Connect event.api.drift.com:443
+[2018-10-31 15:02:20] [Info] Connect 51189-39.live.api.drift.com:443
+[2018-10-31 15:02:20] [Info] Connect 51189-39.chat.api.drift.com:443
+[2018-10-31 15:02:22] [Info] Connect 51189-39.chat.api.drift.com:443
+[2018-10-31 15:02:22] [Info] Connect 51189-39.live.api.drift.com:443
+[2018-10-31 15:02:26] [Info] Connect conversation.api.drift.com:443
+[2018-10-31 15:02:26] [Info] Connect conversation.api.drift.com:443
+[2018-10-31 15:02:26] [Info] Connect conversation.api.drift.com:443
+[2018-10-31 15:02:27] [Info] Disconnect conversation.api.drift.com:443
+[2018-10-31 15:02:27] [Info] Disconnect conversation.api.drift.com:443
+[2018-10-31 15:02:33] [Info] Connect android.clients.google.com:443
+[2018-10-31 15:02:33] [Info] Connect clients4.google.com:443
+[2018-10-31 15:02:33] [Info] Disconnect customer.api.drift.com:443
+[2018-10-31 15:02:43] [Info] Disconnect google.com.hk:443
+[2018-10-31 15:02:43] [Info] Connect cdn.onenote.net:443
+[2018-10-31 15:02:51] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 15:02:53] [Info] Disconnect onedriveclucprodbn20020.blob.core.windows.net:443
+[2018-10-31 15:02:56] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 15:02:58] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 15:03:03] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:03:06] [Info] Disconnect play.google.com:443
+[2018-10-31 15:03:08] [Info] Disconnect translate.google.com.hk:443
+[2018-10-31 15:03:12] [Info] Connect play.google.com:443
+[2018-10-31 15:03:12] [Info] Disconnect cc.swiftype.com:443
+[2018-10-31 15:03:21] [Info] Disconnect customer.api.drift.com:443
+[2018-10-31 15:03:22] [Info] Disconnect 51189-39.chat.api.drift.com:443
+[2018-10-31 15:03:22] [Info] Disconnect 51189-39.live.api.drift.com:443
+[2018-10-31 15:03:23] [Info] Disconnect event.api.drift.com:443
+[2018-10-31 15:03:24] [Info] Disconnect px.ads.linkedin.com:443
+[2018-10-31 15:03:28] [Info] Disconnect conversation.api.drift.com:443
+[2018-10-31 15:03:31] [Info] Disconnect www.linkedin.com:443
+[2018-10-31 15:03:33] [Info] Disconnect static.hotjar.com:443
+[2018-10-31 15:03:36] [Info] Disconnect 194-vvc-221.mktoresp.com:443
+[2018-10-31 15:03:37] [Info] Disconnect cdn.bizible.com:443
+[2018-10-31 15:03:39] [Info] Disconnect i.ytimg.com:443
+[2018-10-31 15:03:39] [Info] Disconnect s.swiftypecdn.com:443
+[2018-10-31 15:03:39] [Info] Disconnect www.google.com:443
+[2018-10-31 15:03:39] [Info] Disconnect yt3.ggpht.com:443
+[2018-10-31 15:03:45] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-31 15:03:46] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-31 15:03:47] [Info] Disconnect cdn.onenote.net:443
+[2018-10-31 15:03:51] [Info] Disconnect www.youtube.com:443
+[2018-10-31 15:04:12] [Info] Disconnect cdnjs.cloudflare.com:443
+[2018-10-31 15:04:14] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:04:14] [Info] Disconnect about.gitlab.com:443
+[2018-10-31 15:04:34] [Info] Disconnect android.clients.google.com:443
+[2018-10-31 15:04:36] [Info] Disconnect clients4.google.com:443
+[2018-10-31 15:04:46] [Info] Connect raw.githubusercontent.com:443
+[2018-10-31 15:04:46] [Error] connect to update server error
+[2018-10-31 15:05:06] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:05:06] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:05:15] [Info] Disconnect play.google.com:443
+[2018-10-31 15:05:58] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:05:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:05:58] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:06:27] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-31 15:07:05] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:07:07] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:07:07] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:07:29] [Info] Connect js.driftt.com:443
+[2018-10-31 15:09:08] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:09:08] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:09:30] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:10:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:10:58] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:10:58] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:11:10] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:11:10] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:12:05] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:12:30] [Info] Connect js.driftt.com:443
+[2018-10-31 15:13:12] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:13:12] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:14:07] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:14:08] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:14:08] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:14:08] [Info] Direct connect ss0.bdstatic.com:443
+[2018-10-31 15:14:08] [Info] Direct connect sp0.baidu.com:443
+[2018-10-31 15:14:08] [Info] Direct connect ss1.bdstatic.com:443
+[2018-10-31 15:14:08] [Info] Direct connect ss0.baidu.com:443
+[2018-10-31 15:14:08] [Debug] DNS query fail: random.shuffle
+[2018-10-31 15:14:08] [Info] Connect random.shuffle:80
+[2018-10-31 15:14:09] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:14:09] [Info] Disconnect random.shuffle:80
+[2018-10-31 15:14:09] [Info] Connect www.googleapis.com:443
+[2018-10-31 15:14:09] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:14:09] [Info] Connect translate.googleapis.com:443
+[2018-10-31 15:14:13] [Info] Direct connect sp2.baidu.com:443
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect cdn.staticfile.org:443
+[2018-10-31 15:14:13] [Info] Direct connect cdn.staticfile.org:80
+[2018-10-31 15:14:13] [Info] Direct connect cdn.staticfile.org:80
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.googletagmanager.com:443
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect cdn.staticfile.org:80
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect cdn.staticfile.org:443
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:13] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:14] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:14:14] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:14] [Info] Direct connect www.runoob.com:80
+[2018-10-31 15:14:14] [Info] Connect clients1.google.com:443
+[2018-10-31 15:14:14] [Info] Direct connect www.google-analytics.com:443
+[2018-10-31 15:14:14] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-31 15:14:14] [Info] Direct connect static.runoob.com:80
+[2018-10-31 15:14:32] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:15:16] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:15:16] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:15:19] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:15:19] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:15:58] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:15:58] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:16:03] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:16:12] [Info] Disconnect translate.googleapis.com:443
+[2018-10-31 15:16:12] [Info] Disconnect www.googleapis.com:443
+[2018-10-31 15:16:16] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:16:58] [Info] Connect translate.google.com.hk:443
+[2018-10-31 15:16:58] [Info] Connect play.google.com:443
+[2018-10-31 15:16:59] [Info] Connect clients1.google.com:443
+[2018-10-31 15:16:59] [Info] Connect play.google.com:443
+[2018-10-31 15:16:59] [Info] Direct connect csi.gstatic.com:443
+[2018-10-31 15:17:18] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:17:18] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:17:30] [Info] Connect js.driftt.com:443
+[2018-10-31 15:18:02] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 15:18:04] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 15:18:05] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:18:46] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-31 15:18:47] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-31 15:19:00] [Info] Disconnect play.google.com:443
+[2018-10-31 15:19:00] [Info] Disconnect translate.google.com.hk:443
+[2018-10-31 15:19:00] [Info] Disconnect play.google.com:443
+[2018-10-31 15:19:00] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:19:20] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:19:20] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:19:32] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:21:02] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:21:03] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:21:21] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:21:21] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:22:11] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:22:32] [Info] Connect js.driftt.com:443
+[2018-10-31 15:23:22] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:23:22] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:23:23] [Info] Connect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-10-31 15:23:23] [Info] Disconnect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-10-31 15:24:34] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:25:09] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 15:25:10] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 15:25:26] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:25:26] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:26:03] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:26:03] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:26:05] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:27:12] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:27:28] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:27:28] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:27:32] [Info] Connect js.driftt.com:443
+[2018-10-31 15:29:30] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:29:30] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:29:35] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:29:56] [Info] Connect play.google.com:443
+[2018-10-31 15:30:01] [Info] Connect play.google.com:443
+[2018-10-31 15:30:07] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:30:07] [Info] Direct connect csdnimg.cn:443
+[2018-10-31 15:30:07] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect avatar.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect goutong.baidu.com:443
+[2018-10-31 15:30:07] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-10-31 15:30:07] [Info] Direct connect g.csdnimg.cn:443
+[2018-10-31 15:30:07] [Info] Direct connect img-blog.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect www.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect my.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect gsp0.baidu.com:443
+[2018-10-31 15:30:07] [Info] Direct connect static-blog.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect img-ads.csdn.net:443
+[2018-10-31 15:30:07] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:30:07] [Info] Connect play.google.com:443
+[2018-10-31 15:30:07] [Info] Direct connect pv.csdn.net:443
+[2018-10-31 15:30:07] [Info] Direct connect csdnimg.cn:443
+[2018-10-31 15:30:08] [Info] Direct connect statistic.csdn.net:443
+[2018-10-31 15:30:08] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:30:08] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:30:08] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-10-31 15:30:09] [Info] Direct connect zhannei-dm.csdn.net:443
+[2018-10-31 15:30:09] [Info] Direct connect beacon.tingyun.com:443
+[2018-10-31 15:30:09] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:30:27] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:30:27] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:30:29] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.122.217.19:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-10-31 15:30:29] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.122.217.19:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-10-31 15:31:04] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:31:04] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:31:07] [Info] Connect v20.events.data.microsoft.com:443
+[2018-10-31 15:31:13] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-10-31 15:31:30] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:31:33] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:31:33] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:31:33] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:31:33] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:31:33] [Info] Direct connect www.csdn.net:443
+[2018-10-31 15:31:33] [Info] Direct connect goutong.baidu.com:443
+[2018-10-31 15:31:33] [Info] Direct connect gsp0.baidu.com:443
+[2018-10-31 15:31:33] [Info] Direct connect my.csdn.net:443
+[2018-10-31 15:31:33] [Info] Direct connect img-blog.csdn.net:443
+[2018-10-31 15:31:33] [Info] Direct connect static-blog.csdn.net:443
+[2018-10-31 15:31:33] [Info] Direct connect img-ads.csdn.net:443
+[2018-10-31 15:31:34] [Info] Direct connect pv.csdn.net:443
+[2018-10-31 15:31:34] [Info] Direct connect statistic.csdn.net:443
+[2018-10-31 15:31:35] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:31:35] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:31:35] [Info] Direct connect zhannei-dm.csdn.net:443
+[2018-10-31 15:31:35] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:31:40] [Info] Connect hub.docker.com:443
+[2018-10-31 15:31:40] [Info] Connect hub.docker.com:443
+[2018-10-31 15:31:43] [Info] Disconnect hub.docker.com:443
+[2018-10-31 15:31:46] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:48] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:48] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:48] [Info] Connect config.edge.skype.com:443
+[2018-10-31 15:31:48] [Info] Connect client-office365-tas.msedge.net:443
+[2018-10-31 15:31:48] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:49] [Info] Connect client-office365-tas.msedge.net:443
+[2018-10-31 15:31:49] [Info] Connect config.edge.skype.com:443
+[2018-10-31 15:31:49] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:49] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:49] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:50] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:51] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:52] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:53] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:53] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:53] [Info] Connect nexus.officeapps.live.com:443
+[2018-10-31 15:31:54] [Info] Connect client-office365-tas.msedge.net:443
+[2018-10-31 15:31:54] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:54] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:55] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.122.217.19:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-10-31 15:31:55] [Info] Connect nexus.officeapps.live.com:443
+[2018-10-31 15:31:55] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:55] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:55] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:55] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:55] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:31:56] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.122.217.19:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-10-31 15:31:56] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.122.217.19:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-10-31 15:31:56] [Info] Direct connect ss0.bdstatic.com:443
+[2018-10-31 15:31:56] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:31:56] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:31:56] [Info] Direct connect sp0.baidu.com:443
+[2018-10-31 15:31:56] [Info] Direct connect ss1.bdstatic.com:443
+[2018-10-31 15:31:56] [Info] Direct connect ss0.baidu.com:443
+[2018-10-31 15:31:56] [Info] Disconnect hub.docker.com:443
+[2018-10-31 15:31:56] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:31:56] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:31:58] [Info] Connect nexus.officeapps.live.com:443
+[2018-10-31 15:31:59] [Info] Direct connect www.google-analytics.com:443
+[2018-10-31 15:31:59] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-31 15:32:00] [Info] Direct connect www.cnblogs.com:443
+[2018-10-31 15:32:00] [Info] Direct connect www.cnblogs.com:443
+[2018-10-31 15:32:00] [Info] Direct connect common.cnblogs.com:443
+[2018-10-31 15:32:02] [Info] Disconnect config.edge.skype.com:443
+[2018-10-31 15:32:02] [Info] Disconnect nexus.officeapps.live.com:443
+[2018-10-31 15:32:02] [Info] Disconnect client-office365-tas.msedge.net:443
+[2018-10-31 15:32:04] [Info] Direct connect images2015.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect images2015.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect images2015.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect www.googletagservices.com:443
+[2018-10-31 15:32:04] [Info] Direct connect recomm.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Connect nexusrules.officeapps.live.com:443
+[2018-10-31 15:32:04] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:32:04] [Info] Direct connect images.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect pic.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect counter.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect static.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect static.cnblogs.com:443
+[2018-10-31 15:32:04] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2018-10-31 15:32:04] [Info] Direct connect static.cnblogs.com:443
+[2018-10-31 15:32:05] [Info] Connect www.google.com:443
+[2018-10-31 15:32:09] [Info] Disconnect config.edge.skype.com:443
+[2018-10-31 15:32:09] [Info] Disconnect nexusrules.officeapps.live.com:443
+[2018-10-31 15:32:09] [Info] Disconnect nexus.officeapps.live.com:443
+[2018-10-31 15:32:09] [Info] Disconnect client-office365-tas.msedge.net:443
+[2018-10-31 15:32:09] [Info] Disconnect play.google.com:443
+[2018-10-31 15:32:11] [Info] Disconnect play.google.com:443
+[2018-10-31 15:32:18] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 15:32:33] [Info] Connect js.driftt.com:443
+[2018-10-31 15:32:43] [Info] Connect cdn.onenote.net:443
+[2018-10-31 15:32:50] [Info] Direct connect mirrors.tuna.tsinghua.edu.cn:443
+[2018-10-31 15:32:50] [Info] Direct connect mirrors.tuna.tsinghua.edu.cn:443
+[2018-10-31 15:32:51] [Info] Connect browser-update.org:443
+[2018-10-31 15:33:17] [Info] Direct connect ss0.bdstatic.com:443
+[2018-10-31 15:33:17] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:33:17] [Info] Direct connect ss1.bdstatic.com:443
+[2018-10-31 15:33:18] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:33:18] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:33:18] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:33:19] [Info] Direct connect goutong.baidu.com:443
+[2018-10-31 15:33:19] [Info] Direct connect gsp0.baidu.com:443
+[2018-10-31 15:33:19] [Info] Direct connect www.csdn.net:443
+[2018-10-31 15:33:19] [Info] Direct connect my.csdn.net:443
+[2018-10-31 15:33:19] [Info] Direct connect static-blog.csdn.net:443
+[2018-10-31 15:33:19] [Info] Direct connect img-ads.csdn.net:443
+[2018-10-31 15:33:19] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:33:19] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:33:20] [Info] Direct connect www.linuxidc.com:443
+[2018-10-31 15:33:20] [Info] Direct connect www.linuxidc.com:443
+[2018-10-31 15:33:20] [Info] Direct connect www.linuxidc.com:443
+[2018-10-31 15:33:20] [Info] Direct connect www.linuxidc.com:443
+[2018-10-31 15:33:20] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:33:20] [Info] Direct connect www.linuxidc.com:443
+[2018-10-31 15:33:20] [Info] Direct connect www.linuxidc.com:443
+[2018-10-31 15:33:20] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:33:21] [Info] Direct connect ers.baidu.com:443
+[2018-10-31 15:33:21] [Info] Connect clients1.google.com:443
+[2018-10-31 15:33:21] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:33:21] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:33:21] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:33:22] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 15:33:24] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 15:33:28] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:33:28] [Info] Direct connect pv.csdn.net:443
+[2018-10-31 15:33:28] [Info] Direct connect goutong.baidu.com:443
+[2018-10-31 15:33:28] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:33:29] [Info] Direct connect statistic.csdn.net:443
+[2018-10-31 15:33:29] [Info] Direct connect gsp0.baidu.com:443
+[2018-10-31 15:33:29] [Info] Direct connect my.csdn.net:443
+[2018-10-31 15:33:29] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:33:29] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:33:29] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:33:29] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:33:29] [Info] Direct connect gsp0.baidu.com:443
+[2018-10-31 15:33:30] [Info] Direct connect zhannei-dm.csdn.net:443
+[2018-10-31 15:33:35] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:33:35] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:33:44] [Info] Disconnect cdn.onenote.net:443
+[2018-10-31 15:33:46] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:33:47] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-31 15:33:47] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 15:33:48] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-31 15:33:49] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 117.122.217.19:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-10-31 15:33:50] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 15:34:10] [Info] Disconnect www.google.com:443
+[2018-10-31 15:34:36] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:34:45] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:34:45] [Info] Connect www.google.com:443
+[2018-10-31 15:34:54] [Info] Disconnect browser-update.org:443
+[2018-10-31 15:35:07] [Info] Connect browser-update.org:443
+[2018-10-31 15:35:24] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:35:38] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:35:38] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:35:55] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-31 15:35:55] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:35:55] [Info] Disconnect browser-update.org:443
+[2018-10-31 15:36:06] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:36:06] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:36:07] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:36:48] [Info] Disconnect www.google.com:443
+[2018-10-31 15:37:14] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:37:35] [Info] Connect js.driftt.com:443
+[2018-10-31 15:37:41] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:37:41] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:39:37] [Info] Disconnect js.driftt.com:443
+[2018-10-31 15:39:45] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:39:45] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:41:02] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:41:04] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:41:04] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:41:05] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:41:05] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:41:06] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:41:06] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:41:06] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:41:06] [Info] Direct connect sp0.baidu.com:443
+[2018-10-31 15:41:06] [Info] Direct connect ss0.bdstatic.com:443
+[2018-10-31 15:41:06] [Info] Direct connect ss1.bdstatic.com:443
+[2018-10-31 15:41:07] [Info] Disconnect 51189-39.live.api.drift.com:443
+[2018-10-31 15:41:07] [Info] Disconnect 51189-39.chat.api.drift.com:443
+[2018-10-31 15:41:07] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:41:07] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:41:07] [Info] Direct connect ss0.baidu.com:443
+[2018-10-31 15:41:07] [Info] Direct connect ss1.baidu.com:443
+[2018-10-31 15:41:07] [Info] Direct connect ss2.baidu.com:443
+[2018-10-31 15:41:07] [Info] Direct connect ss2.baidu.com:443
+[2018-10-31 15:41:07] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:41:07] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:41:10] [Info] Direct connect sp2.baidu.com:443
+[2018-10-31 15:41:10] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:41:10] [Info] Direct connect blog.csdn.net:443
+[2018-10-31 15:41:10] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:41:10] [Info] Direct connect avatar.csdn.net:443
+[2018-10-31 15:41:10] [Info] Direct connect nbrecsys.4paradigm.com:443
+[2018-10-31 15:41:10] [Info] Direct connect goutong.baidu.com:443
+[2018-10-31 15:41:10] [Info] Direct connect csdnimg.cn:443
+[2018-10-31 15:41:10] [Info] Direct connect g.csdnimg.cn:443
+[2018-10-31 15:41:10] [Info] Direct connect www.csdn.net:443
+[2018-10-31 15:41:10] [Info] Direct connect gsp0.baidu.com:443
+[2018-10-31 15:41:10] [Info] Direct connect my.csdn.net:443
+[2018-10-31 15:41:10] [Info] Direct connect img-blog.csdn.net:443
+[2018-10-31 15:41:10] [Info] Direct connect static-blog.csdn.net:443
+[2018-10-31 15:41:10] [Info] Direct connect img-ads.csdn.net:443
+[2018-10-31 15:41:11] [Info] Direct connect pv.csdn.net:443
+[2018-10-31 15:41:11] [Info] Direct connect statistic.csdn.net:443
+[2018-10-31 15:41:12] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:41:12] [Info] Direct connect zhannei-dm.csdn.net:443
+[2018-10-31 15:41:12] [Info] Direct connect beacon.tingyun.com:443
+[2018-10-31 15:41:12] [Info] Direct connect re.csdn.net:443
+[2018-10-31 15:41:47] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:41:47] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:42:14] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:42:17] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:42:43] [Info] Connect play.google.com:443
+[2018-10-31 15:42:43] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 15:42:43] [Info] Connect play.google.com:443
+[2018-10-31 15:43:48] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:43:48] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:44:44] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2018-10-31 15:44:45] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2018-10-31 15:44:45] [Info] Direct connect mail.qq.com:443
+[2018-10-31 15:44:45] [Info] Disconnect play.google.com:443
+[2018-10-31 15:44:45] [Info] Disconnect play.google.com:443
+[2018-10-31 15:44:46] [Info] Direct connect rl.mail.qq.com:443
+[2018-10-31 15:44:46] [Info] Direct connect js.aq.qq.com:443
+[2018-10-31 15:44:46] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:44:47] [Info] Direct connect ac.mmstat.com:80
+[2018-10-31 15:44:47] [Info] Connect cn.gravatar.com:443
+[2018-10-31 15:44:48] [Info] Direct connect wp.mail.qq.com:443
+[2018-10-31 15:45:06] [Info] Direct connect www.aliyun.com:443
+[2018-10-31 15:45:06] [Info] Direct connect www.aliyun.com:443
+[2018-10-31 15:45:07] [Info] Direct connect g.alicdn.com:443
+[2018-10-31 15:45:07] [Info] Direct connect at.alicdn.com:443
+[2018-10-31 15:45:07] [Info] Direct connect stats.ipinyou.com:443
+[2018-10-31 15:45:07] [Info] Direct connect gw.alicdn.com:443
+[2018-10-31 15:45:07] [Info] Direct connect gw.alicdn.com:443
+[2018-10-31 15:45:07] [Info] Direct connect query.aliyun.com:443
+[2018-10-31 15:45:07] [Info] Direct connect g.alicdn.com:443
+[2018-10-31 15:45:07] [Info] Direct connect img.alicdn.com:443
+[2018-10-31 15:45:07] [Info] Direct connect promotion.aliyun.com:443
+[2018-10-31 15:45:07] [Info] Direct connect oa-panther.data.aliyun.com:443
+[2018-10-31 15:45:07] [Info] Direct connect log.mmstat.com:443
+[2018-10-31 15:45:08] [Info] Direct connect page.aliyun.com:443
+[2018-10-31 15:45:08] [Info] Direct connect gm.mmstat.com:443
+[2018-10-31 15:45:08] [Info] Direct connect cm.g.doubleclick.net:443
+[2018-10-31 15:45:08] [Info] Direct connect cyes.youku.com:443
+[2018-10-31 15:45:08] [Info] Direct connect ckm.aty.sohu.com:443
+[2018-10-31 15:45:08] [Info] Direct connect ac.mmstat.com:443
+[2018-10-31 15:45:08] [Info] Direct connect cm.ipinyou.com:443
+[2018-10-31 15:45:08] [Info] Direct connect cm.ipinyou.com:443
+[2018-10-31 15:45:09] [Info] Direct connect query.aliyun.com:443
+[2018-10-31 15:45:09] [Info] Direct connect assets.alicdn.com:443
+[2018-10-31 15:45:09] [Info] Direct connect oneid.mmstat.com:443
+[2018-10-31 15:45:11] [Info] Direct connect ynuf.alipay.com:443
+[2018-10-31 15:45:13] [Info] Direct connect account.aliyun.com:443
+[2018-10-31 15:45:13] [Info] Direct connect account.aliyun.com:443
+[2018-10-31 15:45:13] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:45:13] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:45:14] [Info] Direct connect passport.aliyun.com:443
+[2018-10-31 15:45:14] [Info] Direct connect account-cn.alibabacloud.com:443
+[2018-10-31 15:45:14] [Info] Direct connect jump.alibaba.com:443
+[2018-10-31 15:45:14] [Info] Direct connect log.mmstat.com:443
+[2018-10-31 15:45:14] [Info] Direct connect img.alicdn.com:443
+[2018-10-31 15:45:14] [Info] Direct connect g.alicdn.com:443
+[2018-10-31 15:45:14] [Info] Direct connect pass.aliyun.com:443
+[2018-10-31 15:45:14] [Info] Direct connect passport.aliyun.com:443
+[2018-10-31 15:45:15] [Info] Direct connect query.aliyun.com:443
+[2018-10-31 15:45:15] [Info] Direct connect page.aliyun.com:443
+[2018-10-31 15:45:15] [Info] Direct connect oa-panther.data.aliyun.com:443
+[2018-10-31 15:45:15] [Info] Disconnect cn.gravatar.com:443
+[2018-10-31 15:45:15] [Info] Direct connect ynuf.alipay.com:443
+[2018-10-31 15:45:15] [Info] Direct connect cf.aliyun.com:443
+[2018-10-31 15:45:15] [Info] Direct connect ynuf.aliapp.org:443
+[2018-10-31 15:45:15] [Info] Direct connect retcode.taobao.com:443
+[2018-10-31 15:45:16] [Info] Connect clients1.google.com:443
+[2018-10-31 15:45:24] [Info] Direct connect mirrors.tuna.tsinghua.edu.cn:443
+[2018-10-31 15:45:26] [Info] Direct connect account.aliyun.com:443
+[2018-10-31 15:45:26] [Info] Direct connect account.aliyun.com:443
+[2018-10-31 15:45:26] [Info] Direct connect www.aliyun.com:443
+[2018-10-31 15:45:26] [Info] Direct connect stats.ipinyou.com:443
+[2018-10-31 15:45:26] [Info] Direct connect account-cn.alibabacloud.com:443
+[2018-10-31 15:45:26] [Info] Direct connect assets.alicdn.com:443
+[2018-10-31 15:45:26] [Info] Direct connect gw.alicdn.com:443
+[2018-10-31 15:45:26] [Info] Direct connect at.alicdn.com:443
+[2018-10-31 15:45:26] [Info] Direct connect promotion.aliyun.com:443
+[2018-10-31 15:45:28] [Info] Direct connect gm.mmstat.com:443
+[2018-10-31 15:45:28] [Info] Direct connect ac.mmstat.com:443
+[2018-10-31 15:45:28] [Info] Connect dummyimage.com:443
+[2018-10-31 15:45:28] [Info] Direct connect alinw.alicdn.com:443
+[2018-10-31 15:45:29] [Info] Direct connect query.aliyun.com:443
+[2018-10-31 15:45:29] [Info] Direct connect cart.aliyun.com:443
+[2018-10-31 15:45:31] [Info] Direct connect home.console.aliyun.com:443
+[2018-10-31 15:45:31] [Info] Direct connect home.console.aliyun.com:443
+[2018-10-31 15:45:32] [Info] Direct connect fecs.console.aliyun.com:443
+[2018-10-31 15:45:32] [Info] Direct connect fecs.console.aliyun.com:443
+[2018-10-31 15:45:32] [Info] Direct connect tce.alicdn.com:443
+[2018-10-31 15:45:32] [Info] Direct connect help.aliyun.com:443
+[2018-10-31 15:45:32] [Info] Direct connect g.alicdn.com:443
+[2018-10-31 15:45:32] [Info] Direct connect gj.mmstat.com:443
+[2018-10-31 15:45:33] [Info] Direct connect oa-eagle.data.aliyun.com:443
+[2018-10-31 15:45:33] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:45:35] [Info] Direct connect yundun.console.aliyun.com:443
+[2018-10-31 15:45:35] [Info] Direct connect yundun.console.aliyun.com:443
+[2018-10-31 15:45:35] [Info] Disconnect dummyimage.com:443
+[2018-10-31 15:45:35] [Info] Direct connect yundunnext.console.aliyun.com:443
+[2018-10-31 15:45:36] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:45:36] [Info] Direct connect yundunnext.console.aliyun.com:443
+[2018-10-31 15:45:36] [Info] Direct connect g.alicdn.com:443
+[2018-10-31 15:45:36] [Info] Direct connect g.alicdn.com:443
+[2018-10-31 15:45:36] [Info] Direct connect ynuf.alipay.com:443
+[2018-10-31 15:45:36] [Info] Direct connect mirrors.tuna.tsinghua.edu.cn:443
+[2018-10-31 15:45:36] [Info] Direct connect uaction.alicdn.com:443
+[2018-10-31 15:45:36] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:45:37] [Info] Direct connect fecs.console.aliyun.com:443
+[2018-10-31 15:45:37] [Info] Direct connect log.mmstat.com:443
+[2018-10-31 15:45:38] [Info] Direct connect log.mmstat.com:443
+[2018-10-31 15:45:39] [Info] Direct connect gm.mmstat.com:443
+[2018-10-31 15:45:45] [Info] Connect clients1.google.com:443
+[2018-10-31 15:45:46] [Info] Direct connect cart.aliyun.com:443
+[2018-10-31 15:45:49] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:45:49] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:46:08] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:46:08] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:46:09] [Info] Direct connect query.aliyun.com:443
+[2018-10-31 15:46:09] [Info] Direct connect at.alicdn.com:443
+[2018-10-31 15:46:37] [Info] Direct connect gj.mmstat.com:443
+[2018-10-31 15:46:37] [Info] Direct connect ecs.console.aliyun.com:443
+[2018-10-31 15:46:37] [Info] Direct connect ecs.console.aliyun.com:443
+[2018-10-31 15:46:37] [Info] Direct connect acjs.aliyun.com:443
+[2018-10-31 15:46:37] [Info] Direct connect s.tbcdn.cn:443
+[2018-10-31 15:46:37] [Info] Direct connect retcode.alicdn.com:443
+[2018-10-31 15:46:37] [Info] Direct connect aeu.alicdn.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-eu-west-1.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Direct connect ecs-cn-zhangjiakou.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-ap-southeast-5.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Direct connect ecs-cn-chengdu.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-ap-south-1.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-ap-northeast-1.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-eu-central-1.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-ap-southeast-3.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-me-east-1.console.aliyun.com:443
+[2018-10-31 15:46:39] [Info] Connect ecs-ap-southeast-2.console.aliyun.com:443
+[2018-10-31 15:46:40] [Info] Direct connect ecs-cn-huhehaote.console.aliyun.com:443
+[2018-10-31 15:46:40] [Info] Direct connect help.aliyun.com:443
+[2018-10-31 15:46:40] [Info] Direct connect home.console.aliyun.com:443
+[2018-10-31 15:46:40] [Info] Direct connect ecs-buy.aliyun.com:443
+[2018-10-31 15:46:40] [Info] Direct connect ecs-buy.aliyun.com:443
+[2018-10-31 15:46:40] [Info] Direct connect gj.mmstat.com:443
+[2018-10-31 15:46:40] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:46:42] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2018-10-31 15:46:42] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-ap-northeast-1.console.aliyun.com:443
+[2018-10-31 15:46:42] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2018-10-31 15:46:42] [Info] Direct connect gm.mmstat.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-ap-southeast-5.console.aliyun.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-ap-southeast-2.console.aliyun.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-ap-south-1.console.aliyun.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-eu-central-1.console.aliyun.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-eu-west-1.console.aliyun.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-ap-southeast-3.console.aliyun.com:443
+[2018-10-31 15:46:42] [Info] Disconnect ecs-me-east-1.console.aliyun.com:443
+[2018-10-31 15:46:48] [Info] Direct connect gj.mmstat.com:443
+[2018-10-31 15:46:49] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 15:46:49] [Info] Direct connect ecs.console.aliyun.com:443
+[2018-10-31 15:46:49] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:46:49] [Info] Direct connect help.aliyun.com:443
+[2018-10-31 15:46:49] [Info] Direct connect fecs.console.aliyun.com:443
+[2018-10-31 15:46:49] [Info] Connect clients1.google.com:443
+[2018-10-31 15:46:49] [Info] Direct connect ecs-buy.aliyun.com:443
+[2018-10-31 15:46:50] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 15:46:52] [Info] Direct connect mirrors.tuna.tsinghua.edu.cn:443
+[2018-10-31 15:47:16] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 15:47:16] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 15:47:18] [Info] Direct connect ynuf.alipay.com:443
+[2018-10-31 15:47:18] [Info] Direct connect acjs.aliyun.com:443
+[2018-10-31 15:47:18] [Info] Direct connect s.tbcdn.cn:443
+[2018-10-31 15:47:18] [Info] Direct connect retcode.alicdn.com:443
+[2018-10-31 15:47:18] [Info] Direct connect aeu.alicdn.com:443
+[2018-10-31 15:47:22] [Info] Direct connect at.alicdn.com:443
+[2018-10-31 15:47:23] [Info] Direct connect cart.aliyun.com:443
+[2018-10-31 15:47:24] [Info] Direct connect arms-retcode.aliyuncs.com:443
+[2018-10-31 15:47:27] [Info] Direct connect kcart.alipay.com:443
+[2018-10-31 15:47:51] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:47:51] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:48:25] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:48:49] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 15:48:52] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 15:49:02] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:49:17] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 15:49:17] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 15:49:52] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:49:52] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:50:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:40] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:40] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:40] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:41] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:41] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:42] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:42] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:42] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:43] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:43] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:43] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:43] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:45] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:50:47] [Info] Connect www.googleapis.com:443
+[2018-10-31 15:50:47] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:50:48] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:51:09] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:51:11] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:51:31] [Info] Connect clients1.google.com:443
+[2018-10-31 15:51:54] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:51:54] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:52:49] [Info] Disconnect www.googleapis.com:443
+[2018-10-31 15:52:57] [Info] Connect www.gravatar.com:443
+[2018-10-31 15:53:56] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:53:56] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:54:03] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:54:49] [Info] Disconnect clients1.google.com:443
+[2018-10-31 15:54:59] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 15:55:57] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:55:57] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:56:10] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 15:56:10] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 15:56:11] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:57:19] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 15:57:59] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:57:59] [Info] Connect mtalk.google.com:5228
+[2018-10-31 15:59:37] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:59:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:59:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:59:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:59:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:59:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 15:59:40] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:59:40] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:59:40] [Info] Direct connect ss2.baidu.com:443
+[2018-10-31 15:59:40] [Info] Direct connect ss0.bdstatic.com:443
+[2018-10-31 15:59:40] [Info] Direct connect sp0.baidu.com:443
+[2018-10-31 15:59:40] [Info] Direct connect ss1.bdstatic.com:443
+[2018-10-31 15:59:41] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:59:41] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 15:59:41] [Info] Connect www.googleapis.com:443
+[2018-10-31 15:59:41] [Info] Direct connect ss0.baidu.com:443
+[2018-10-31 15:59:41] [Info] Direct connect ss3.bdstatic.com:443
+[2018-10-31 15:59:41] [Info] Direct connect sp1.baidu.com:443
+[2018-10-31 15:59:41] [Info] Direct connect image.baidu.com:443
+[2018-10-31 15:59:41] [Info] Direct connect img1.bdstatic.com:443
+[2018-10-31 15:59:41] [Info] Direct connect img0.bdstatic.com:443
+[2018-10-31 15:59:41] [Info] Direct connect imgstat.baidu.com:443
+[2018-10-31 15:59:41] [Info] Direct connect img2.bdstatic.com:443
+[2018-10-31 15:59:41] [Info] Direct connect timgsa.baidu.com:443
+[2018-10-31 15:59:52] [Info] Direct connect ss2.baidu.com:443
+[2018-10-31 15:59:52] [Info] Direct connect ss1.baidu.com:443
+[2018-10-31 15:59:52] [Info] Direct connect ss3.baidu.com:443
+[2018-10-31 15:59:53] [Info] Direct connect www.baidu.com:443
+[2018-10-31 15:59:53] [Info] Direct connect ss2.bdstatic.com:443
+[2018-10-31 15:59:59] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 15:59:59] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:00:03] [Info] Direct connect www.baidu.com:443
+[2018-10-31 16:00:03] [Info] Direct connect www.baidu.com:443
+[2018-10-31 16:00:47] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:00:49] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-31 16:00:50] [Info] Connect onedriveclucprodbn20012.blob.core.windows.net:443
+[2018-10-31 16:00:54] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-31 16:01:09] [Info] Connect v20.events.data.microsoft.com:443
+[2018-10-31 16:01:09] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:01:10] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-10-31 16:01:11] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 16:01:11] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:01:13] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:01:42] [Info] Disconnect www.googleapis.com:443
+[2018-10-31 16:02:02] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:02:02] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:02:10] [Info] Disconnect onedriveclucprodbn20012.blob.core.windows.net:443
+[2018-10-31 16:02:18] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 16:02:19] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:02:41] [Info] Connect cdn.onenote.net:443
+[2018-10-31 16:03:42] [Info] Disconnect cdn.onenote.net:443
+[2018-10-31 16:04:05] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:04:05] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:04:58] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 16:05:00] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 16:06:08] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:06:08] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:06:12] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 16:06:12] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:06:13] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:07:20] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:08:11] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:08:11] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:09:07] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:09:07] [Info] Connect clients1.google.com:443
+[2018-10-31 16:09:07] [Info] Connect www.gravatar.com:443
+[2018-10-31 16:09:50] [Info] Connect version.gitlab.com:443
+[2018-10-31 16:10:11] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:10:11] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:10:57] [Info] Disconnect version.gitlab.com:443
+[2018-10-31 16:11:09] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 16:11:09] [Info] Disconnect clients1.google.com:443
+[2018-10-31 16:11:13] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 16:11:13] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:11:45] [Info] Connect www.gravatar.com:443
+[2018-10-31 16:12:03] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:12:14] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:12:14] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:12:41] [Info] Direct connect www.baidu.com:443
+[2018-10-31 16:12:43] [Info] Direct connect ss0.baidu.com:443
+[2018-10-31 16:12:43] [Info] Direct connect ss1.baidu.com:443
+[2018-10-31 16:12:43] [Info] Direct connect ss2.baidu.com:443
+[2018-10-31 16:12:43] [Info] Direct connect ss3.baidu.com:443
+[2018-10-31 16:12:46] [Info] Direct connect www.baidu.com:443
+[2018-10-31 16:12:47] [Info] Direct connect sp1.baidu.com:443
+[2018-10-31 16:13:04] [Info] Connect clients4.google.com:443
+[2018-10-31 16:13:38] [Info] Connect version.gitlab.com:443
+[2018-10-31 16:14:03] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:14:17] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:14:17] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:14:45] [Info] Disconnect version.gitlab.com:443
+[2018-10-31 16:15:07] [Info] Disconnect clients4.google.com:443
+[2018-10-31 16:15:16] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:15:16] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:15:20] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:15:21] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:15:22] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:15:22] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:15:22] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:15:37] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:16:10] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 16:16:12] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:16:14] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 16:16:14] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:16:14] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:16:19] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:16:19] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:16:27] [Info] Connect play.google.com:443
+[2018-10-31 16:16:28] [Info] Connect play.google.com:443
+[2018-10-31 16:16:28] [Info] Connect translate.google.com.hk:443
+[2018-10-31 16:16:28] [Info] Connect play.google.com:443
+[2018-10-31 16:16:32] [Info] Connect www.googleapis.com:443
+[2018-10-31 16:16:39] [Info] Disconnect translate.google.com.hk:443
+[2018-10-31 16:17:21] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:18:10] [Info] Connect google.com.hk:443
+[2018-10-31 16:18:10] [Info] Connect google.com:443
+[2018-10-31 16:18:10] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:18:10] [Info] Disconnect play.google.com:443
+[2018-10-31 16:18:13] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 16:18:14] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 16:18:20] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 16:18:21] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:18:21] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:18:30] [Info] Disconnect play.google.com:443
+[2018-10-31 16:18:30] [Info] Disconnect play.google.com:443
+[2018-10-31 16:18:35] [Info] Disconnect www.googleapis.com:443
+[2018-10-31 16:18:42] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 16:18:51] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:09] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:12] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:13] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:14] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:17] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:18] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:20] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:21] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:37] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:37] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:39] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:41] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:41] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:41] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:19:41] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:20:05] [Info] Connect www.gravatar.com:443
+[2018-10-31 16:20:08] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 16:20:10] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 16:20:12] [Info] Disconnect google.com:443
+[2018-10-31 16:20:12] [Info] Disconnect google.com.hk:443
+[2018-10-31 16:20:23] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:20:23] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:21:14] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:21:36] [Info] Connect about.gitlab.com:443
+[2018-10-31 16:21:36] [Info] Direct connect www.google-analytics.com:443
+[2018-10-31 16:21:36] [Info] Connect www.google.com:443
+[2018-10-31 16:21:36] [Info] Direct connect googleads.g.doubleclick.net:443
+[2018-10-31 16:21:36] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-31 16:21:36] [Info] Connect www.linkedin.com:443
+[2018-10-31 16:21:36] [Info] Connect cdn.bizible.com:443
+[2018-10-31 16:21:36] [Info] Connect cdnjs.cloudflare.com:443
+[2018-10-31 16:21:36] [Info] Connect static.hotjar.com:443
+[2018-10-31 16:21:36] [Info] Connect js.driftt.com:443
+[2018-10-31 16:21:36] [Info] Direct connect fonts.googleapis.com:443
+[2018-10-31 16:21:36] [Info] Direct connect www.googletagmanager.com:443
+[2018-10-31 16:21:36] [Info] Direct connect www.googleadservices.com:443
+[2018-10-31 16:21:36] [Info] Connect px.ads.linkedin.com:443
+[2018-10-31 16:21:36] [Info] Connect use.fontawesome.com:443
+[2018-10-31 16:21:36] [Info] Direct connect fonts.gstatic.com:443
+[2018-10-31 16:21:36] [Info] Connect snap.licdn.com:443
+[2018-10-31 16:21:36] [Info] Connect munchkin.marketo.net:443
+[2018-10-31 16:21:36] [Info] Connect script.hotjar.com:443
+[2018-10-31 16:21:36] [Info] Connect consent.cookiebot.com:443
+[2018-10-31 16:21:36] [Info] Direct connect fonts.gstatic.com:443
+[2018-10-31 16:21:37] [Info] Direct connect bid.g.doubleclick.net:443
+[2018-10-31 16:21:37] [Info] Connect 194-vvc-221.mktoresp.com:443
+[2018-10-31 16:21:38] [Info] Connect s.swiftypecdn.com:443
+[2018-10-31 16:21:39] [Info] Connect s.swiftypecdn.com:443
+[2018-10-31 16:21:46] [Info] Disconnect www.google.com:443
+[2018-10-31 16:21:56] [Info] Disconnect snap.licdn.com:443
+[2018-10-31 16:21:57] [Info] Disconnect munchkin.marketo.net:443
+[2018-10-31 16:22:18] [Info] Disconnect cdnjs.cloudflare.com:443
+[2018-10-31 16:22:18] [Info] Disconnect script.hotjar.com:443
+[2018-10-31 16:22:18] [Info] Disconnect use.fontawesome.com:443
+[2018-10-31 16:22:18] [Info] Disconnect consent.cookiebot.com:443
+[2018-10-31 16:22:26] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:22:26] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:22:30] [Info] Connect version.gitlab.com:443
+[2018-10-31 16:23:33] [Info] Disconnect www.linkedin.com:443
+[2018-10-31 16:23:34] [Info] Disconnect px.ads.linkedin.com:443
+[2018-10-31 16:23:38] [Info] Disconnect version.gitlab.com:443
+[2018-10-31 16:23:39] [Info] Disconnect static.hotjar.com:443
+[2018-10-31 16:23:39] [Info] Disconnect cdn.bizible.com:443
+[2018-10-31 16:23:39] [Info] Disconnect 194-vvc-221.mktoresp.com:443
+[2018-10-31 16:23:39] [Info] Disconnect s.swiftypecdn.com:443
+[2018-10-31 16:23:40] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:23:42] [Info] Disconnect about.gitlab.com:443
+[2018-10-31 16:23:42] [Info] Disconnect js.driftt.com:443
+[2018-10-31 16:23:42] [Info] Disconnect s.swiftypecdn.com:443
+[2018-10-31 16:24:28] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:24:28] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:24:35] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 16:25:32] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-31 16:25:32] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:25:32] [Info] Connect www.gravatar.com:443
+[2018-10-31 16:26:03] [Info] Connect clients1.google.com:443
+[2018-10-31 16:26:07] [Info] Connect android.clients.google.com:443
+[2018-10-31 16:26:08] [Info] Connect www.googleapis.com:443
+[2018-10-31 16:26:09] [Info] Connect clients4.google.com:443
+[2018-10-31 16:26:15] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:26:15] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 16:26:26] [Info] Connect version.gitlab.com:443
+[2018-10-31 16:27:23] [Info] Connect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-10-31 16:27:24] [Info] Disconnect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-10-31 16:27:33] [Info] Disconnect version.gitlab.com:443
+[2018-10-31 16:28:09] [Info] Disconnect android.clients.google.com:443
+[2018-10-31 16:28:09] [Info] Disconnect www.googleapis.com:443
+[2018-10-31 16:28:42] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:28:42] [Info] Disconnect clients4.google.com:443
+[2018-10-31 16:28:42] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:28:57] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 16:29:02] [Info] Connect www.gravatar.com:443
+[2018-10-31 16:30:08] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 16:30:26] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 16:30:36] [Info] Connect www.google.com:443
+[2018-10-31 16:30:40] [Info] Connect www.gstatic.com:443
+[2018-10-31 16:30:40] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 16:30:40] [Info] Connect www.gstatic.com:443
+[2018-10-31 16:30:41] [Info] Direct connect fonts.googleapis.com:443
+[2018-10-31 16:30:41] [Info] Direct connect www.googletagmanager.com:443
+[2018-10-31 16:30:41] [Info] Direct connect fonts.gstatic.com:443
+[2018-10-31 16:30:41] [Info] Direct connect www.google-analytics.com:443
+[2018-10-31 16:30:41] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-10-31 16:30:41] [Info] Connect www.youtube.com:443
+[2018-10-31 16:30:42] [Info] Connect s.ytimg.com:443
+[2018-10-31 16:30:43] [Info] Connect i.ytimg.com:443
+[2018-10-31 16:30:43] [Info] Connect yt3.ggpht.com:443
+[2018-10-31 16:30:44] [Info] Connect tools.google.com:443
+[2018-10-31 16:30:44] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:30:44] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:31:03] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 16:31:05] [Info] Direct connect 2542116.fls.doubleclick.net:443
+[2018-10-31 16:31:05] [Info] Disconnect www.gstatic.com:443
+[2018-10-31 16:31:07] [Info] Direct connect dl.google.com:443
+[2018-10-31 16:31:07] [Info] Direct connect dl.google.com:443
+[2018-10-31 16:31:12] [Info] Disconnect clients1.google.com:443
+[2018-10-31 16:31:13] [Info] Connect v20.events.data.microsoft.com:443
+[2018-10-31 16:31:14] [Info] Direct connect fonts.gstatic.com:443
+[2018-10-31 16:31:14] [Info] Direct connect fonts.googleapis.com:443
+[2018-10-31 16:31:15] [Info] Direct connect www.googleadservices.com:443
+[2018-10-31 16:31:15] [Info] Direct connect googleads.g.doubleclick.net:443
+[2018-10-31 16:31:15] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-10-31 16:31:16] [Info] Direct connect s.pcmgr.qq.com:80
+[2018-10-31 16:31:16] [Info] Direct connect mail.dimpt.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect dlied6.qq.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect 111.202.99.12:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect dlied6.qq.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:17] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:18] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect isdspeed.qq.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:31:19] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect js.aq.qq.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pingfore.qq.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect s.pcmgr.qq.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc2.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc2.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc2.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc2.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect pc2.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect js.aq.qq.com:443
+[2018-10-31 16:31:19] [Info] Direct connect pc2.gtimg.com:80
+[2018-10-31 16:31:19] [Info] Direct connect ocsp2.globalsign.com:80
+[2018-10-31 16:31:20] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:24] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:28] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:31:28] [Info] Direct connect pc1.gtimg.com:80
+[2018-10-31 16:31:38] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:31:48] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:31:58] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:32:08] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:32:18] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:32:18] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 16:32:24] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:32:28] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:32:29] [Info] Connect cdn.onenote.net:443
+[2018-10-31 16:32:38] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:32:38] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:32:38] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-10-31 16:32:43] [Info] Disconnect s.ytimg.com:443
+[2018-10-31 16:32:45] [Info] Disconnect i.ytimg.com:443
+[2018-10-31 16:32:45] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:32:45] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:32:47] [Info] Disconnect yt3.ggpht.com:443
+[2018-10-31 16:32:48] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:32:50] [Info] Disconnect cdn.onenote.net:443
+[2018-10-31 16:32:54] [Info] Disconnect www.youtube.com:443
+[2018-10-31 16:32:58] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:33:08] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:33:09] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 111.161.111.119:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-10-31 16:33:16] [Info] Disconnect www.gstatic.com:443
+[2018-10-31 16:33:18] [Info] Disconnect www.google.com:443
+[2018-10-31 16:33:18] [Info] Disconnect tools.google.com:443
+[2018-10-31 16:33:18] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:33:21] [Info] Connect www.gravatar.com:443
+[2018-10-31 16:33:28] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:33:38] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:33:46] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-31 16:33:47] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-31 16:33:48] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:33:58] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:34:04] [Info] Direct connect wup.browser.qq.com:443
+[2018-10-31 16:34:04] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 16:34:05] [Info] Direct connect wup.browser.qq.com:443
+[2018-10-31 16:34:05] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 16:34:05] [Info] Direct connect pc3.gtimg.com:80
+[2018-10-31 16:34:08] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:34:13] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:34:18] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:34:22] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:34:22] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 16:34:28] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:34:38] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:34:48] [Info] Direct connect p.guanjia.qq.com:80
+[2018-10-31 16:34:55] [Info] Connect www.googleapis.com:443
+[2018-10-31 16:34:55] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:34:55] [Info] Connect android.clients.google.com:443
+[2018-10-31 16:34:55] [Info] Direct connect clientservices.googleapis.com:443
+[2018-10-31 16:34:55] [Info] Direct connect suggestion.baidu.com:80
+[2018-10-31 16:34:55] [Info] Connect accounts.google.com:443
+[2018-10-31 16:34:55] [Info] Connect clients2.google.com:443
+[2018-10-31 16:34:55] [Info] Connect www.googleapis.com:443
+[2018-10-31 16:34:56] [Info] Connect clients4.google.com:443
+[2018-10-31 16:34:57] [Info] Connect clients2.googleusercontent.com:443
+[2018-10-31 16:35:02] [Info] Direct connect redirector.gvt1.com:80
+[2018-10-31 16:35:02] [Info] Direct connect r8---sn-2x3een76.gvt1.com:80
+[2018-10-31 16:35:02] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:35:03] [Info] Connect clients1.google.com:443
+[2018-10-31 16:35:03] [Info] Connect translate.googleapis.com:443
+[2018-10-31 16:35:03] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 16:35:03] [Info] Connect ssl.gstatic.com:443
+[2018-10-31 16:35:06] [Info] Disconnect www.googleapis.com:443
+[2018-10-31 16:35:30] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 16:35:33] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 16:35:56] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-31 16:35:57] [Info] Connect clients4.google.com:443
+[2018-10-31 16:35:58] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-31 16:35:59] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 16:36:00] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 16:36:12] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:36:58] [Info] Disconnect accounts.google.com:443
+[2018-10-31 16:36:58] [Info] Disconnect android.clients.google.com:443
+[2018-10-31 16:37:02] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:37:02] [Info] Disconnect clients2.google.com:443
+[2018-10-31 16:37:02] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:37:02] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-10-31 16:37:05] [Info] Disconnect ssl.gstatic.com:443
+[2018-10-31 16:37:05] [Info] Disconnect translate.googleapis.com:443
+[2018-10-31 16:37:05] [Info] Disconnect clients1.google.com:443
+[2018-10-31 16:37:55] [Info] Disconnect www.googleapis.com:443
+[2018-10-31 16:37:59] [Info] Disconnect clients4.google.com:443
+[2018-10-31 16:39:05] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:39:05] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:39:05] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 16:39:22] [Info] Disconnect clients4.google.com:443
+[2018-10-31 16:40:55] [Info] Direct connect update.googleapis.com:443
+[2018-10-31 16:40:57] [Info] Direct connect redirector.gvt1.com:80
+[2018-10-31 16:40:57] [Info] Direct connect r12---sn-2x3een76.gvt1.com:80
+[2018-10-31 16:40:57] [Info] Direct connect redirector.gvt1.com:80
+[2018-10-31 16:40:57] [Info] Direct connect r12---sn-2x3een76.gvt1.com:80
+[2018-10-31 16:41:00] [Info] Direct connect redirector.gvt1.com:80
+[2018-10-31 16:41:00] [Info] Direct connect r12---sn-2x3een76.gvt1.com:80
+[2018-10-31 16:41:02] [Info] Direct connect redirector.gvt1.com:80
+[2018-10-31 16:41:02] [Info] Direct connect r12---sn-2x3een76.gvt1.com:80
+[2018-10-31 16:41:06] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:41:06] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:43:07] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:43:07] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:45:08] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:45:08] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:47:11] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:47:12] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:48:47] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-31 16:48:48] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-31 16:49:14] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:49:14] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:50:05] [Info] Connect clients4.google.com:443
+[2018-10-31 16:50:30] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 16:50:32] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 16:51:16] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:51:16] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:52:07] [Info] Disconnect clients4.google.com:443
+[2018-10-31 16:52:53] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:52:54] [Info] Connect clients1.google.com:443
+[2018-10-31 16:52:54] [Info] Connect www.gravatar.com:443
+[2018-10-31 16:53:04] [Info] Connect clients4.google.com:443
+[2018-10-31 16:53:18] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:53:18] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:54:01] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:54:14] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:54:21] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 16:54:23] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 16:54:57] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 16:55:19] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:55:19] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:55:38] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 16:56:16] [Info] Disconnect clients1.google.com:443
+[2018-10-31 16:56:51] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 16:56:51] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 16:57:21] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:57:21] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:57:40] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 16:57:40] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 16:57:40] [Info] Direct connect passport.baidu.com:443
+[2018-10-31 16:57:42] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 16:57:42] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 16:57:42] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 16:57:42] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 16:57:42] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 16:57:42] [Info] Direct connect pcs.baidu.com:443
+[2018-10-31 16:57:42] [Info] Direct connect pcs.baidu.com:443
+[2018-10-31 16:57:42] [Info] Direct connect pcsdata.baidu.com:443
+[2018-10-31 16:57:43] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 16:57:43] [Info] Direct connect ss0.bdstatic.com:443
+[2018-10-31 16:57:43] [Info] Direct connect webpush.pan.baidu.com:443
+[2018-10-31 16:58:35] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2018-10-31 16:58:35] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2018-10-31 16:58:35] [Info] Direct connect mail.qq.com:443
+[2018-10-31 16:58:36] [Info] Direct connect js.aq.qq.com:443
+[2018-10-31 16:58:37] [Info] Direct connect aq.qq.com:443
+[2018-10-31 16:58:38] [Info] Direct connect rescdn.qqmail.com:443
+[2018-10-31 16:58:38] [Info] Direct connect rescdn.qqmail.com:443
+[2018-10-31 16:58:38] [Info] Direct connect rescdn.qqmail.com:443
+[2018-10-31 16:58:38] [Info] Direct connect rl.mail.qq.com:443
+[2018-10-31 16:58:38] [Info] Direct connect wp.mail.qq.com:443
+[2018-10-31 16:58:53] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 16:58:55] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-10-31 16:59:21] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 16:59:21] [Info] Connect mtalk.google.com:5228
+[2018-10-31 16:59:43] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 17:00:10] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 17:00:13] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 17:00:13] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 17:00:13] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 17:00:13] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 17:00:13] [Info] Direct connect update.pan.baidu.com:443
+[2018-10-31 17:00:18] [Info] Direct connect d.pcs.baidu.com:443
+[2018-10-31 17:00:18] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 17:00:18] [Info] Direct connect www.baidupcs.com:443
+[2018-10-31 17:00:18] [Info] Direct connect nj.baidupcs.com:443
+[2018-10-31 17:00:19] [Info] Direct connect bj.baidupcs.com:443
+[2018-10-31 17:00:19] [Info] Direct connect qd.baidupcs.com:443
+[2018-10-31 17:00:20] [Info] Direct connect gzcu01.baidupcs.com:443
+[2018-10-31 17:00:29] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.ProxySocketTun.EndReceive(IAsyncResult ar)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.PipeRemoteReceiveCallback(IAsyncResult ar)
+[2018-10-31 17:00:36] [Info] Direct connect webpush.pan.baidu.com:443
+[2018-10-31 17:00:49] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:00:51] [Info] Connect onedriveclucprodbn20018.blob.core.windows.net:443
+[2018-10-31 17:01:13] [Info] Connect v20.events.data.microsoft.com:443
+[2018-10-31 17:01:15] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-10-31 17:01:24] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:01:24] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:02:23] [Info] Connect cdn.onenote.net:443
+[2018-10-31 17:02:40] [Info] Disconnect onedriveclucprodbn20018.blob.core.windows.net:443
+[2018-10-31 17:03:24] [Info] Disconnect cdn.onenote.net:443
+[2018-10-31 17:03:26] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:03:26] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:03:48] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-31 17:03:49] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-31 17:04:05] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 17:04:46] [Info] Connect raw.githubusercontent.com:443
+[2018-10-31 17:04:47] [Error] connect to update server error
+[2018-10-31 17:05:29] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:05:29] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:05:55] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 17:06:00] [Info] Connect clients4.google.com:443
+[2018-10-31 17:06:27] [Info] Disconnect raw.githubusercontent.com:443
+[2018-10-31 17:07:06] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 17:07:08] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 17:07:31] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:07:31] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:07:43] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 17:08:02] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:08:11] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 17:08:11] [Info] Connect www.gravatar.com:443
+[2018-10-31 17:08:22] [Info] Connect clients4.google.com:443
+[2018-10-31 17:08:40] [Info] Connect clients1.google.com:443
+[2018-10-31 17:09:32] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:09:32] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:10:20] [Info] Connect version.gitlab.com:443
+[2018-10-31 17:10:36] [Info] Direct connect pan.baidu.com:443
+[2018-10-31 17:10:39] [Info] Direct connect webpush.pan.baidu.com:443
+[2018-10-31 17:11:35] [Info] Direct connect hm.baidu.com:443
+[2018-10-31 17:11:35] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:11:35] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:11:39] [Info] Direct connect js.aq.qq.com:443
+[2018-10-31 17:11:39] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2018-10-31 17:11:39] [Info] Direct connect rescdn.qqmail.com:443
+[2018-10-31 17:11:39] [Info] Direct connect mail.qq.com:443
+[2018-10-31 17:11:39] [Info] Direct connect rl.mail.qq.com:443
+[2018-10-31 17:11:40] [Info] Direct connect sh-ctfs.ftn.qq.com:443
+[2018-10-31 17:11:43] [Info] Disconnect version.gitlab.com:443
+[2018-10-31 17:11:50] [Info] Disconnect ben.crxmouse.com:443
+[2018-10-31 17:12:16] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 17:12:46] [Info] Disconnect clients1.google.com:443
+[2018-10-31 17:13:38] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:13:38] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:13:49] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:14:14] [Info] Connect sb-ssl.google.com:443
+[2018-10-31 17:15:39] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:15:39] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:16:16] [Info] Disconnect sb-ssl.google.com:443
+[2018-10-31 17:17:41] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:17:41] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:18:45] [Info] Connect clients4.google.com:443
+[2018-10-31 17:19:42] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:19:42] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:20:47] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:21:43] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:21:43] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:23:03] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 17:23:05] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 17:23:46] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:23:46] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:25:47] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:25:47] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:27:38] [Info] Connect clients4.google.com:443
+[2018-10-31 17:27:49] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:27:49] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:27:54] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 17:27:56] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 17:29:40] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:29:52] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:29:52] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:31:15] [Info] Connect v20.events.data.microsoft.com:443
+[2018-10-31 17:31:16] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-10-31 17:31:55] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:31:55] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:33:46] [Info] Connect settings-win.data.microsoft.com:443
+[2018-10-31 17:33:47] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-10-31 17:33:57] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:33:57] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:34:05] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-10-31 17:35:32] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-10-31 17:35:56] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-31 17:35:58] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-31 17:36:00] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:36:00] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:36:00] [Info] Connect clients4.google.com:443
+[2018-10-31 17:36:01] [Info] Connect easylist-downloads.adblockplus.org:443
+[2018-10-31 17:36:02] [Info] Disconnect easylist-downloads.adblockplus.org:443
+[2018-10-31 17:37:57] [Info] Connect clients4.google.com:443
+[2018-10-31 17:38:02] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:38:02] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:38:02] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:38:35] [Info] Connect cdn.onenote.net:443
+[2018-10-31 17:39:36] [Info] Disconnect cdn.onenote.net:443
+[2018-10-31 17:39:58] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:40:04] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:40:04] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:42:06] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:42:06] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:42:19] [Info] Connect v10.events.data.microsoft.com:443
+[2018-10-31 17:42:22] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-10-31 17:44:09] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:44:09] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:44:24] [Info] Connect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-10-31 17:44:26] [Info] Disconnect tsfe.trafficshaping.dsp.mp.microsoft.com:443
+[2018-10-31 17:45:04] [Info] Direct connect rescdn.qqmail.com:443
+[2018-10-31 17:45:06] [Info] Direct connect ssl.ptlogin2.qq.com:443
+[2018-10-31 17:45:06] [Info] Direct connect ssl.ptlogin2.mail.qq.com:443
+[2018-10-31 17:45:06] [Info] Direct connect mail.qq.com:443
+[2018-10-31 17:45:07] [Info] Direct connect js.aq.qq.com:443
+[2018-10-31 17:45:08] [Info] Connect cn.gravatar.com:443
+[2018-10-31 17:45:08] [Info] Direct connect ac.mmstat.com:80
+[2018-10-31 17:45:08] [Info] Direct connect rl.mail.qq.com:443
+[2018-10-31 17:45:09] [Info] Direct connect wp.mail.qq.com:443
+[2018-10-31 17:45:10] [Info] Connect ben.crxmouse.com:443
+[2018-10-31 17:45:15] [Info] Connect clients4.google.com:443
+[2018-10-31 17:45:20] [Info] Connect www.gravatar.com:443
+[2018-10-31 17:45:25] [Info] Connect clients1.google.com:443
+[2018-10-31 17:45:53] [Info] Connect version.gitlab.com:443
+[2018-10-31 17:46:11] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:46:11] [Info] Connect mtalk.google.com:5228
+[2018-10-31 17:46:26] [Info] Disconnect mtalk.google.com:5228
+[2018-10-31 17:46:26] [Info] Disconnect cn.gravatar.com:443
+[2018-10-31 17:46:26] [Info] Disconnect clients4.google.com:443
+[2018-10-31 17:46:26] [Info] Disconnect version.gitlab.com:443
+[2018-10-31 17:46:26] [Info] Disconnect www.gravatar.com:443
+[2018-10-31 17:46:26] [Info] Disconnect clients1.google.com:443
+[2018-10-31 17:46:26] [Info] Disconnect ben.crxmouse.com:443

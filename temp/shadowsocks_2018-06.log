@@ -1,0 +1,2299 @@
+[2018-06-11 09:12:33] ShadowsocksR started on port 10800
+[2018-06-11 09:12:43] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:12:48] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:12:53] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:12:55] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:12:55] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:12:58] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-11 09:12:58] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:13:00] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:13:00] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:13:01] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:02] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:02] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:02] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:03] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:13:04] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:13:05] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:13:05] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:13:07] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:07] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:07] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:07] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:08] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:13:09] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:13:11] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:13:11] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:13:12] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:12] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:12] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:12] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:13] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:13:14] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-11 09:13:14] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:13:17] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:13:17] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:13:17] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:13:17] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:13:18] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:13:18] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:13:20] [Error] connect to update server error
+[2018-06-11 09:13:24] [Info] Connect translate.google.com.hk:443
+[2018-06-11 09:13:24] [Info] Connect translate.google.com.hk:443
+[2018-06-11 09:13:27] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:13:30] [Info] Connect fonts.googleapis.com:443
+[2018-06-11 09:13:30] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:13:30] [Info] Connect www.cisco.com:443
+[2018-06-11 09:13:33] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:13:35] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:13:38] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:13:45] [Info] Connect mtalk.google.com:443
+[2018-06-11 09:13:47] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:47] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:47] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:47] [Info] Connect clients1.google.com:443
+[2018-06-11 09:13:48] [Info] Connect clients4.google.com:443
+[2018-06-11 09:13:55] [Info] Disconnect hm.baidu.com:443
+[2018-06-11 09:13:56] [Info] Disconnect translate.google.com.hk:443
+[2018-06-11 09:13:58] [Info] Connect sso.cisco.com:443
+[2018-06-11 09:14:02] [Info] Connect players.brightcove.net:443
+[2018-06-11 09:14:02] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:14:02] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:14:02] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:14:03] [Info] Connect c.la4-c2-chi.salesforceliveagent.com:443
+[2018-06-11 09:14:03] [Info] Connect tags.tiqcdn.com:443
+[2018-06-11 09:14:04] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:14:04] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:14:04] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:14:04] [Info] Connect edge.api.brightcove.com:443
+[2018-06-11 09:14:04] [Info] Connect dj5ag5n6bpdxo.cloudfront.net:443
+[2018-06-11 09:14:04] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:14:04] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:14:04] [Info] Connect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:14:04] [Info] Connect assets.map.brightcove.com:443
+[2018-06-11 09:14:04] [Info] Connect googleads.g.doubleclick.net:443
+[2018-06-11 09:14:05] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:14:05] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:14:05] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:14:05] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:14:05] [Info] Connect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:14:05] [Info] Connect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:14:05] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:14:05] [Info] Connect stats.ipinyou.com:443
+[2018-06-11 09:14:06] [Info] Connect stats.ipinyou.com:443
+[2018-06-11 09:14:06] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:14:06] [Info] Connect secure.brightcove.com:443
+[2018-06-11 09:14:06] [Info] Connect httpscisco-a.akamaihd.net:443
+[2018-06-11 09:14:06] [Info] Connect stats.ipinyou.com:443
+[2018-06-11 09:14:06] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:14:06] [Info] Disconnect assets.map.brightcove.com:443
+[2018-06-11 09:14:07] [Info] Connect www.google.com:443
+[2018-06-11 09:14:07] [Info] Disconnect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:14:08] [Info] Connect tag.baidu.com:443
+[2018-06-11 09:14:08] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:14:08] [Info] Connect cm.ipinyou.com:443
+[2018-06-11 09:14:08] [Info] Connect map.brightcove.com:443
+[2018-06-11 09:14:08] [Info] Disconnect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:14:08] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:14:08] [Info] Disconnect c.la4-c2-chi.salesforceliveagent.com:443
+[2018-06-11 09:14:08] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:14:08] [Info] Connect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:14:08] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:14:10] [Info] Connect secure.p03.eloqua.com:443
+[2018-06-11 09:14:10] [Info] Disconnect dj5ag5n6bpdxo.cloudfront.net:443
+[2018-06-11 09:14:10] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:14:11] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-11 09:14:11] [Info] Disconnect hm.baidu.com:443
+[2018-06-11 09:14:11] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:14:11] [Info] Disconnect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:14:12] [Info] Connect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:14:12] [Info] Disconnect hm.baidu.com:443
+[2018-06-11 09:14:12] [Info] Connect safebrowsing.googleapis.com:443
+[2018-06-11 09:14:13] [Info] Connect s.yimg.com:443
+[2018-06-11 09:14:13] [Info] Connect img.en25.com:443
+[2018-06-11 09:14:13] [Info] Connect d.la4-c2-chi.salesforceliveagent.com:443
+[2018-06-11 09:14:13] [Info] Connect analytics.twitter.com:443
+[2018-06-11 09:14:13] [Info] Connect analytics.twitter.com:443
+[2018-06-11 09:14:13] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:14:13] [Info] Connect www.google-analytics.com:443
+[2018-06-11 09:14:13] [Info] Connect stats.g.doubleclick.net:443
+[2018-06-11 09:14:13] [Info] Connect stags.bluekai.com:443
+[2018-06-11 09:14:13] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:14:13] [Info] Connect bat.bing.com:443
+[2018-06-11 09:14:13] [Info] Disconnect cm.ipinyou.com:443
+[2018-06-11 09:14:13] [Info] Connect px.ads.linkedin.com:443
+[2018-06-11 09:14:13] [Info] Disconnect httpscisco-a.akamaihd.net:443
+[2018-06-11 09:14:13] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:14:13] [Info] Connect cdn.appdynamics.com:443
+[2018-06-11 09:14:13] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:14:13] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:14:13] [Info] Disconnect players.brightcove.net:443
+[2018-06-11 09:14:13] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:14:13] [Info] Connect mcc-tags.cisco.com:443
+[2018-06-11 09:14:13] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:14:13] [Info] Connect www.google-analytics.com:443
+[2018-06-11 09:14:13] [Info] Connect www.google-analytics.com:443
+[2018-06-11 09:14:13] [Info] Connect www.google-analytics.com:443
+[2018-06-11 09:14:13] [Info] Disconnect secure.p03.eloqua.com:443
+[2018-06-11 09:14:13] [Info] Connect www.google-analytics.com:443
+[2018-06-11 09:14:13] [Info] Connect b.6sc.co:443
+[2018-06-11 09:14:13] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:14:13] [Info] Disconnect sso.cisco.com:443
+[2018-06-11 09:14:13] [Info] Disconnect stats.ipinyou.com:443
+[2018-06-11 09:14:13] [Info] Disconnect stats.ipinyou.com:443
+[2018-06-11 09:14:13] [Info] Disconnect stats.ipinyou.com:443
+[2018-06-11 09:14:13] [Info] Disconnect tag.baidu.com:443
+[2018-06-11 09:14:13] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:14:13] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:14:14] [Info] Connect s2026391005.t.eloqua.com:443
+[2018-06-11 09:14:14] [Info] Connect s177775138.t.eloqua.com:443
+[2018-06-11 09:14:14] [Info] Connect s177775138.t.eloqua.com:443
+[2018-06-11 09:14:14] [Info] Connect s177775138.t.eloqua.com:443
+[2018-06-11 09:14:14] [Info] Connect s983166544.t.eloqua.com:443
+[2018-06-11 09:14:14] [Info] Connect sp.analytics.yahoo.com:443
+[2018-06-11 09:14:14] [Info] Disconnect www.google-analytics.com:443
+[2018-06-11 09:14:14] [Info] Disconnect analytics.twitter.com:443
+[2018-06-11 09:14:14] [Info] Disconnect analytics.twitter.com:443
+[2018-06-11 09:14:14] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:14:14] [Info] Disconnect img.en25.com:443
+[2018-06-11 09:14:14] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:14:14] [Info] Disconnect d.la4-c2-chi.salesforceliveagent.com:443
+[2018-06-11 09:14:14] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:14:16] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:14:16] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:14:16] [Info] Disconnect b.6sc.co:443
+[2018-06-11 09:14:16] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:14:16] [Info] Disconnect s177775138.t.eloqua.com:443
+[2018-06-11 09:14:18] [Info] Disconnect mcc-tags.cisco.com:443
+[2018-06-11 09:14:18] [Info] Connect b.6sc.co:443
+[2018-06-11 09:14:18] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:14:18] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:14:18] [Info] Disconnect hm.baidu.com:443
+[2018-06-11 09:14:19] [Info] Connect b.6sc.co:443
+[2018-06-11 09:14:19] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:14:19] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:14:19] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:14:19] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:14:19] [Info] Disconnect s177775138.t.eloqua.com:443
+[2018-06-11 09:14:19] [Info] Disconnect s177775138.t.eloqua.com:443
+[2018-06-11 09:14:19] [Info] Disconnect s2026391005.t.eloqua.com:443
+[2018-06-11 09:14:19] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:14:19] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:14:20] [Info] Disconnect s983166544.t.eloqua.com:443
+[2018-06-11 09:14:20] [Info] Disconnect stags.bluekai.com:443
+[2018-06-11 09:14:20] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:14:20] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:14:20] [Info] Disconnect b.6sc.co:443
+[2018-06-11 09:14:20] [Info] Disconnect b.6sc.co:443
+[2018-06-11 09:14:23] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:14:28] [Info] Disconnect www.google-analytics.com:443
+[2018-06-11 09:14:28] [Info] Disconnect www.google-analytics.com:443
+[2018-06-11 09:14:28] [Info] Disconnect www.google-analytics.com:443
+[2018-06-11 09:14:32] [Info] Connect google.com.hk:443
+[2018-06-11 09:14:32] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:14:32] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:14:32] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:14:36] [Info] Disconnect edge.api.brightcove.com:443
+[2018-06-11 09:14:49] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:14:50] [Info] Connect android.clients.google.com:443
+[2018-06-11 09:14:52] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:14:53] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:15:05] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:15:05] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:15:06] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:15:08] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:15:08] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:15:26] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:15:26] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:15:33] [Info] Disconnect fonts.googleapis.com:443
+[2018-06-11 09:15:36] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:15:39] [Info] Disconnect translate.google.com.hk:443
+[2018-06-11 09:15:50] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:15:50] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:15:52] [Info] Disconnect clients1.google.com:443
+[2018-06-11 09:15:52] [Info] Disconnect mtalk.google.com:443
+[2018-06-11 09:15:52] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:15:53] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:15:55] [Info] Connect clients2.google.com:443
+[2018-06-11 09:15:57] [Info] Connect clients2.googleusercontent.com:443
+[2018-06-11 09:15:58] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:16:00] [Info] Disconnect px.ads.linkedin.com:443
+[2018-06-11 09:16:00] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:16:04] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:16:06] [Info] Disconnect tags.tiqcdn.com:443
+[2018-06-11 09:16:08] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:16:10] [Info] Disconnect s.yimg.com:443
+[2018-06-11 09:16:12] [Info] Disconnect sp.analytics.yahoo.com:443
+[2018-06-11 09:16:13] [Info] Disconnect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:16:15] [Info] Disconnect www.google-analytics.com:443
+[2018-06-11 09:16:15] [Info] Disconnect cdn.appdynamics.com:443
+[2018-06-11 09:16:15] [Info] Disconnect bat.bing.com:443
+[2018-06-11 09:16:15] [Info] Disconnect stats.g.doubleclick.net:443
+[2018-06-11 09:16:15] [Info] Disconnect googleads.g.doubleclick.net:443
+[2018-06-11 09:16:18] [Info] Disconnect www.google.com:443
+[2018-06-11 09:16:18] [Info] Disconnect www.cisco.com:443
+[2018-06-11 09:16:21] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:16:23] [Info] Disconnect secure.brightcove.com:443
+[2018-06-11 09:16:23] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:16:26] [Info] Disconnect safebrowsing.googleapis.com:443
+[2018-06-11 09:16:34] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:16:34] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:16:36] [Info] Connect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:16:36] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:16:36] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:16:37] [Info] Disconnect google.com.hk:443
+[2018-06-11 09:16:39] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:16:40] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:16:40] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:16:40] [Info] Connect clients4.google.com:443
+[2018-06-11 09:16:50] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:16:52] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:17:07] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:17:07] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:17:25] [Info] Disconnect clients4.google.com:443
+[2018-06-11 09:17:27] [Info] Disconnect android.clients.google.com:443
+[2018-06-11 09:17:34] [Info] Disconnect map.brightcove.com:443
+[2018-06-11 09:17:42] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:17:42] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:17:43] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 09:17:43] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:17:44] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:17:44] [Error] connect to update server error
+[2018-06-11 09:17:54] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:17:54] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:17:57] [Info] Disconnect clients2.google.com:443
+[2018-06-11 09:18:13] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-06-11 09:18:13] [Info] Disconnect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:18:33] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:18:34] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:18:38] [Info] Disconnect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:18:40] [Info] Connect www.cisco.com:443
+[2018-06-11 09:18:40] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:18:44] [Info] Disconnect clients4.google.com:443
+[2018-06-11 09:18:47] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:19:07] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:19:11] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:19:13] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:19:14] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:19:14] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:19:14] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:19:14] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:19:14] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:19:15] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:19:15] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:19:15] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:19:15] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:19:15] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:19:15] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:19:15] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:19:24] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-11 09:19:24] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:19:26] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:19:29] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:19:29] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:19:29] [Info] Connect players.brightcove.net:443
+[2018-06-11 09:19:29] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:19:29] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:19:29] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:19:29] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:19:29] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:19:29] [Info] Connect b.6sc.co:443
+[2018-06-11 09:19:30] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:19:30] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:19:30] [Info] Connect edge.api.brightcove.com:443
+[2018-06-11 09:19:30] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:19:30] [Info] Connect assets.map.brightcove.com:443
+[2018-06-11 09:19:32] [Info] Connect secure.brightcove.com:443
+[2018-06-11 09:19:32] [Info] Connect httpscisco-a.akamaihd.net:443
+[2018-06-11 09:19:32] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:19:32] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:19:34] [Info] Connect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:19:35] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:19:37] [Info] Disconnect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:19:38] [Info] Connect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:19:45] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:19:49] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:19:52] [Info] Disconnect www.cisco.com:443
+[2018-06-11 09:19:55] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:19:56] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:19:56] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:19:58] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:20:06] [Info] Disconnect edge.api.brightcove.com:443
+[2018-06-11 09:20:16] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:20:17] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:20:21] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:20:21] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:20:25] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:20:26] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:20:28] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:20:29] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:20:38] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:20:38] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:20:55] [Info] Connect b.6sc.co:443
+[2018-06-11 09:20:55] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:20:56] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:21:07] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:21:07] [Info] Disconnect b.6sc.co:443
+[2018-06-11 09:21:07] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:21:08] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:21:17] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:21:25] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:21:27] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:21:27] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:21:30] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:21:32] [Info] Disconnect assets.map.brightcove.com:443
+[2018-06-11 09:21:33] [Info] Disconnect players.brightcove.net:443
+[2018-06-11 09:21:35] [Info] Disconnect httpscisco-a.akamaihd.net:443
+[2018-06-11 09:21:49] [Info] Disconnect secure.brightcove.com:443
+[2018-06-11 09:21:58] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:21:58] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:21:58] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:21:58] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:22:00] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:22:01] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:22:02] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:22:02] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:22:05] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:22:33] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:22:34] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:22:38] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:22:38] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:22:41] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:22:44] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:22:50] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:22:51] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:22:59] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:22:59] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:22:59] [Info] Disconnect b.6sc.co:443
+[2018-06-11 09:23:02] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:23:13] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:23:13] [Info] Connect b.6sc.co:443
+[2018-06-11 09:23:16] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:23:16] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:23:16] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:23:19] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:23:19] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:23:19] [Info] Connect metrics.brightcove.com:443
+[2018-06-11 09:23:19] [Info] Connect edge.api.brightcove.com:443
+[2018-06-11 09:23:19] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:23:21] [Info] Connect secure.brightcove.com:443
+[2018-06-11 09:23:21] [Info] Connect httpscisco-a.akamaihd.net:443
+[2018-06-11 09:23:23] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:23:23] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:23:25] [Info] Disconnect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:23:25] [Info] Connect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:23:25] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-11 09:23:27] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-11 09:23:36] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:23:40] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:23:40] [Info] Connect www.cisco.com:443
+[2018-06-11 09:23:41] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:23:43] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:23:51] [Info] Disconnect edge.api.brightcove.com:443
+[2018-06-11 09:24:00] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:24:00] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:24:07] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:24:12] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:24:12] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:24:16] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:24:25] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:24:26] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:24:26] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:24:33] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:24:34] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:24:44] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:24:47] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:24:47] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:24:51] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:24:52] [Info] Disconnect www.cisco.com:443
+[2018-06-11 09:25:19] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:25:21] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:25:23] [Info] Connect cisco.sc.omtrdc.net:443
+[2018-06-11 09:25:23] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:25:23] [Info] Disconnect httpscisco-a.akamaihd.net:443
+[2018-06-11 09:25:23] [Info] Disconnect b.6sc.co:443
+[2018-06-11 09:25:24] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:25:26] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:25:27] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:25:30] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:25:30] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:25:30] [Info] Connect login.live.com:443
+[2018-06-11 09:25:32] [Info] Disconnect login.live.com:443
+[2018-06-11 09:25:45] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:25:49] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:25:49] [Info] Connect cisco-tags.cisco.com:443
+[2018-06-11 09:25:50] [Info] Connect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:25:50] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:25:50] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:25:50] [Info] Connect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:25:50] [Info] Connect www.webdissector.com:443
+[2018-06-11 09:25:53] [Info] Disconnect cisco-tags.cisco.com:443
+[2018-06-11 09:25:59] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:25:59] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:25:59] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:26:00] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:26:00] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:00] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:26:00] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:26:00] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:00] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:00] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:26:01] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:01] [Info] Connect suggestion.baidu.com:80
+[2018-06-11 09:26:01] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:01] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:01] [Info] Connect click.hm.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect click.hm.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect gss3.bdstatic.com:443
+[2018-06-11 09:26:01] [Info] Connect gss3.bdstatic.com:443
+[2018-06-11 09:26:01] [Info] Connect gss3.bdstatic.com:443
+[2018-06-11 09:26:01] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:26:01] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:26:01] [Info] Disconnect metrics.brightcove.com:443
+[2018-06-11 09:26:01] [Info] Disconnect recv-wd.gridsumdissector.com:443
+[2018-06-11 09:26:01] [Info] Disconnect www.webdissector.com:443
+[2018-06-11 09:26:01] [Info] Connect sp1.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect sp1.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect sp1.baidu.com:443
+[2018-06-11 09:26:01] [Info] Disconnect cisco.sc.omtrdc.net:443
+[2018-06-11 09:26:01] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:26:01] [Info] Connect sp2.baidu.com:443
+[2018-06-11 09:26:01] [Info] Disconnect hlscisco-a.akamaihd.net:443
+[2018-06-11 09:26:01] [Info] Disconnect secure.brightcove.com:443
+[2018-06-11 09:26:01] [Info] Connect sp2.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect sp0.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect sp0.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect sp0.baidu.com:443
+[2018-06-11 09:26:01] [Info] Connect sp0.baidu.com:443
+[2018-06-11 09:26:01] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:01] [Info] Connect sp0.baidu.com:443
+[2018-06-11 09:26:02] [Info] Connect sp0.baidu.com:443
+[2018-06-11 09:26:02] [Info] Connect ss1.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss1.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss1.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss1.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss1.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss1.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss0.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Disconnect suggestion.baidu.com:80
+[2018-06-11 09:26:02] [Info] Connect ss0.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss0.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss0.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss0.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect ss0.bdstatic.com:443
+[2018-06-11 09:26:02] [Info] Connect www.baidu.com:443
+[2018-06-11 09:26:02] [Info] Connect www.baidu.com:443
+[2018-06-11 09:26:02] [Info] Connect www.baidu.com:443
+[2018-06-11 09:26:03] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:26:03] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:26:04] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:26:04] [Info] Disconnect click.hm.baidu.com:443
+[2018-06-11 09:26:05] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:26:05] [Info] Disconnect click.hm.baidu.com:443
+[2018-06-11 09:26:05] [Info] Connect ss0.baidu.com:443
+[2018-06-11 09:26:05] [Info] Connect ss0.baidu.com:443
+[2018-06-11 09:26:05] [Info] Connect ss2.baidu.com:443
+[2018-06-11 09:26:06] [Info] Disconnect gss3.bdstatic.com:443
+[2018-06-11 09:26:06] [Info] Disconnect gss3.bdstatic.com:443
+[2018-06-11 09:26:06] [Info] Disconnect gss3.bdstatic.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp0.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp0.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp0.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp0.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp0.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp1.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp1.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp1.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp2.baidu.com:443
+[2018-06-11 09:26:13] [Info] Disconnect sp2.baidu.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss0.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss0.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss0.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss0.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss1.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss1.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss1.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss1.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss0.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss1.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect ss1.bdstatic.com:443
+[2018-06-11 09:26:14] [Info] Disconnect www.baidu.com:443
+[2018-06-11 09:26:14] [Info] Connect common.cnblogs.com:443
+[2018-06-11 09:26:14] [Info] Connect common.cnblogs.com:443
+[2018-06-11 09:26:14] [Info] Connect common.cnblogs.com:443
+[2018-06-11 09:26:14] [Info] Connect images.cnblogs.com:443
+[2018-06-11 09:26:14] [Info] Connect images.cnblogs.com:443
+[2018-06-11 09:26:14] [Info] Connect images.cnblogs.com:443
+[2018-06-11 09:26:14] [Info] Connect promotion.aliyun.com:443
+[2018-06-11 09:26:14] [Info] Connect static.cnblogs.com:443
+[2018-06-11 09:26:14] [Info] Connect static.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:26:15] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:26:15] [Info] Disconnect sp0.baidu.com:443
+[2018-06-11 09:26:15] [Info] Disconnect ss0.baidu.com:443
+[2018-06-11 09:26:15] [Info] Disconnect ss0.baidu.com:443
+[2018-06-11 09:26:15] [Info] Disconnect ss0.bdstatic.com:443
+[2018-06-11 09:26:15] [Info] Connect static.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect static.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect www.google-analytics.com:443
+[2018-06-11 09:26:15] [Info] Connect www.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect www.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect www.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect www.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect www.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect www.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect a1.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect a1.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect mathjax.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect mathjax.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect mathjax.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect mathjax.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect counter.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect counter.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect images0.cnblogs.com:443
+[2018-06-11 09:26:15] [Info] Connect images0.cnblogs.com:443
+[2018-06-11 09:26:17] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:26:17] [Info] Disconnect a1.cnblogs.com:443
+[2018-06-11 09:26:17] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:26:17] [Info] Disconnect common.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Disconnect a1.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Disconnect common.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Disconnect common.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Disconnect counter.cnblogs.com:443
+[2018-06-11 09:26:18] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:26:19] [Info] Connect common.cnblogs.com:443
+[2018-06-11 09:26:19] [Info] Connect common.cnblogs.com:443
+[2018-06-11 09:26:19] [Info] Connect pic.cnblogs.com:443
+[2018-06-11 09:26:19] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:26:19] [Info] Disconnect images.cnblogs.com:443
+[2018-06-11 09:26:21] [Info] Disconnect common.cnblogs.com:443
+[2018-06-11 09:27:06] [Info] Disconnect www.baidu.com:443
+[2018-06-11 09:27:08] [Info] Disconnect ss2.baidu.com:443
+[2018-06-11 09:27:09] [Info] Disconnect images.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect images0.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect images0.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect mathjax.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect mathjax.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect mathjax.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect images.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect mathjax.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:27:09] [Info] Disconnect promotion.aliyun.com:443
+[2018-06-11 09:27:09] [Info] Disconnect static.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect www.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect www.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect www.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect www.cnblogs.com:443
+[2018-06-11 09:27:09] [Info] Disconnect www.cnblogs.com:443
+[2018-06-11 09:27:10] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:27:14] [Info] Disconnect www.baidu.com:443
+[2018-06-11 09:27:20] [Info] Connect qbwup.imtt.qq.com:80
+[2018-06-11 09:27:21] [Info] Disconnect qbwup.imtt.qq.com:80
+[2018-06-11 09:27:22] [Info] Connect api.github.com:443
+[2018-06-11 09:27:23] [Info] Disconnect api.github.com:443
+[2018-06-11 09:27:25] [Info] Disconnect static.cnblogs.com:443
+[2018-06-11 09:27:25] [Info] Disconnect static.cnblogs.com:443
+[2018-06-11 09:27:25] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:27:25] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:27:25] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:27:25] [Info] Disconnect static.cnblogs.com:443
+[2018-06-11 09:27:26] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:27:27] [Info] Disconnect pic.cnblogs.com:443
+[2018-06-11 09:27:53] [Info] Disconnect 3569326.fls.doubleclick.net:443
+[2018-06-11 09:28:01] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:28:02] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:28:06] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:28:06] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:28:20] [Info] Disconnect www.google-analytics.com:443
+[2018-06-11 09:28:20] [Info] Disconnect counter.cnblogs.com:443
+[2018-06-11 09:28:22] [Info] Disconnect www.cnblogs.com:443
+[2018-06-11 09:28:24] [Info] Disconnect common.cnblogs.com:443
+[2018-06-11 09:28:41] [Info] Connect www.cisco.com:443
+[2018-06-11 09:28:48] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:28:53] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:28:54] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:29:15] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:29:45] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:29:46] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:29:53] [Info] Disconnect www.cisco.com:443
+[2018-06-11 09:30:09] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:30:09] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:30:37] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:30:38] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:31:29] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:31:30] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:32:10] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:32:10] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:32:21] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:32:22] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:32:30] [Info] Connect cdn.onenote.net:443
+[2018-06-11 09:33:13] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:33:14] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:33:32] [Info] Disconnect cdn.onenote.net:443
+[2018-06-11 09:33:41] [Info] Connect www.cisco.com:443
+[2018-06-11 09:33:48] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:34:05] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:34:06] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:34:12] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:34:12] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:34:15] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:34:53] [Info] Disconnect www.cisco.com:443
+[2018-06-11 09:34:57] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:34:58] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:35:49] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:35:50] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:36:14] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:36:14] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:36:25] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:26] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:26] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:26] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:26] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:36:26] [Info] Connect common.cnblogs.com:80
+[2018-06-11 09:36:27] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:28] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:28] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Disconnect common.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:36:29] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:36:29] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:36:29] [Info] Connect images2015.cnblogs.com:443
+[2018-06-11 09:36:29] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:29] [Info] Connect www.google-analytics.com:443
+[2018-06-11 09:36:29] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:30] [Info] Connect counter.cnblogs.com:80
+[2018-06-11 09:36:30] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:31] [Info] Disconnect counter.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect common.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect common.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect pic.cnblogs.com:443
+[2018-06-11 09:36:32] [Info] Connect static.cnblogs.com:443
+[2018-06-11 09:36:32] [Info] Connect static.cnblogs.com:443
+[2018-06-11 09:36:32] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:32] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:33] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:33] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Disconnect common.cnblogs.com:80
+[2018-06-11 09:36:34] [Info] Disconnect common.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:35] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:36] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:36] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:36] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:37] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:37] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:37] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:37] [Info] Connect www.cnblogs.com:80
+[2018-06-11 09:36:37] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:37] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:39] [Info] Disconnect www.cnblogs.com:80
+[2018-06-11 09:36:41] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:36:42] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:37:33] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:37:33] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:37:34] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:37:37] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:37:37] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:37:38] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:37:38] [Info] Disconnect images2015.cnblogs.com:443
+[2018-06-11 09:37:40] [Info] Disconnect pic.cnblogs.com:443
+[2018-06-11 09:37:40] [Info] Disconnect static.cnblogs.com:443
+[2018-06-11 09:37:41] [Info] Disconnect static.cnblogs.com:443
+[2018-06-11 09:38:17] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:38:17] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:38:25] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:38:26] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:38:32] [Info] Connect v20.events.data.microsoft.com:443
+[2018-06-11 09:38:32] [Info] Disconnect www.google-analytics.com:443
+[2018-06-11 09:38:34] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-06-11 09:38:41] [Info] Connect www.cisco.com:443
+[2018-06-11 09:38:48] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 09:39:15] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 09:39:16] [Info] Connect sp2.baidu.com:443
+[2018-06-11 09:39:17] [Info] Connect www.baidu.com:443
+[2018-06-11 09:39:17] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:39:18] [Info] Connect clientservices.googleapis.com:443
+[2018-06-11 09:39:18] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 09:39:18] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:39:18] [Info] Connect www.baidu.com:443
+[2018-06-11 09:39:18] [Info] Connect www.baidu.com:443
+[2018-06-11 09:39:18] [Info] Connect entry.baidu.com:443
+[2018-06-11 09:39:18] [Info] Connect entry.baidu.com:443
+[2018-06-11 09:39:18] [Info] Connect entry.baidu.com:443
+[2018-06-11 09:39:18] [Info] Connect fex.bdstatic.com:443
+[2018-06-11 09:39:18] [Info] Connect fex.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Disconnect sp2.baidu.com:443
+[2018-06-11 09:39:19] [Info] Disconnect www.baidu.com:443
+[2018-06-11 09:39:19] [Info] Disconnect www.cisco.com:443
+[2018-06-11 09:39:19] [Info] Connect fex.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.bdstatic.com:443
+[2018-06-11 09:39:19] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect hm.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gss0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gsp0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gsp0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect gsp0.baidu.com:443
+[2018-06-11 09:39:19] [Info] Connect iknowpc.bdimg.com:443
+[2018-06-11 09:39:19] [Info] Connect iknowpc.bdimg.com:443
+[2018-06-11 09:39:19] [Info] Connect iknowpc.bdimg.com:443
+[2018-06-11 09:39:19] [Info] Connect iknowpc.bdimg.com:443
+[2018-06-11 09:39:20] [Info] Connect zhidao.baidu.com:443
+[2018-06-11 09:39:24] [Info] Connect iknowpc.bdimg.com:443
+[2018-06-11 09:39:24] [Info] Connect iknowpc.bdimg.com:443
+[2018-06-11 09:39:24] [Info] Connect iknowpc.bdimg.com:443
+[2018-06-11 09:39:24] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-11 09:39:24] [Info] Connect safebrowsing.googleapis.com:443
+[2018-06-11 09:39:24] [Info] Disconnect entry.baidu.com:443
+[2018-06-11 09:39:25] [Info] Disconnect entry.baidu.com:443
+[2018-06-11 09:39:27] [Info] Connect zhidao.baidu.com:443
+[2018-06-11 09:39:27] [Info] Connect zhidao.baidu.com:443
+[2018-06-11 09:39:27] [Info] Connect kstj.baidu.com:443
+[2018-06-11 09:39:28] [Info] Connect zhidao.baidu.com:443
+[2018-06-11 09:39:28] [Info] Connect zhidao.baidu.com:443
+[2018-06-11 09:39:28] [Info] Connect kstj.baidu.com:443
+[2018-06-11 09:39:28] [Info] Connect zhidao.baidu.com:443
+[2018-06-11 09:39:28] [Info] Disconnect entry.baidu.com:443
+[2018-06-11 09:39:28] [Info] Disconnect fex.bdstatic.com:443
+[2018-06-11 09:39:28] [Info] Disconnect fex.bdstatic.com:443
+[2018-06-11 09:39:28] [Info] Disconnect fex.bdstatic.com:443
+[2018-06-11 09:39:28] [Info] Disconnect gsp0.baidu.com:443
+[2018-06-11 09:39:28] [Info] Disconnect gsp0.baidu.com:443
+[2018-06-11 09:39:28] [Info] Disconnect gsp0.baidu.com:443
+[2018-06-11 09:39:28] [Info] Connect gh.bdstatic.com:443
+[2018-06-11 09:39:28] [Info] Disconnect gss0.baidu.com:443
+[2018-06-11 09:39:29] [Info] Connect kstj.baidu.com:443
+[2018-06-11 09:39:29] [Info] Disconnect gss0.baidu.com:443
+[2018-06-11 09:39:30] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-11 09:39:30] [Info] Disconnect www.baidu.com:443
+[2018-06-11 09:39:30] [Info] Connect entry.baidu.com:443
+[2018-06-11 09:39:31] [Info] Disconnect hm.baidu.com:443
+[2018-06-11 09:39:31] [Info] Disconnect gss0.baidu.com:443
+[2018-06-11 09:39:31] [Info] Disconnect gss0.baidu.com:443
+[2018-06-11 09:39:32] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-11 09:39:33] [Info] Disconnect gss0.baidu.com:443
+[2018-06-11 09:39:35] [Info] Connect fex.bdstatic.com:443
+[2018-06-11 09:39:35] [Info] Disconnect iknowpc.bdimg.com:443
+[2018-06-11 09:39:35] [Info] Disconnect hm.baidu.com:443
+[2018-06-11 09:39:40] [Info] Connect ssl.gstatic.com:443
+[2018-06-11 09:39:40] [Info] Connect ssl.gstatic.com:443
+[2018-06-11 09:39:44] [Info] Connect onedriveclucproddm20006.blob.core.windows.net:443
+[2018-06-11 09:39:46] [Info] Disconnect hm.baidu.com:443
+[2018-06-11 09:40:00] [Info] Disconnect zhidao.baidu.com:443
+[2018-06-11 09:40:00] [Info] Disconnect zhidao.baidu.com:443
+[2018-06-11 09:40:00] [Info] Disconnect zhidao.baidu.com:443
+[2018-06-11 09:40:00] [Info] Disconnect zhidao.baidu.com:443
+[2018-06-11 09:40:00] [Info] Disconnect zhidao.baidu.com:443
+[2018-06-11 09:40:00] [Info] Disconnect zhidao.baidu.com:443
+[2018-06-11 09:40:00] [Info] Disconnect kstj.baidu.com:443
+[2018-06-11 09:40:09] [Info] Connect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:40:09] [Info] Disconnect kstj.baidu.com:443
+[2018-06-11 09:40:09] [Info] Disconnect kstj.baidu.com:443
+[2018-06-11 09:40:10] [Info] Disconnect d.la4-c2-was.salesforceliveagent.com:443
+[2018-06-11 09:40:20] [Info] Disconnect mtalk.google.com:5228
+[2018-06-11 09:40:20] [Info] Connect mtalk.google.com:5228
+[2018-06-11 09:40:24] [Info] Disconnect gss0.baidu.com:443
+[2018-06-11 09:40:25] [Info] Disconnect iknowpc.bdimg.com:443
+[2018-06-11 09:40:25] [Info] Disconnect iknowpc.bdimg.com:443
+[2018-06-11 09:40:27] [Info] Disconnect iknowpc.bdimg.com:443
+[2018-06-11 09:40:27] [Info] Disconnect iknowpc.bdimg.com:443
+[2018-06-11 09:40:28] [Info] Disconnect iknowpc.bdimg.com:443
+[2018-06-11 09:40:28] [Info] Disconnect iknowpc.bdimg.com:443
+[2018-06-11 09:40:30] [Info] Disconnect gss0.bdstatic.com:443
+[2018-06-11 09:40:31] [Info] Disconnect gh.bdstatic.com:443
+[2018-06-11 09:40:31] [Info] Disconnect gss0.bdstatic.com:443
+[2018-06-11 09:40:31] [Info] Disconnect gss0.bdstatic.com:443
+[2018-06-11 09:40:31] [Info] Connect clients4.google.com:443
+[2018-06-11 09:40:32] [Info] Disconnect gss0.bdstatic.com:443
+[2018-06-11 09:40:32] [Info] Disconnect gss0.bdstatic.com:443
+[2018-06-11 09:40:33] [Info] Disconnect gss0.bdstatic.com:443
+[2018-06-11 09:40:33] [Info] Disconnect entry.baidu.com:443
+[2018-06-11 09:40:35] [Info] Disconnect www.baidu.com:443
+[2018-06-11 12:33:43] ShadowsocksR started on port 10800
+[2018-06-11 12:33:47] [Info] Connect col.eum-appdynamics.com:443
+[2018-06-11 12:33:51] [Info] Connect qbwup.imtt.qq.com:80
+[2018-06-11 12:33:53] [Info] Disconnect qbwup.imtt.qq.com:80
+[2018-06-11 12:33:53] [Info] Connect raw.githubusercontent.com:443
+[2018-06-11 12:33:55] [Error] connect to update server error
+[2018-06-11 12:33:59] [Info] Connect www.sublimetext.com:443
+[2018-06-11 12:34:02] [Info] Connect packagecontrol.io:443
+[2018-06-11 12:34:04] [Info] Connect g2.symcb.com:80
+[2018-06-11 12:34:05] [Info] Disconnect g2.symcb.com:80
+[2018-06-11 12:34:10] [Info] Disconnect www.sublimetext.com:443
+[2018-06-11 12:34:10] [Info] Disconnect packagecontrol.io:443
+[2018-06-11 12:34:12] [Info] Connect www.sublimetext.com:443
+[2018-06-11 12:34:14] [Info] Disconnect col.eum-appdynamics.com:443
+[2018-06-11 12:34:24] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-11 12:34:24] [Info] Disconnect www.sublimetext.com:443
+[2018-06-11 12:34:24] [Info] Connect www.googleapis.com:443
+[2018-06-11 12:34:26] [Info] Connect www.google.com:443
+[2018-06-11 12:34:26] [Info] Connect bt.byr.cn:80
+[2018-06-11 12:34:27] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-11 12:34:27] [Info] Connect bt.byr.cn:443
+[2018-06-11 12:34:27] [Info] Connect bt.byr.cn:443
+[2018-06-11 12:34:27] [Info] Disconnect bt.byr.cn:80
+[2018-06-11 12:34:28] [Info] Connect s2.googleusercontent.com:443
+[2018-06-11 12:34:28] [Info] Connect s2.googleusercontent.com:443
+[2018-06-11 12:34:28] [Info] Connect s2.googleusercontent.com:443
+[2018-06-11 12:34:28] [Info] Connect s2.googleusercontent.com:443
+[2018-06-11 12:34:28] [Info] Connect s2.googleusercontent.com:443
+[2018-06-11 12:34:28] [Info] Connect s2.googleusercontent.com:443
+[2018-06-11 12:34:29] [Info] Disconnect s2.googleusercontent.com:443
+[2018-06-11 12:34:29] [Info] Disconnect s2.googleusercontent.com:443
+[2018-06-11 12:34:29] [Info] Disconnect s2.googleusercontent.com:443
+[2018-06-11 12:34:31] [Info] Connect ben.crxmouse.com:443
+[2018-06-11 12:34:31] [Info] Connect bt.byr.cn:443
+[2018-06-11 12:34:31] [Info] Connect bt.byr.cn:443
+[2018-06-11 12:34:31] [Info] Connect bt.byr.cn:443
+[2018-06-11 12:34:31] [Info] Connect bt.byr.cn:443
+[2018-06-11 12:34:38] [Info] Connect www.google-analytics.com:443
+[2018-06-11 12:34:39] [Info] Disconnect s2.googleusercontent.com:443
+[2018-06-11 12:34:39] [Info] Disconnect s2.googleusercontent.com:443
+[2018-06-11 12:34:40] [Info] Connect stats.g.doubleclick.net:443
+[2018-06-11 12:34:51] [Info] Connect bt.byr.cn:443
+[2018-06-11 12:35:05] [Info] Connect clients1.google.com:443
+[2018-06-11 12:35:13] [Info] Connect ia.media-imdb.com:443
+[2018-06-11 12:35:15] [Info] Connect p.media-imdb.com:443
+[2018-06-11 12:35:15] [Info] Connect p.media-imdb.com:443
+[2018-06-11 12:35:15] [Info] Connect p.media-imdb.com:443
+[2018-06-11 12:35:15] [Info] Connect p.media-imdb.com:443
+[2018-06-11 12:35:15] [Info] Connect p.media-imdb.com:443
+[2018-06-11 12:35:15] [Info] Connect p.media-imdb.com:443
+[2018-06-25 08:49:32] ShadowsocksR started on port 10800
+[2018-06-25 08:49:36] [Info] Connect android.clients.google.com:443
+[2018-06-25 08:49:41] [Info] Connect android.clients.google.com:443
+[2018-06-25 08:49:42] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 08:49:46] [Info] Connect android.clients.google.com:443
+[2018-06-25 08:49:46] [Info] Disconnect android.clients.google.com:443
+[2018-06-25 08:49:46] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 08:49:49] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:49:49] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:49:59] [Info] Connect clients4.google.com:443
+[2018-06-25 08:50:05] [Info] Connect www.googleapis.com:443
+[2018-06-25 08:50:07] [Info] Connect storage.googleapis.com:80
+[2018-06-25 08:50:20] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:50:20] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:50:20] [Info] Connect ben.crxmouse.com:443
+[2018-06-25 08:50:33] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 08:50:34] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:50:35] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 08:50:36] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-25 08:50:37] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:50:37] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 08:50:37] [Info] Connect www.googleapis.com:443
+[2018-06-25 08:50:40] [Info] Connect clients4.google.com:443
+[2018-06-25 08:50:41] [Info] Disconnect clients4.google.com:443
+[2018-06-25 08:50:44] [Info] Connect www.googleapis.com:443
+[2018-06-25 08:50:45] [Info] Disconnect www.googleapis.com:443
+[2018-06-25 08:50:50] [Info] Connect storage.googleapis.com:80
+[2018-06-25 08:50:55] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:50:55] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:50:59] [Info] Connect www.youtube.com:443
+[2018-06-25 08:50:59] [Info] Connect www.youtube.com:443
+[2018-06-25 08:51:00] [Info] Connect clients4.google.com:443
+[2018-06-25 08:51:02] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:51:02] [Info] Connect www.google.com.hk:443
+[2018-06-25 08:51:02] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 08:51:02] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 08:51:03] [Info] Connect ben.crxmouse.com:443
+[2018-06-25 08:51:03] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-25 08:51:10] [Info] Connect www.googleapis.com:443
+[2018-06-25 08:51:10] [Info] Connect roaming.officeapps.live.com:443
+[2018-06-25 08:51:14] [Info] Connect wup.browser.qq.com:443
+[2018-06-25 08:51:15] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-25 08:51:15] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 08:51:16] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-25 08:51:16] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-25 08:51:16] [Info] Connect www.googleapis.com:443
+[2018-06-25 08:51:16] [Info] Connect android.clients.google.com:443
+[2018-06-25 08:51:17] [Info] Disconnect www.googleapis.com:443
+[2018-06-25 09:43:12] ShadowsocksR started on port 10800
+[2018-06-25 09:43:22] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 09:43:27] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:43:27] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:43:57] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:43:57] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:43:58] [Info] Connect ben.crxmouse.com:443
+[2018-06-25 09:44:09] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 09:44:11] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:44:11] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:44:11] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:44:12] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:44:19] [Info] Connect hm.baidu.com:443
+[2018-06-25 09:44:33] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:44:33] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:44:43] [Info] Connect ben.crxmouse.com:443
+[2018-06-25 09:44:43] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-25 09:44:43] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:44:43] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:44:43] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:44:44] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:44:55] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 09:45:03] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:45:04] [Info] Connect hm.baidu.com:443
+[2018-06-25 09:45:04] [Info] Disconnect hm.baidu.com:443
+[2018-06-25 09:45:20] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:45:20] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:45:20] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:45:20] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:45:33] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:45:33] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:45:41] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-25 09:45:41] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 09:45:47] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:45:48] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:46:03] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-25 09:46:20] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:46:21] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:46:21] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:46:21] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:46:30] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 09:46:44] [Info] Connect clients4.google.com:443
+[2018-06-25 09:46:54] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-25 09:46:54] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-25 09:47:03] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:47:03] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:47:20] [Info] Connect raw.githubusercontent.com:443
+[2018-06-25 09:47:33] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-25 09:47:36] [Info] Connect clients4.google.com:443
+[2018-06-25 09:47:36] [Info] Disconnect clients4.google.com:443
+[2018-06-25 09:47:52] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:47:53] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:47:54] [Info] Connect www.google.com.hk:443
+[2018-06-25 09:47:54] [Info] Disconnect www.google.com.hk:443
+[2018-06-25 09:48:00] [Info] Connect www.youtube.com:443
+[2018-06-25 09:48:00] [Info] Connect www.youtube.com:443
+[2018-06-25 09:48:00] [Info] Connect www.youtube.com:443
+[2018-06-25 09:48:00] [Info] Connect www.youtube.com:443
+[2018-06-25 09:48:08] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-25 09:48:08] [Error] connect to update server error
+[2018-06-26 11:14:56] ShadowsocksR started on port 10800
+[2018-06-26 11:15:04] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:15:06] [Info] Connect translate.googleapis.com:443
+[2018-06-26 11:15:06] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:15:06] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:15:08] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:15:08] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:15:23] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:15:34] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:15:38] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:15:39] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:15:39] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:15:39] [Info] Connect ben.crxmouse.com:443
+[2018-06-26 11:16:04] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:16:05] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:16:05] [Info] Connect translate.googleapis.com:443
+[2018-06-26 11:16:05] [Info] Disconnect www.googleapis.com:443
+[2018-06-26 11:16:05] [Info] Disconnect translate.googleapis.com:443
+[2018-06-26 11:16:06] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:16:10] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:16:10] [Info] Disconnect www.google.com.hk:443
+[2018-06-26 11:16:11] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:16:12] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:16:12] [Info] Disconnect www.google.com.hk:443
+[2018-06-26 11:16:17] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:16:17] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:16:20] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:16:28] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:16:29] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:16:31] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:16:31] [Info] Disconnect www.googleapis.com:443
+[2018-06-26 11:16:31] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:16:32] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:16:35] [Info] Connect ben.crxmouse.com:443
+[2018-06-26 11:16:35] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:16:35] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:16:35] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-26 11:16:35] [Info] Disconnect www.google.com.hk:443
+[2018-06-26 11:16:35] [Info] Disconnect www.google.com.hk:443
+[2018-06-26 11:16:37] [Info] Connect clients4.google.com:443
+[2018-06-26 11:16:40] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:16:41] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:16:45] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:16:45] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:17:00] [Info] Connect android.clients.google.com:443
+[2018-06-26 11:17:03] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:17:03] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:17:04] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:17:04] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:17:04] [Info] Disconnect www.googleapis.com:443
+[2018-06-26 11:17:05] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:17:16] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-26 11:17:20] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:17:20] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:17:24] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:17:26] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:17:32] [Info] Connect clients4.google.com:443
+[2018-06-26 11:17:32] [Info] Disconnect clients4.google.com:443
+[2018-06-26 11:17:36] [Info] Connect android.clients.google.com:443
+[2018-06-26 11:17:38] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:17:38] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:17:38] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:17:38] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:17:39] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:17:39] [Info] Disconnect www.googleapis.com:443
+[2018-06-26 11:17:40] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:17:40] [Info] Disconnect www.google.com.hk:443
+[2018-06-26 11:17:50] [Info] Connect roaming.officeapps.live.com:443
+[2018-06-26 11:17:55] [Info] Connect beacons.gvt2.com:443
+[2018-06-26 11:17:55] [Info] Connect android.clients.google.com:443
+[2018-06-26 11:17:56] [Info] Disconnect android.clients.google.com:443
+[2018-06-26 11:18:00] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-26 11:18:00] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:18:00] [Info] Connect cdn.onenote.net:443
+[2018-06-26 11:18:02] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:18:03] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:18:07] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-26 11:18:07] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:18:08] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-26 11:18:11] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:18:19] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:18:19] [Info] Disconnect www.googleapis.com:443
+[2018-06-26 11:18:20] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:18:21] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:18:33] [Info] Connect android.clients.google.com:443
+[2018-06-26 11:18:34] [Info] Disconnect android.clients.google.com:443
+[2018-06-26 11:18:36] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:18:38] [Info] Connect beacons2.gvt2.com:443
+[2018-06-26 11:18:46] [Info] Connect roaming.officeapps.live.com:443
+[2018-06-26 11:18:46] [Info] Connect beacons.gvt2.com:443
+[2018-06-26 11:18:47] [Info] Disconnect roaming.officeapps.live.com:443
+[2018-06-26 11:18:47] [Info] Disconnect beacons.gvt2.com:443
+[2018-06-26 11:18:48] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:18:57] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:18:58] [Info] Connect cdn.onenote.net:443
+[2018-06-26 11:18:58] [Info] Disconnect cdn.onenote.net:443
+[2018-06-26 11:19:00] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:19:00] [Info] Connect hm.baidu.com:443
+[2018-06-26 11:19:00] [Info] Connect hm.baidu.com:443
+[2018-06-26 11:19:03] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:19:04] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:19:07] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:19:08] [Info] Connect www.googleapis.com:443
+[2018-06-26 11:19:09] [Info] Disconnect www.googleapis.com:443
+[2018-06-26 11:19:19] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:19:29] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:19:30] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:19:31] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:19:31] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:19:34] [Info] Connect beacons2.gvt2.com:443
+[2018-06-26 11:19:34] [Info] Disconnect beacons2.gvt2.com:443
+[2018-06-26 11:19:39] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:19:40] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:19:48] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:19:54] [Info] Connect hm.baidu.com:443
+[2018-06-26 11:19:54] [Info] Connect hm.baidu.com:443
+[2018-06-26 11:19:54] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:19:54] [Info] Disconnect hm.baidu.com:443
+[2018-06-26 11:19:55] [Info] Disconnect hm.baidu.com:443
+[2018-06-26 11:19:55] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:19:59] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-26 11:20:00] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:20:00] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:20:06] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:20:09] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:20:13] [Info] Connect www.google.com.hk:443
+[2018-06-26 11:20:14] [Info] Disconnect www.google.com.hk:443
+[2018-06-26 11:20:23] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:20:24] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:20:25] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:20:26] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:20:39] [Info] Connect beacons.gvt2.com:443
+[2018-06-26 11:20:41] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-26 11:20:41] [Error] connect to update server error
+[2018-06-26 11:20:50] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:20:52] [Info] Connect clients4.google.com:443
+[2018-06-26 11:20:54] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-26 11:20:54] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-26 11:21:00] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:21:01] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:21:03] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:21:04] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:21:09] [Info] Connect beacons2.gvt2.com:443
+[2018-06-26 11:21:30] [Info] Connect beacons.gvt2.com:443
+[2018-06-26 11:21:30] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:21:31] [Info] Disconnect beacons.gvt2.com:443
+[2018-06-26 11:21:31] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:21:39] [Info] Connect beacons3.gvt2.com:443
+[2018-06-26 11:21:46] [Info] Connect wp.mail.qq.com:443
+[2018-06-26 11:21:46] [Info] Disconnect wp.mail.qq.com:443
+[2018-06-26 11:21:50] [Info] Connect clients4.google.com:443
+[2018-06-26 11:21:50] [Info] Disconnect clients4.google.com:443
+[2018-06-26 11:21:52] [Info] Connect raw.githubusercontent.com:443
+[2018-06-26 11:21:53] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:21:54] [Info] Disconnect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:22:00] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:22:04] [Info] Connect beacons2.gvt2.com:443
+[2018-06-26 11:22:05] [Info] Disconnect beacons2.gvt2.com:443
+[2018-06-26 11:22:05] [Info] Connect fonts.googleapis.com:443
+[2018-06-26 11:22:05] [Info] Connect ssl.google-analytics.com:443
+[2018-06-26 11:22:05] [Info] Connect ssl.google-analytics.com:443
+[2018-06-26 11:22:05] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:22:05] [Info] Connect ssl.google-analytics.com:443
+[2018-06-26 11:22:05] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:22:05] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:22:05] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:22:05] [Info] Connect docs.cloudcenter.cisco.com:443
+[2018-06-26 11:22:05] [Info] Connect www.google-analytics.com:443
+[2018-06-26 11:22:05] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2018-06-26 11:22:05] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2018-06-26 11:22:05] [Info] Connect maxcdn.bootstrapcdn.com:443
+[2018-06-26 11:22:10] [Info] Connect beacons4.gvt2.com:443
+[2018-06-26 11:22:12] [Info] Connect wp.mail.qq.com:443
+[2018-06-28 18:32:32] ShadowsocksR started on port 10800
+[2018-06-28 18:32:33] [Info] Connect api.bilibili.com:443
+[2018-06-28 18:32:34] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:32:37] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:32:38] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:32:38] [Info] Connect api.bilibili.com:443
+[2018-06-28 18:32:39] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:32:40] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:32:41] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:32:42] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:32:45] [Info] Connect clients2.google.com:443
+[2018-06-28 18:32:45] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:32:47] [Info] Connect mtalk.google.com:5228
+[2018-06-28 18:32:48] [Info] Connect accounts.google.com:443
+[2018-06-28 18:32:52] [Info] Connect mtalk.google.com:5228
+[2018-06-28 18:33:01] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:33:01] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:33:01] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:33:01] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:33:04] [Info] Connect clients4.google.com:443
+[2018-06-28 18:33:06] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:33:06] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:33:07] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:33:22] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:33:31] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:33:31] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:33:31] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:33:38] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:33:38] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:33:38] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:33:39] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-28 18:33:40] [Info] Connect api.bilibili.com:443
+[2018-06-28 18:33:40] [Info] Disconnect api.bilibili.com:443
+[2018-06-28 18:33:41] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:33:42] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:33:42] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:33:42] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:33:42] [Info] Disconnect android.clients.google.com:443
+[2018-06-28 18:33:43] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:33:43] [Info] Disconnect android.clients.google.com:443
+[2018-06-28 18:33:44] [Info] Connect accounts.google.com:443
+[2018-06-28 18:33:44] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:33:44] [Info] Disconnect accounts.google.com:443
+[2018-06-28 18:33:44] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:33:47] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:33:49] [Info] Connect clients2.google.com:443
+[2018-06-28 18:33:49] [Info] Connect mtalk.google.com:5228
+[2018-06-28 18:33:50] [Info] Disconnect mtalk.google.com:5228
+[2018-06-28 18:33:52] [Info] Connect accounts.google.com:443
+[2018-06-28 18:33:53] [Info] Connect clients4.google.com:443
+[2018-06-28 18:33:54] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:33:56] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:33:56] [Info] Disconnect data.bilibili.com:443
+[2018-06-28 18:33:57] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:33:58] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:33:58] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:33:58] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:33:58] [Info] Disconnect android.clients.google.com:443
+[2018-06-28 18:34:00] [Info] Connect clients4.google.com:443
+[2018-06-28 18:34:00] [Info] Connect appstore.browser.qq.com:80
+[2018-06-28 18:34:00] [Info] Connect update.browser.qq.com:80
+[2018-06-28 18:34:01] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:34:02] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:34:03] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:34:05] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:34:05] [Info] Disconnect data.bilibili.com:443
+[2018-06-28 18:34:05] [Info] Disconnect data.bilibili.com:443
+[2018-06-28 18:34:06] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:34:06] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:34:15] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:34:16] [Info] Connect clients2.google.com:443
+[2018-06-28 18:34:19] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:34:20] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:34:22] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:34:23] [Info] Disconnect clients2.google.com:443
+[2018-06-28 18:34:24] [Info] Connect beacons.gvt2.com:443
+[2018-06-28 18:34:25] [Info] Connect safebrowsing.googleapis.com:443
+[2018-06-28 18:34:27] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:34:27] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:34:27] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:34:28] [Info] Connect appstore.browser.qq.com:80
+[2018-06-28 18:34:28] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:34:29] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:34:30] [Info] Connect scdown.qq.com:80
+[2018-06-28 18:34:32] [Info] Disconnect appstore.browser.qq.com:80
+[2018-06-28 18:34:33] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:34:35] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:34:36] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:34:38] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:34:39] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:34:40] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:34:43] [Info] Connect clients4.google.com:443
+[2018-06-28 18:34:43] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:34:46] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:34:46] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:34:48] [Info] Connect clients4.google.com:443
+[2018-06-28 18:34:48] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:34:48] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:34:49] [Info] Connect beacons.gvt2.com:443
+[2018-06-28 18:34:49] [Info] Disconnect clients2.google.com:443
+[2018-06-28 18:34:49] [Info] Connect accounts.google.com:443
+[2018-06-28 18:34:51] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:34:52] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:34:54] [Info] Connect accounts.google.com:443
+[2018-06-28 18:34:55] [Info] Connect qbwup.imtt.qq.com:80
+[2018-06-28 18:34:57] [Info] Connect update.browser.qq.com:80
+[2018-06-28 18:34:58] [Info] Disconnect beacons.gvt2.com:443
+[2018-06-28 18:34:58] [Info] Disconnect accounts.google.com:443
+[2018-06-28 18:35:02] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:35:02] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:35:03] [Info] Connect dlied6.qq.com:80
+[2018-06-28 18:35:05] [Info] Disconnect data.bilibili.com:443
+[2018-06-28 18:35:11] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-28 18:35:12] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:35:13] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:35:13] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-28 18:35:18] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:35:19] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:35:22] [Info] Connect safebrowsing.googleapis.com:443
+[2018-06-28 18:35:22] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-28 18:35:22] [Info] Disconnect safebrowsing.googleapis.com:443
+[2018-06-28 18:35:24] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:35:24] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:35:26] [Info] Connect scdown.qq.com:80
+[2018-06-28 18:35:37] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:35:38] [Info] Connect clients4.google.com:443
+[2018-06-28 18:35:39] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:35:40] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:35:43] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:35:50] [Info] Connect qbwup.imtt.qq.com:80
+[2018-06-28 18:35:54] [Info] Connect update.browser.qq.com:80
+[2018-06-28 18:35:55] [Info] Disconnect update.browser.qq.com:80
+[2018-06-28 18:36:00] [Info] Connect dlied6.qq.com:80
+[2018-06-28 18:36:03] [Info] Connect www.sublimetext.com:443
+[2018-06-28 18:36:04] [Info] Disconnect dlied6.qq.com:80
+[2018-06-28 18:36:04] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:36:14] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:36:20] [Info] Connect clients4.google.com:443
+[2018-06-28 18:36:23] [Info] Connect scdown.qq.com:80
+[2018-06-28 18:36:41] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:36:46] [Info] Connect qbwup.imtt.qq.com:80
+[2018-06-28 18:36:46] [Info] Disconnect qbwup.imtt.qq.com:80
+[2018-06-28 18:36:48] [Info] Direct connect update.googleapis.com:443
+[2018-06-28 18:36:50] [Info] Direct connect redirector.gvt1.com:80
+[2018-06-28 18:36:50] [Info] Direct connect r18---sn-2x3een7e.gvt1.com:80
+[2018-06-28 18:36:50] [Info] Direct connect redirector.gvt1.com:80
+[2018-06-28 18:36:50] [Info] Direct connect r18---sn-2x3een7e.gvt1.com:80
+[2018-06-28 18:36:54] [Info] Direct connect redirector.gvt1.com:80
+[2018-06-28 18:36:54] [Info] Direct connect r18---sn-2x3een7e.gvt1.com:80
+[2018-06-28 18:36:55] [Info] Direct connect redirector.gvt1.com:80
+[2018-06-28 18:36:55] [Info] Direct connect r18---sn-2x3een7e.gvt1.com:80
+[2018-06-28 18:36:56] [Info] Direct connect redirector.gvt1.com:80
+[2018-06-28 18:36:56] [Info] Direct connect r18---sn-2x3een7e.gvt1.com:80
+[2018-06-28 18:36:59] [Info] Connect www.sublimetext.com:443
+[2018-06-28 18:36:59] [Info] Disconnect www.sublimetext.com:443
+[2018-06-28 18:37:01] [Info] Disconnect go.microsoft.com:443
+[2018-06-28 18:37:01] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:37:05] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:37:08] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:37:09] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:37:17] [Info] Connect clients4.google.com:443
+[2018-06-28 18:37:17] [Info] Connect clients4.google.com:443
+[2018-06-28 18:37:18] [Info] Disconnect scdown.qq.com:80
+[2018-06-28 18:37:19] [Debug] DNS query fail: scdown.qq.com
+[2018-06-28 18:37:19] [Info] Connect scdown.qq.com:80
+[2018-06-28 18:37:21] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:37:42] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:37:57] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:38:02] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:38:04] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:38:05] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:38:11] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:38:14] [Info] Connect clients4.google.com:443
+[2018-06-28 18:38:15] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:38:16] [Info] Connect scdown.qq.com:80
+[2018-06-28 18:38:17] [Info] Connect clients4.google.com:443
+[2018-06-28 18:38:19] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:38:19] [Error] connect to update server error
+[2018-06-28 18:38:25] ShadowsocksR started on port 10801
+[2018-06-28 18:38:25] [Info] Disconnect storage.googleapis.com:80
+[2018-06-28 18:38:25] [Info] Disconnect scdown.qq.com:80
+[2018-06-28 18:38:26] [Debug] DNS query fail: scdown.qq.com
+[2018-06-28 18:38:26] [Info] Connect scdown.qq.com:80
+[2018-06-28 18:38:41] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:38:53] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:38:53] [Warn] Proxy server [(45.77.237.113)] network unreachable
+[2018-06-28 18:38:53] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:38:53] [Info] Disconnect go.microsoft.com:443
+[2018-06-28 18:38:53] [Info] Disconnect scdown.qq.com:80
+[2018-06-28 18:38:53] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:38:53] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:38:53] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:38:53] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:38:54] [Error] connect to update server error
+[2018-06-28 18:38:54] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:10800
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadPACCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-06-28 18:38:54] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:10800
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadGFWTemplateCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-06-28 18:39:04] [Info] Direct connect wup.browser.qq.com:443
+[2018-06-28 18:39:18] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:39:18] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:39:19] [Info] Connect login.live.com:443
+[2018-06-28 18:39:19] [Info] Connect clients4.google.com:443
+[2018-06-28 18:39:29] [Info] Connect v20.events.data.microsoft.com:443
+[2018-06-28 18:39:33] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:39:45] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-06-28 18:39:45] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-06-28 18:39:45] [Info] Direct connect async.qun.qq.com:80
+[2018-06-28 18:39:45] [Info] Direct connect thirdqq.qlogo.cn:80
+[2018-06-28 18:39:45] [Info] Direct connect s4.url.cn:80
+[2018-06-28 18:39:45] [Info] Direct connect report.url.cn:80
+[2018-06-28 18:39:45] [Info] Direct connect jsreport.qq.com:80
+[2018-06-28 18:39:45] [Info] Direct connect report.url.cn:80
+[2018-06-28 18:39:45] [Info] Direct connect async.qun.qq.com:80
+[2018-06-28 18:39:45] [Info] Direct connect async.qun.qq.com:80
+[2018-06-28 18:39:46] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 112.90.85.148:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-06-28 18:39:46] [Info] Direct connect jsreport.qq.com:80
+[2018-06-28 18:39:46] [Info] Direct connect isdspeed.qq.com:80
+[2018-06-28 18:39:47] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 112.90.85.148:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-06-28 18:39:47] [Info] Direct connect c.isdspeed.qq.com:80
+[2018-06-28 18:39:49] [Info] Direct connect async.qun.qq.com:80
+[2018-06-28 18:39:49] [Info] Direct connect report.url.cn:80
+[2018-06-28 18:39:49] [Info] Direct connect jsreport.qq.com:80
+[2018-06-28 18:39:49] [Info] Direct connect report.url.cn:80
+[2018-06-28 18:39:50] [Info] Direct connect async.qun.qq.com:80
+[2018-06-28 18:39:50] [Info] Direct connect async.qun.qq.com:80
+[2018-06-28 18:39:50] [Info] Connect login.live.com:443
+[2018-06-28 18:39:51] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 112.90.85.148:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-06-28 18:39:51] [Info] Direct connect isdspeed.qq.com:80
+[2018-06-28 18:39:51] [Info] Direct connect isdspeed.qq.com:80
+[2018-06-28 18:39:52] [Info] Direct connect c.isdspeed.qq.com:80
+[2018-06-28 18:39:58] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-06-28 18:40:20] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:40:21] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:40:22] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:40:23] ShadowsocksR started on port 10800
+[2018-06-28 18:40:23] [Info] Connect login.live.com:443
+[2018-06-28 18:40:24] [Info] Disconnect login.live.com:443
+[2018-06-28 18:40:24] [Info] Connect clients4.google.com:443
+[2018-06-28 18:40:24] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:40:25] [Info] Connect clients4.google.com:443
+[2018-06-28 18:40:26] [Info] Connect v20.events.data.microsoft.com:443
+[2018-06-28 18:40:26] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-06-28 18:40:28] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:40:46] [Info] Connect login.live.com:443
+[2018-06-28 18:40:46] [Info] Disconnect login.live.com:443
+[2018-06-28 18:40:57] [Info] Disconnect storage.googleapis.com:80
+[2018-06-28 18:40:58] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:40:58] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:40:58] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:40:58] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:40:59] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:40:59] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:40:59] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:10801
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadGFWTemplateCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-06-28 18:41:04] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:41:22] [Info] Connect www.youtube.com:443
+[2018-06-28 18:41:23] [Info] Connect www.youtube.com:443
+[2018-06-28 18:41:24] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:41:24] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:41:27] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:41:34] [Info] Connect clients4.google.com:443
+[2018-06-28 18:41:39] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:41:42] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:41:49] [Info] Connect www.youtube.com:443
+[2018-06-28 18:41:52] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:41:52] [Info] Connect www.youtube.com:443
+[2018-06-28 18:41:52] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:41:53] [Info] Connect www.youtube.com:443
+[2018-06-28 18:41:54] [Info] Connect www.youtube.com:443
+[2018-06-28 18:41:55] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:41:55] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:41:55] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:41:57] [Info] Connect www.youtube.com:443
+[2018-06-28 18:42:00] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:42:03] [Info] Connect www.youtube.com:443
+[2018-06-28 18:42:05] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:42:06] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:42:08] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:42:08] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:09] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:09] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:10] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:10] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:10] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:10] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:10] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:10] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:10] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:10] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:10] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:10] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:42:10] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:11] [Debug] DNS query fail: api.onedrive.com
+[2018-06-28 18:42:11] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Disconnect api.onedrive.com:443
+[2018-06-28 18:42:11] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:42:11] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:42:11] [Info] Connect mtalk.google.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Connect clients2.google.com:443
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:11] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Connect clients2.google.com:443
+[2018-06-28 18:42:12] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:42:12] [Info] Connect mtalk.google.com:443
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:12] [Debug] DNS query fail: api.onedrive.com
+[2018-06-28 18:42:12] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Connect mtalk.google.com:443
+[2018-06-28 18:42:12] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:42:12] [Info] Connect clients2.google.com:443
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Disconnect mtalk.google.com:443
+[2018-06-28 18:42:12] [Info] Disconnect clients2.google.com:443
+[2018-06-28 18:42:12] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:42:12] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:12] [Info] Disconnect api.onedrive.com:443
+[2018-06-28 18:42:12] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:12] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:13] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:13] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:13] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:13] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:13] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:13] [Debug] DNS query fail: api.onedrive.com
+[2018-06-28 18:42:13] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:13] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:13] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:13] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:13] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:13] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:13] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:13] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:13] [Info] Disconnect storage.googleapis.com:80
+[2018-06-28 18:42:14] [Info] Disconnect api.onedrive.com:443
+[2018-06-28 18:42:14] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:14] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:14] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:14] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:14] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:14] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:14] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:14] [Debug] DNS query fail: api.onedrive.com
+[2018-06-28 18:42:14] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:14] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:14] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:14] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:42:14] [Info] Disconnect www.googleapis.com:443
+[2018-06-28 18:42:14] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:42:14] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:14] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:42:14] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:42:14] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:42:14] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:14] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:14] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:14] [Info] Disconnect go.microsoft.com:443
+[2018-06-28 18:42:14] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:42:14] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:42:15] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:42:15] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:42:15] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:42:15] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:42:15] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:15] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Disconnect api.onedrive.com:443
+[2018-06-28 18:42:15] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:15] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:15] [Info] Connect go.microsoft.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Disconnect storage.googleapis.com:80
+[2018-06-28 18:42:15] [Info] Disconnect go.microsoft.com:443
+[2018-06-28 18:42:15] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:15] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:42:15] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:42:15] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:16] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Debug] DNS query fail: api.onedrive.com
+[2018-06-28 18:42:16] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:42:16] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Error] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 基础连接已经关闭: 连接被意外关闭。
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.GFWListUpdater.http_DownloadPACCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-06-28 18:42:16] [Info] Disconnect api.onedrive.com:443
+[2018-06-28 18:42:16] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:16] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:16] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Debug] DNS query fail: api.vc.bilibili.com
+[2018-06-28 18:42:17] [Debug] DNS query fail: api.vc.bilibili.com
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Debug] DNS query fail: api.vc.bilibili.com
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Debug] DNS query fail: data.bilibili.com
+[2018-06-28 18:42:17] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:42:17] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:42:17] [Debug] DNS query fail: api.vc.bilibili.com
+[2018-06-28 18:42:17] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Debug] DNS query fail: cm.bilibili.com
+[2018-06-28 18:42:17] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Disconnect storage.googleapis.com:80
+[2018-06-28 18:42:17] [Info] Disconnect bl3302.storage.live.com:443
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Connect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect data.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:42:17] [Info] Disconnect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect api.vc.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect cm.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect data.bilibili.com:443
+[2018-06-28 18:42:17] [Info] Disconnect api.vc.bilibili.com:443
+[2018-06-28 18:42:27] [Debug] DNS query fail: cm.bilibili.com
+[2018-06-28 18:42:27] [Debug] DNS query fail: cm.bilibili.com
+[2018-06-28 18:42:27] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:27] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:27] [Debug] DNS query fail: cm.bilibili.com
+[2018-06-28 18:42:27] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:27] [Debug] DNS query fail: cm.bilibili.com
+[2018-06-28 18:42:27] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:27] [Debug] DNS query fail: cm.bilibili.com
+[2018-06-28 18:42:27] [Debug] DNS query fail: i0.hdslb.com
+[2018-06-28 18:42:27] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:27] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:27] [Debug] DNS query fail: i0.hdslb.com
+[2018-06-28 18:42:27] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:27] [Debug] DNS query fail: i0.hdslb.com
+[2018-06-28 18:42:27] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:27] [Debug] DNS query fail: i0.hdslb.com
+[2018-06-28 18:42:27] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:28] [Debug] DNS query fail: i0.hdslb.com
+[2018-06-28 18:42:28] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:29] [Debug] DNS query fail: i0.hdslb.com
+[2018-06-28 18:42:29] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:30] [Debug] DNS query fail: i2.hdslb.com
+[2018-06-28 18:42:30] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:31] [Debug] DNS query fail: i2.hdslb.com
+[2018-06-28 18:42:31] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:32] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:32] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:32] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:32] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:32] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:32] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:32] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:32] [Debug] DNS query fail: i2.hdslb.com
+[2018-06-28 18:42:32] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:32] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:32] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:33] [Debug] DNS query fail: s1.hdslb.com
+[2018-06-28 18:42:33] [Info] Connect s1.hdslb.com:443
+[2018-06-28 18:42:33] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:33] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:34] [Debug] DNS query fail: static.hdslb.com
+[2018-06-28 18:42:34] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:34] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:42:34] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:35] [Debug] DNS query fail: static.hdslb.com
+[2018-06-28 18:42:35] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:35] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:36] [Debug] DNS query fail: static.hdslb.com
+[2018-06-28 18:42:36] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:36] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:37] [Debug] DNS query fail: static.hdslb.com
+[2018-06-28 18:42:37] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:37] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:37] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:37] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:37] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:37] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:37] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:37] [Info] Connect cm.bilibili.com:443
+[2018-06-28 18:42:37] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:37] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:37] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:38] [Debug] DNS query fail: static.hdslb.com
+[2018-06-28 18:42:38] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:38] [Info] Connect s1.hdslb.com:443
+[2018-06-28 18:42:38] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:42:38] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:39] [Debug] DNS query fail: static.hdslb.com
+[2018-06-28 18:42:39] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:39] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:39] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:42:39] [Info] Connect i0.hdslb.com:443
+[2018-06-28 18:42:40] [Debug] DNS query fail: i1.hdslb.com
+[2018-06-28 18:42:40] [Info] Connect i1.hdslb.com:443
+[2018-06-28 18:42:40] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:40] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:41] [Debug] DNS query fail: api.onedrive.com
+[2018-06-28 18:42:41] [Info] Connect api.onedrive.com:443
+[2018-06-28 18:42:41] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:41] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:42] [Debug] DNS query fail: www.bilibili.com
+[2018-06-28 18:42:42] [Info] Connect www.bilibili.com:443
+[2018-06-28 18:42:42] [Info] Connect static.hdslb.com:443
+[2018-06-28 18:42:42] [Info] Disconnect i0.hdslb.com:443
+[2018-06-28 18:42:42] [Info] Disconnect i0.hdslb.com:443
+[2018-06-28 18:42:42] [Info] Disconnect cm.bilibili.com:443
+[2018-06-28 18:42:42] [Info] Disconnect cm.bilibili.com:443
+[2018-06-28 18:42:42] [Info] Disconnect cm.bilibili.com:443
+[2018-06-28 18:42:42] [Info] Disconnect cm.bilibili.com:443
+[2018-06-28 18:42:42] [Info] Disconnect cm.bilibili.com:443
+[2018-06-28 18:42:42] [Info] Connect i2.hdslb.com:443
+[2018-06-28 18:42:42] [Info] Disconnect i0.hdslb.com:443
+[2018-06-28 18:42:43] [Info] Disconnect i0.hdslb.com:443
+[2018-06-28 18:42:49] ShadowsocksR started on port 10800
+[2018-06-28 18:42:49] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:42:49] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:42:49] [Info] Connect login.live.com:443
+[2018-06-28 18:42:54] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:42:54] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:42:59] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:43:04] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:43:04] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:43:19] [Info] Connect login.live.com:443
+[2018-06-28 18:43:24] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:43:24] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:43:24] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:43:38] [Info] Direct connect beacons.gvt2.com:443
+[2018-06-28 18:43:48] [Info] Connect clients4.google.com:443
+[2018-06-28 18:43:51] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:43:51] [Info] Connect login.live.com:443
+[2018-06-28 18:43:52] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:43:52] [Info] Disconnect login.live.com:443
+[2018-06-28 18:43:53] [Info] Connect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:43:53] [Info] Disconnect mobile.pipe.aria.microsoft.com:443
+[2018-06-28 18:43:55] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:43:55] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:43:55] [Info] Connect clients4.google.com:443
+[2018-06-28 18:43:56] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:43:56] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:43:56] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:43:56] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:43:59] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:44:00] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-28 18:44:01] [Info] Connect www.youtube.com:443
+[2018-06-28 18:44:02] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:44:06] [Info] Direct connect suggestion.baidu.com:80
+[2018-06-28 18:44:16] [Info] Connect login.live.com:443
+[2018-06-28 18:44:16] [Info] Disconnect login.live.com:443
+[2018-06-28 18:44:19] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:19] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:44:20] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:44:20] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:20] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:44:20] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:44:31] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:44:31] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:44:32] [Info] Connect www.youtube.com:443
+[2018-06-28 18:44:33] [Info] Connect settings-win.data.microsoft.com:443
+[2018-06-28 18:44:33] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:44:36] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:36] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:44:36] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:44:36] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:44:36] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:44:36] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:44:36] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Direct connect data.bilibili.com:443
+[2018-06-28 18:44:41] [Info] Direct connect i1.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Direct connect s1.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Direct connect i2.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Direct connect i2.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Direct connect static.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Direct connect static.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Direct connect static.hdslb.com:443
+[2018-06-28 18:44:41] [Info] Connect cs.dds.microsoft.com:443
+[2018-06-28 18:44:41] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:44:41] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:44:41] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:44:41] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:44:41] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect big.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect message.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect message.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:42] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:43] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:43] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:45] [Info] Connect clients4.google.com:443
+[2018-06-28 18:44:46] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:44:46] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:44:46] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:44:46] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:44:46] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:44:46] [Info] Direct connect backup.hdslb.com:443
+[2018-06-28 18:44:46] [Info] Direct connect i2.hdslb.com:443
+[2018-06-28 18:44:46] [Info] Direct connect i1.hdslb.com:443
+[2018-06-28 18:44:46] [Info] Direct connect dataflow.biliapi.com:443
+[2018-06-28 18:44:47] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:50] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:44:50] [Info] Connect clients4.google.com:443
+[2018-06-28 18:44:51] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:44:52] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:44:52] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:44:52] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:52] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:53] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:44:53] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:44:53] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:44:53] [Info] Connect www.youtube.com:443
+[2018-06-28 18:44:54] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:54] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:56] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:44:57] [Info] Connect www.youtube.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:58] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:44:58] [Info] Direct connect big.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect message.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:58] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:44:59] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:59] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:44:59] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:44:59] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:44:59] [Info] Direct connect data.bilibili.com:443
+[2018-06-28 18:44:59] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:45:00] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:45:00] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:45:03] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:45:06] [Info] Connect cs.dds.microsoft.com:443
+[2018-06-28 18:45:07] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:45:07] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:07] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:45:07] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:08] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:45:08] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:09] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-28 18:45:09] [Debug] DNS query fail: bangumi.bilibili.com
+[2018-06-28 18:45:09] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:18] [Info] Connect clients4.google.com:443
+[2018-06-28 18:45:25] [Info] Direct connect beacons.gvt2.com:443
+[2018-06-28 18:45:25] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:45:25] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:45:25] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:45:26] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:45:27] [Info] Disconnect android.clients.google.com:443
+[2018-06-28 18:45:28] [Info] Connect settings-win.data.microsoft.com:443
+[2018-06-28 18:45:28] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:45:28] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-06-28 18:45:28] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:45:28] [Info] Connect v10.events.data.microsoft.com:443
+[2018-06-28 18:45:29] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-06-28 18:45:29] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:29] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:45:36] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:45:37] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:45:38] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:45:39] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-28 18:45:41] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:41] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:45:42] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:42] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:43] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:45:44] [Info] Disconnect cs.dds.microsoft.com:443
+[2018-06-28 18:45:47] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:47] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:45:47] [Info] Connect bangumi.bilibili.com:443
+[2018-06-28 18:45:49] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:45:50] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:45:50] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:51] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:45:51] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:45:51] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:45:52] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:45:52] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:45:53] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:45:53] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:45:54] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:45:54] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:45:54] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:45:55] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:45:55] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:45:55] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:45:55] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:45:59] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:45:59] [Info] Direct connect beacons.gvt2.com:443
+[2018-06-28 18:45:59] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect mtalk.google.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Error] System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 203.208.41.183:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Direct connect beacons.gvt2.com:443
+[2018-06-28 18:45:59] [Error] System.Net.Sockets.SocketException (0x80004005): 套接字操作尝试一个无法连接的主机。 203.208.41.183:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2018-06-28 18:45:59] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:45:59] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect mtalk.google.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Debug] DNS query fail: beacons2.gvt2.com
+[2018-06-28 18:45:59] [Info] Connect beacons2.gvt2.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:45:59] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Connect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect mtalk.google.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect beacons2.gvt2.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Disconnect android.clients.google.com:443
+[2018-06-28 18:45:59] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:45:59] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:45:59] [Info] Disconnect mtalk.google.com:443
+[2018-06-28 18:45:59] [Debug] DNS query fail: beacons2.gvt2.com
+[2018-06-28 18:45:59] [Info] Connect beacons2.gvt2.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect beacons2.gvt2.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:45:59] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:45:59] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Connect beacons2.gvt2.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Disconnect beacons2.gvt2.com:443
+[2018-06-28 18:46:00] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Connect beacons2.gvt2.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:46:00] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Disconnect beacons2.gvt2.com:443
+[2018-06-28 18:46:00] [Debug] DNS query fail: beacons3.gvt2.com
+[2018-06-28 18:46:00] [Info] Connect beacons3.gvt2.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Connect beacons3.gvt2.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:00] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:46:00] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Connect beacons3.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:46:01] [Error] connect to update server error
+[2018-06-28 18:46:01] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Connect www.youtube.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Disconnect beacons3.gvt2.com:443
+[2018-06-28 18:46:01] [Debug] DNS query fail: beacons3.gvt2.com
+[2018-06-28 18:46:01] [Info] Connect beacons3.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Connect beacons.gcp.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Connect www.youtube.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Connect beacons3.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Connect www.youtube.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Connect beacons3.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:46:01] [Debug] DNS query fail: beacons4.gvt2.com
+[2018-06-28 18:46:01] [Info] Connect beacons4.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:01] [Info] Disconnect beacons3.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Connect beacons4.gvt2.com:443
+[2018-06-28 18:46:01] [Info] Proxy server [(45.77.237.113)] HostUnreachable:套接字操作尝试一个无法连接的主机。 45.77.237.113:10003
+[2018-06-28 18:46:02] [Info] Connect beacons4.gvt2.com:443
+[2018-06-28 18:46:02] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:46:02] [Info] Disconnect clients4.google.com:443
+[2018-06-28 18:46:02] [Info] Disconnect ben.crxmouse.com:443
+[2018-06-28 18:46:02] [Info] Disconnect www.youtube.com:443
+[2018-06-28 18:46:02] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:46:02] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:46:02] [Info] Disconnect raw.githubusercontent.com:443
+[2018-06-28 18:46:02] [Info] Disconnect android.clients.google.com:443
+[2018-06-28 18:46:02] [Info] Disconnect www.google.com.hk:443
+[2018-06-28 18:46:02] [Info] Disconnect beacons.gcp.gvt2.com:443
+[2018-06-28 18:46:02] [Info] Connect raw.githubusercontent.com:443
+[2018-06-28 18:46:02] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:46:02] [Info] Disconnect bangumi.bilibili.com:443
+[2018-06-28 18:46:02] [Info] Disconnect beacons4.gvt2.com:443
+[2018-06-28 18:46:03] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:46:04] [Info] Connect beacons5.gvt2.com:443
+[2018-06-28 18:46:04] [Info] Connect beacons4.gvt2.com:443
+[2018-06-28 18:46:04] [Info] Connect mtalk.google.com:5228
+[2018-06-28 18:46:04] [Info] Connect login.live.com:443
+[2018-06-28 18:46:07] [Info] Connect beacons5.gvt2.com:443
+[2018-06-28 18:46:07] [Info] Connect mtalk.google.com:443
+[2018-06-28 18:46:07] [Info] Connect beacons5.gvt3.com:443
+[2018-06-28 18:46:07] [Info] Connect storage.googleapis.com:80
+[2018-06-28 18:46:07] [Info] Connect bl3302.storage.live.com:443
+[2018-06-28 18:46:09] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect bangumi.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect bangumi.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect bangumi.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect bangumi.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect data.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect i2.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Direct connect i1.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect www.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect static.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Direct connect static.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Direct connect static.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Direct connect static.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Direct connect s1.hdslb.com:443
+[2018-06-28 18:46:09] [Info] Connect ben.crxmouse.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:09] [Info] Direct connect bangumi.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect big.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect message.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.vc.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect message.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect api.live.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect bangumi.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect bangumi.bilibili.com:443
+[2018-06-28 18:46:10] [Info] Direct connect cm.bilibili.com:443
+[2018-06-28 18:46:11] [Info] Direct connect i0.hdslb.com:443
+[2018-06-28 18:46:11] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:46:16] [Info] Connect v20.events.data.microsoft.com:443
+[2018-06-28 18:46:17] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:46:22] [Info] Connect android.clients.google.com:443
+[2018-06-28 18:46:34] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:46:34] [Info] Connect www.google.com.hk:443
+[2018-06-28 18:46:35] [Info] Connect login.live.com:443
+[2018-06-28 18:46:37] [Info] Connect clients2.google.com:443
+[2018-06-28 18:46:40] [Info] Connect beacons5.gvt3.com:443
+[2018-06-28 18:46:43] [Info] Connect www.googleapis.com:443
+[2018-06-28 18:46:45] [Info] Connect clients4.google.com:443
+[2018-06-28 18:46:46] [Info] Direct connect g.cn:80
+[2018-06-28 18:46:47] [Info] Direct connect suggestion.baidu.com:80

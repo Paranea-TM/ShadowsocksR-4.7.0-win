@@ -1,0 +1,2140 @@
+[2018-08-16 23:23:58] ShadowsocksR started on port 10800
+[2018-08-16 23:23:59] [Info] Direct connect data.bilibili.com:443
+[2018-08-16 23:24:02] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:24:08] [Info] Connect raw.githubusercontent.com:443
+[2018-08-16 23:24:12] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:24:13] [Info] Connect raw.githubusercontent.com:443
+[2018-08-16 23:24:14] [Info] Direct connect message.bilibili.com:443
+[2018-08-16 23:24:18] [Info] Connect raw.githubusercontent.com:443
+[2018-08-16 23:24:22] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-16 23:24:22] [Info] Connect raw.githubusercontent.com:443
+[2018-08-16 23:24:24] [Error] connect to update server error
+[2018-08-16 23:24:26] [Info] Connect www.google.com.hk:443
+[2018-08-16 23:24:26] [Info] Connect www.google.com.hk:443
+[2018-08-16 23:24:26] [Info] Disconnect www.google.com.hk:443
+[2018-08-16 23:24:29] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:24:32] [Info] Connect ssl.gstatic.com:443
+[2018-08-16 23:24:32] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:24:33] [Info] Connect www.gstatic.com:443
+[2018-08-16 23:24:35] [Info] Connect www.google.com:443
+[2018-08-16 23:24:36] [Info] Connect www.googleapis.com:443
+[2018-08-16 23:24:42] [Info] Connect apis.google.com:443
+[2018-08-16 23:24:42] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:24:43] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:24:43] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:24:44] [Info] Direct connect hm.baidu.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:51] [Info] Connect consent.cmp.oath.com:443
+[2018-08-16 23:24:51] [Info] Connect consent.cmp.oath.com:443
+[2018-08-16 23:24:51] [Info] Connect 78.media.tumblr.com:443
+[2018-08-16 23:24:53] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:24:54] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:54] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:24:55] [Info] Connect v20.events.data.microsoft.com:443
+[2018-08-16 23:24:55] [Info] Direct connect ssl.google-analytics.com:443
+[2018-08-16 23:24:55] [Info] Direct connect www.google-analytics.com:443
+[2018-08-16 23:24:55] [Info] Connect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:24:55] [Info] Connect tumblr.com:443
+[2018-08-16 23:24:55] [Info] Connect px.srvcs.tumblr.com:443
+[2018-08-16 23:24:55] [Info] Connect px.srvcs.tumblr.com:443
+[2018-08-16 23:24:55] [Info] Connect sb.scorecardresearch.com:443
+[2018-08-16 23:24:56] [Info] Connect udc.yahoo.com:443
+[2018-08-16 23:24:58] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:24:58] [Info] Connect clients1.google.com:443
+[2018-08-16 23:25:00] [Info] Connect v20.events.data.microsoft.com:443
+[2018-08-16 23:25:01] [Info] Connect sb.scorecardresearch.com:443
+[2018-08-16 23:25:02] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:25:03] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:08] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:08] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:08] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:08] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:10] [Info] Disconnect clients1.google.com:443
+[2018-08-16 23:25:10] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:10] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:10] [Info] Disconnect px.srvcs.tumblr.com:443
+[2018-08-16 23:25:10] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:25:10] [Info] Connect geo.yahoo.com:443
+[2018-08-16 23:25:10] [Info] Disconnect consent.cmp.oath.com:443
+[2018-08-16 23:25:10] [Info] Disconnect v20.events.data.microsoft.com:443
+[2018-08-16 23:25:11] [Info] Connect clients1.google.com:443
+[2018-08-16 23:25:11] [Info] Connect i2-bcsgbdbedrrsotxuzfkrtxznchgswr.init.cedexis-radar.net:443
+[2018-08-16 23:25:14] [Info] Disconnect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:25:16] [Info] Connect i2-bcsgbdbedrrsotxuzfkrtxznchgswr.init.cedexis-radar.net:443
+[2018-08-16 23:25:17] [Info] Direct connect rpt.cedexis.com:443
+[2018-08-16 23:25:17] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:25:18] [Info] Disconnect i2-bcsgbdbedrrsotxuzfkrtxznchgswr.init.cedexis-radar.net:443
+[2018-08-16 23:25:23] [Info] Connect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:25:23] [Info] Connect safe.txmblr.com:443
+[2018-08-16 23:25:25] [Info] Connect 68.media.tumblr.com:443
+[2018-08-16 23:25:27] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:25:30] [Info] Connect vtt.tumblr.com:443
+[2018-08-16 23:25:30] [Info] Disconnect safe.txmblr.com:443
+[2018-08-16 23:25:34] [Info] Connect i2-cmuwfzptczofccakctykyritmyjbog.init.cedexis-radar.net:443
+[2018-08-16 23:25:37] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:25:38] [Info] Direct connect rpt.cedexis.com:443
+[2018-08-16 23:25:39] [Info] Disconnect i2-cmuwfzptczofccakctykyritmyjbog.init.cedexis-radar.net:443
+[2018-08-16 23:25:40] [Info] Disconnect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:25:47] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:25:55] [Info] Disconnect vtt.tumblr.com:443
+[2018-08-16 23:26:02] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:26:03] [Info] Connect likehotgirlsd.tumblr.com:443
+[2018-08-16 23:26:05] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-16 23:26:09] [Info] Connect vtt.tumblr.com:443
+[2018-08-16 23:26:09] [Info] Connect uh-star.tumblr.com:443
+[2018-08-16 23:26:11] [Info] Connect youbbba.tumblr.com:443
+[2018-08-16 23:26:16] [Info] Connect luoliluoliyounvyounv.tumblr.com:443
+[2018-08-16 23:26:17] [Info] Disconnect uh-star.tumblr.com:443
+[2018-08-16 23:26:19] [Info] Connect uh-star.tumblr.com:443
+[2018-08-16 23:26:22] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:26:28] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:26:32] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:26:36] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-16 23:26:39] [Info] Disconnect www.googleapis.com:443
+[2018-08-16 23:26:39] [Info] Disconnect www.google.com:443
+[2018-08-16 23:26:40] [Info] Disconnect www.google.com.hk:443
+[2018-08-16 23:26:42] [Info] Connect t.umblr.com:443
+[2018-08-16 23:26:42] [Info] Connect t.umblr.com:443
+[2018-08-16 23:26:44] [Info] Disconnect apis.google.com:443
+[2018-08-16 23:26:44] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:44] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:44] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect p3.ifengimg.com:80
+[2018-08-16 23:26:45] [Info] Direct connect s13.cnzz.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Disconnect sb.scorecardresearch.com:443
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect c.cnzz.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect hzs23.cnzz.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:45] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:46] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:47] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:26:48] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:48] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:49] [Info] Direct connect hzs23.cnzz.com:80
+[2018-08-16 23:26:51] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:26:51] [Info] Direct connect hzs23.cnzz.com:80
+[2018-08-16 23:26:56] [Info] Disconnect consent.cmp.oath.com:443
+[2018-08-16 23:26:58] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:26:58] [Info] Disconnect t.umblr.com:443
+[2018-08-16 23:26:58] [Info] Disconnect tumblr.com:443
+[2018-08-16 23:27:06] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:06] [Info] Direct connect hzs23.cnzz.com:80
+[2018-08-16 23:27:07] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:08] [Info] Direct connect ww4.sinaimg.cn:80
+[2018-08-16 23:27:08] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect hzs23.cnzz.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:09] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:10] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:11] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:13] [Info] Disconnect clients1.google.com:443
+[2018-08-16 23:27:24] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:24] [Info] Direct connect ww2.sinaimg.cn:80
+[2018-08-16 23:27:24] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:24] [Info] Direct connect hzs23.cnzz.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:25] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:26] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:27] [Info] Direct connect www.saylove.com:80
+[2018-08-16 23:27:27] [Info] Disconnect udc.yahoo.com:443
+[2018-08-16 23:27:27] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:27:28] [Info] Disconnect www.gstatic.com:443
+[2018-08-16 23:27:45] [Info] Connect v10.events.data.microsoft.com:443
+[2018-08-16 23:27:47] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:27:48] [Info] Direct connect www.googletagservices.com:443
+[2018-08-16 23:27:48] [Info] Connect sb.scorecardresearch.com:443
+[2018-08-16 23:27:49] [Info] Connect 67.media.tumblr.com:443
+[2018-08-16 23:27:49] [Info] Connect 38.media.tumblr.com:443
+[2018-08-16 23:27:49] [Info] Direct connect securepubads.g.doubleclick.net:443
+[2018-08-16 23:27:53] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-08-16 23:27:57] [Info] Connect w20-papapa.tumblr.com:443
+[2018-08-16 23:27:57] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:28:03] [Info] Connect dase3215.tumblr.com:443
+[2018-08-16 23:28:12] [Info] Connect static.tumblr.com:443
+[2018-08-16 23:28:12] [Info] Connect loliiisland.tumblr.com:80
+[2018-08-16 23:28:12] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:28:14] [Info] Disconnect loliiisland.tumblr.com:80
+[2018-08-16 23:28:17] [Info] Disconnect youbbba.tumblr.com:443
+[2018-08-16 23:28:20] [Info] Connect mtalk.google.com:443
+[2018-08-16 23:28:21] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Connect yunocy89.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Disconnect luoliluoliyounvyounv.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Disconnect 68.media.tumblr.com:443
+[2018-08-16 23:28:21] [Info] Disconnect likehotgirlsd.tumblr.com:443
+[2018-08-16 23:28:23] [Info] Connect yunocy89.tumblr.com:443
+[2018-08-16 23:28:23] [Info] Disconnect uh-star.tumblr.com:443
+[2018-08-16 23:28:24] [Info] Connect vt.media.tumblr.com:443
+[2018-08-16 23:28:24] [Info] Connect vt.media.tumblr.com:443
+[2018-08-16 23:28:24] [Info] Connect loliiisland.tumblr.com:80
+[2018-08-16 23:28:24] [Info] Connect vt.media.tumblr.com:443
+[2018-08-16 23:28:27] [Info] Direct connect api.bilibili.com:443
+[2018-08-16 23:28:28] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:28:29] [Info] Connect loliiisland.tumblr.com:80
+[2018-08-16 23:28:30] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-16 23:28:30] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:28:30] [Info] Disconnect loliiisland.tumblr.com:80
+[2018-08-16 23:28:30] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-16 23:28:30] [Info] Connect ajax.googleapis.com:443
+[2018-08-16 23:28:31] [Info] Connect uh-star.tumblr.com:443
+[2018-08-16 23:28:33] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:28:35] [Info] Connect ajax.googleapis.com:443
+[2018-08-16 23:28:37] [Info] Connect android.clients.google.com:443
+[2018-08-16 23:28:37] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:28:37] [Info] Disconnect vt.media.tumblr.com:443
+[2018-08-16 23:28:37] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:28:37] [Info] Disconnect yunocy89.tumblr.com:443
+[2018-08-16 23:28:47] [Info] Disconnect t.umblr.com:443
+[2018-08-16 23:28:51] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-16 23:28:51] [Info] Disconnect vt.media.tumblr.com:443
+[2018-08-16 23:28:55] [Info] Connect loliiisland.tumblr.com:80
+[2018-08-16 23:28:55] [Info] Connect udc.yahoo.com:443
+[2018-08-16 23:28:56] [Info] Connect sb.scorecardresearch.com:443
+[2018-08-16 23:28:59] [Info] Disconnect loliiisland.tumblr.com:80
+[2018-08-16 23:29:01] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:29:01] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:29:01] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:29:01] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:29:01] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:29:01] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:29:01] [Info] Connect www.tumblr.com:443
+[2018-08-16 23:29:05] [Info] Connect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:29:07] [Info] Connect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:29:08] [Info] Connect raw.githubusercontent.com:443
+[2018-08-16 23:29:09] [Error] connect to update server error
+[2018-08-16 23:29:09] [Info] Connect i2-lwfhnrjfcxdzmxawovoyhxymxtvyvb.init.cedexis-radar.net:443
+[2018-08-16 23:29:09] [Info] Connect i2-qjcipzrfaogblekpvwcgljqxklsfbq.init.cedexis-radar.net:80
+[2018-08-16 23:29:09] [Info] Disconnect sb.scorecardresearch.com:443
+[2018-08-16 23:29:09] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:29:10] [Info] Direct connect rpt.cedexis.com:80
+[2018-08-16 23:29:10] [Info] Disconnect i2-qjcipzrfaogblekpvwcgljqxklsfbq.init.cedexis-radar.net:80
+[2018-08-16 23:29:11] [Info] Direct connect rpt.cedexis.com:443
+[2018-08-16 23:29:12] [Info] Connect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:29:12] [Info] Disconnect i2-lwfhnrjfcxdzmxawovoyhxymxtvyvb.init.cedexis-radar.net:443
+[2018-08-16 23:29:25] [Info] Disconnect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:29:27] [Info] Disconnect geo.yahoo.com:443
+[2018-08-16 23:29:27] [Info] Disconnect cookiex.ngd.yahoo.com:443
+[2018-08-16 23:29:27] [Info] Connect geo.yahoo.com:443
+[2018-08-16 23:29:27] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:29:27] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:29:27] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:29:27] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:29:28] [Info] Connect geo.yahoo.com:443
+[2018-08-16 23:29:28] [Info] Connect geo.yahoo.com:443
+[2018-08-16 23:29:28] [Info] Connect geo.yahoo.com:443
+[2018-08-16 23:29:28] [Info] Connect geo.yahoo.com:443
+[2018-08-16 23:29:28] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:29:33] [Info] Connect geo.yahoo.com:443
+[2018-08-16 23:29:52] [Info] Disconnect 38.media.tumblr.com:443
+[2018-08-16 23:29:54] [Info] Disconnect 67.media.tumblr.com:443
+[2018-08-16 23:30:00] [Info] Disconnect w20-papapa.tumblr.com:443
+[2018-08-16 23:30:08] [Info] Disconnect dase3215.tumblr.com:443
+[2018-08-16 23:30:23] [Info] Disconnect mtalk.google.com:443
+[2018-08-16 23:30:23] [Info] Connect mtalk.google.com:5228
+[2018-08-16 23:30:32] [Info] Disconnect yunocy89.tumblr.com:443
+[2018-08-16 23:30:39] [Info] Connect loliiisland.tumblr.com:443
+[2018-08-16 23:30:39] [Info] Disconnect geo.yahoo.com:443
+[2018-08-16 23:30:39] [Info] Disconnect geo.yahoo.com:443
+[2018-08-16 23:30:39] [Info] Disconnect geo.yahoo.com:443
+[2018-08-16 23:30:39] [Info] Disconnect geo.yahoo.com:443
+[2018-08-16 23:30:40] [Info] Disconnect uh-star.tumblr.com:443
+[2018-08-16 23:30:41] [Info] Disconnect android.clients.google.com:443
+[2018-08-16 23:30:49] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-16 23:30:49] [Info] Disconnect static.tumblr.com:443
+[2018-08-16 23:30:53] [Info] Disconnect 78.media.tumblr.com:443
+[2018-08-16 23:30:53] [Info] Disconnect ajax.googleapis.com:443
+[2018-08-16 23:31:07] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:31:07] [Info] Disconnect udc.yahoo.com:443
+[2018-08-16 23:31:07] [Info] Disconnect sb.scorecardresearch.com:443
+[2018-08-16 23:31:07] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:31:09] [Info] Disconnect px.srvcs.tumblr.com:443
+[2018-08-16 23:31:32] [Info] Connect uh-star.tumblr.com:443
+[2018-08-16 23:31:48] [Info] Connect clients4.google.com:443
+[2018-08-16 23:31:53] [Info] Connect 78.media.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect sb.scorecardresearch.com:443
+[2018-08-16 23:31:54] [Info] Connect px.srvcs.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect assets.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect 78.media.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect 78.media.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect 78.media.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect 78.media.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect 78.media.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect px.srvcs.tumblr.com:443
+[2018-08-16 23:31:54] [Info] Connect 66.media.tumblr.com:443
+[2018-08-16 23:31:59] [Info] Connect px.srvcs.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect 78.media.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect 78.media.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect 78.media.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect 78.media.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect px.srvcs.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect 78.media.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Connect romanceluvsg.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:32:23] [Info] Connect w20-papapa.tumblr.com:443
+[2018-08-16 23:32:25] [Info] Connect 38.media.tumblr.com:443
+[2018-08-16 23:32:25] [Info] Connect 33.media.tumblr.com:443
+[2018-08-16 23:32:25] [Info] Connect w20-papapa.tumblr.com:443
+[2018-08-16 23:32:25] [Info] Connect dase3215.tumblr.com:443
+[2018-08-16 23:32:26] [Info] Connect dase3215.tumblr.com:443
+[2018-08-16 23:32:27] [Info] Disconnect mtalk.google.com:5228
+[2018-08-16 23:32:27] [Info] Connect mtalk.google.com:5228
+[2018-08-16 23:32:33] [Info] Disconnect w20-papapa.tumblr.com:443
+[2018-08-16 23:32:42] [Info] Connect qaqw3w.tumblr.com:443
+[2018-08-16 23:32:42] [Info] Disconnect loliiisland.tumblr.com:443
+[2018-08-16 23:32:42] [Info] Disconnect dase3215.tumblr.com:443
+[2018-08-16 23:32:45] [Info] Connect qaqw3w.tumblr.com:443
+[2018-08-16 23:32:48] [Info] Connect likehotgirlsd.tumblr.com:443
+[2018-08-16 23:32:49] [Info] Connect 31.media.tumblr.com:443
+[2018-08-16 23:32:49] [Info] Connect 68.media.tumblr.com:443
+[2018-08-16 23:32:57] [Info] Connect love17789.tumblr.com:443
+[2018-08-16 23:32:57] [Info] Disconnect qaqw3w.tumblr.com:443
+[2018-08-16 23:32:58] [Info] Connect love17789.tumblr.com:443
+[2018-08-16 23:33:04] [Info] Connect v10.events.data.microsoft.com:443
+[2018-08-16 23:33:05] [Info] Disconnect vt.media.tumblr.com:443
+[2018-08-16 23:33:09] [Info] Connect lmao42.tumblr.com:443
+[2018-08-16 23:33:10] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-08-16 23:33:12] [Info] Connect yunocy89.tumblr.com:443
+[2018-08-16 23:33:12] [Info] Disconnect love17789.tumblr.com:443
+[2018-08-16 23:33:12] [Info] Connect yunocy89.tumblr.com:443
+[2018-08-16 23:33:14] [Info] Connect lmao42.tumblr.com:443
+[2018-08-16 23:33:28] [Info] Direct connect message.bilibili.com:443
+[2018-08-16 23:33:28] [Info] Disconnect yunocy89.tumblr.com:443
+[2018-08-16 23:33:30] [Info] Direct connect data.bilibili.com:443
+[2018-08-16 23:33:30] [Info] Connect swk007.club:80
+[2018-08-16 23:33:31] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:33:31] [Info] Disconnect swk007.club:80
+[2018-08-16 23:33:31] [Info] Disconnect lmao42.tumblr.com:443
+[2018-08-16 23:33:32] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:32] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:32] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:32] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:32] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:32] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:33] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:33] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:36] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:36] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:36] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:33:36] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:36] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:36] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:36] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:37] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:38] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:38] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:39] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:39] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:39] [Info] Disconnect yunocy89.tumblr.com:443
+[2018-08-16 23:33:40] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:40] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:41] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:42] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:43] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:43] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:43] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:43] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:33:43] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:43] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:44] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:44] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:44] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:44] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:44] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:44] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:44] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:44] [Info] Direct connect s13.cnzz.com:80
+[2018-08-16 23:33:44] [Info] Direct connect c.cnzz.com:80
+[2018-08-16 23:33:44] [Info] Direct connect z7.cnzz.com:80
+[2018-08-16 23:33:44] [Info] Direct connect cnzz.mmstat.com:80
+[2018-08-16 23:33:45] [Info] Direct connect pcookie.cnzz.com:80
+[2018-08-16 23:33:45] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:33:45] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:45] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:45] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:45] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:46] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:46] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:47] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:47] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:47] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:33:48] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:48] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:49] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:49] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:49] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:50] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:50] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:50] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:50] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:50] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:50] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:51] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:51] [Info] Disconnect clients4.google.com:443
+[2018-08-16 23:33:51] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:51] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:51] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:52] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:52] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:54] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:55] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:33:55] [Info] Connect swkvip.club:80
+[2018-08-16 23:33:57] [Info] Disconnect assets.tumblr.com:443
+[2018-08-16 23:34:01] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:01] [Info] Disconnect 66.media.tumblr.com:443
+[2018-08-16 23:34:04] [Info] Connect swk007.club:80
+[2018-08-16 23:34:05] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:08] [Info] Disconnect swk007.club:80
+[2018-08-16 23:34:08] [Info] Connect settings-win.data.microsoft.com:443
+[2018-08-16 23:34:09] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:11] [Info] Disconnect settings-win.data.microsoft.com:443
+[2018-08-16 23:34:13] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:13] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:13] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:13] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:13] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:34:13] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:13] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:14] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:14] [Info] Connect know.ml:80
+[2018-08-16 23:34:14] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:14] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:14] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:14] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:14] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Connect know.ml:80
+[2018-08-16 23:34:15] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:34:15] [Info] Connect ben.crxmouse.com:443
+[2018-08-16 23:34:15] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:15] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:16] [Info] Connect know.ml:80
+[2018-08-16 23:34:16] [Info] Connect know.ml:80
+[2018-08-16 23:34:16] [Info] Connect know.ml:80
+[2018-08-16 23:34:16] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:16] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:16] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:16] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:17] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:17] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:17] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:17] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect s11.cnzz.com:80
+[2018-08-16 23:34:20] [Info] Direct connect c.cnzz.com:80
+[2018-08-16 23:34:20] [Info] Direct connect z13.cnzz.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:20] [Info] Connect know.ml:80
+[2018-08-16 23:34:21] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:21] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:22] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:22] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:22] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:23] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:23] [Info] Direct connect api.share.baidu.com:80
+[2018-08-16 23:34:23] [Info] Direct connect nsclick.baidu.com:80
+[2018-08-16 23:34:23] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:23] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:25] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:25] [Info] Disconnect romanceluvsg.tumblr.com:443
+[2018-08-16 23:34:25] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:25] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:27] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:27] [Info] Disconnect 33.media.tumblr.com:443
+[2018-08-16 23:34:28] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:30] [Info] Disconnect w20-papapa.tumblr.com:443
+[2018-08-16 23:34:30] [Info] Disconnect mtalk.google.com:5228
+[2018-08-16 23:34:30] [Info] Connect mtalk.google.com:5228
+[2018-08-16 23:34:30] [Info] Disconnect dase3215.tumblr.com:443
+[2018-08-16 23:34:30] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:32] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:32] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:33] [Info] Direct connect z7.cnzz.com:80
+[2018-08-16 23:34:33] [Info] Direct connect cnzz.mmstat.com:80
+[2018-08-16 23:34:33] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:33] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:33] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:33] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:33] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:33] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:33] [Info] Direct connect pcookie.cnzz.com:80
+[2018-08-16 23:34:33] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:34] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:34] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:35] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:35] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:35] [Info] Connect know.ml:80
+[2018-08-16 23:34:35] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:36] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:36] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:37] [Info] Connect know.ml:80
+[2018-08-16 23:34:37] [Info] Connect ad.zzgglm.com:80
+[2018-08-16 23:34:37] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:38] [Info] Connect know.ml:80
+[2018-08-16 23:34:38] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:38] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:38] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:39] [Info] Direct connect s11.cnzz.com:80
+[2018-08-16 23:34:39] [Info] Direct connect z13.cnzz.com:80
+[2018-08-16 23:34:39] [Info] Direct connect c.cnzz.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Disconnect know.ml:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:39] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:41] [Info] Direct connect nsclick.baidu.com:80
+[2018-08-16 23:34:41] [Info] Connect wukongvip.info:80
+[2018-08-16 23:34:42] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:42] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:34:42] [Info] Direct connect api.share.baidu.com:80
+[2018-08-16 23:34:42] [Info] Direct connect nsclick.baidu.com:80
+[2018-08-16 23:34:42] [Info] Direct connect www.baidu.com:80
+[2018-08-16 23:34:42] [Info] Connect www.wukongvip.info:80
+[2018-08-16 23:34:42] [Info] Disconnect wukongvip.info:80
+[2018-08-16 23:34:43] [Info] Disconnect ad.zzgglm.com:80
+[2018-08-16 23:34:43] [Info] Connect swkvip.club:80
+[2018-08-16 23:34:44] [Info] Disconnect www.wukongvip.info:80
+[2018-08-16 23:34:45] [Info] Disconnect swkvip.club:80
+[2018-08-16 23:34:47] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-08-16 23:34:50] [Info] Disconnect qaqw3w.tumblr.com:443
+[2018-08-16 23:34:50] [Info] Disconnect likehotgirlsd.tumblr.com:443
+[2018-08-16 23:34:50] [Info] Disconnect 38.media.tumblr.com:443
+[2018-08-16 23:35:02] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:35:02] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:35:02] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:02] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:35:02] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:35:03] [Info] Disconnect 68.media.tumblr.com:443
+[2018-08-16 23:35:04] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:04] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:04] [Info] Connect 64.32.20.135:80
+[2018-08-16 23:35:04] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:04] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:04] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:05] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:05] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:08] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:08] [Info] Disconnect love17789.tumblr.com:443
+[2018-08-16 23:35:08] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:08] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:08] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:09] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:09] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:10] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:10] [Info] Connect 64.32.20.135:80
+[2018-08-16 23:35:10] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:10] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:10] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:11] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:12] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:12] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:12] [Info] Disconnect uh-star.tumblr.com:443
+[2018-08-16 23:35:13] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:13] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:13] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:13] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:13] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:13] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:13] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:13] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:13] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:13] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:13] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:14] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:14] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:14] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:14] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:14] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:14] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:14] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:14] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:14] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:14] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:15] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:15] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:15] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:15] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:15] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:15] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:15] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:15] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:15] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:15] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:15] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:15] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:15] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:15] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:15] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:15] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:15] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:15] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:15] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:15] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:15] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:15] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:15] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:15] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:15] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:15] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:15] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:15] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:16] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:16] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:16] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:16] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:16] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:16] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:16] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:16] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:16] [Info] Disconnect sb.scorecardresearch.com:443
+[2018-08-16 23:35:16] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:16] [Info] Disconnect px.srvcs.tumblr.com:443
+[2018-08-16 23:35:17] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:17] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:17] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:17] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:17] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:17] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:17] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:17] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:17] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:17] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:17] [Info] Direct connect s13.cnzz.com:80
+[2018-08-16 23:35:17] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:17] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:17] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:17] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:17] [Info] Direct connect c.cnzz.com:80
+[2018-08-16 23:35:17] [Info] Direct connect z7.cnzz.com:80
+[2018-08-16 23:35:17] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:17] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:17] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:17] [Info] Direct connect icon.cnzz.com:80
+[2018-08-16 23:35:17] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:17] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:18] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:18] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:18] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:18] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:18] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:18] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:18] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:18] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:18] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:18] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:18] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:18] [Info] Disconnect www.tumblr.com:443
+[2018-08-16 23:35:19] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:19] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:19] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:19] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:19] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:19] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:19] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:19] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:19] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:19] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:19] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:19] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:19] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:19] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:19] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:19] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:19] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:20] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:20] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:20] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:20] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:20] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:20] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:20] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:20] [Info] Disconnect geo.yahoo.com:443
+[2018-08-16 23:35:20] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:20] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:20] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:21] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:21] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:21] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:21] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:21] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:21] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:21] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:21] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:21] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:21] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:21] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:35:21] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:22] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:22] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:22] [Info] Direct connect ww1.sinaimg.cn:80
+[2018-08-16 23:35:22] [Info] Direct connect wx3.sinaimg.cn:80
+[2018-08-16 23:35:22] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:22] [Info] Direct connect wx3.sinaimg.cn:80
+[2018-08-16 23:35:22] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:22] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:22] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:22] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:22] [Info] Direct connect wx2.sinaimg.cn:80
+[2018-08-16 23:35:22] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:22] [Info] Disconnect 64.32.20.135:80
+[2018-08-16 23:35:22] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:35:22] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-16 23:35:23] [Info] Direct connect wx4.sinaimg.cn:80
+[2018-08-16 23:35:23] [Info] Disconnect 78.media.tumblr.com:443
+[2018-08-16 23:35:23] [Info] Direct connect wx1.sinaimg.cn:80
+[2018-08-16 23:35:23] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:23] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:23] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:23] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:23] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:23] [Info] Connect caitamadh.com:2100
+[2018-08-16 23:35:23] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:24] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:24] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:24] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:24] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:24] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:25] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:25] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:25] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:25] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect jzav-cloudflare.club:80
+[2018-08-16 23:35:26] [Info] Connect jzav-cloudflare.club:80
+[2018-08-16 23:35:26] [Info] Connect jzav-cloudflare.club:80
+[2018-08-16 23:35:26] [Info] Connect jzav-cloudflare.club:80
+[2018-08-16 23:35:26] [Info] Connect jzav-cloudflare.club:80
+[2018-08-16 23:35:26] [Info] Connect jzav-cloudflare.club:80
+[2018-08-16 23:35:26] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:26] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:26] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:26] [Info] Disconnect caitamadh.com:2100
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:26] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:27] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:27] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:27] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:27] [Info] Disconnect jzav-cloudflare.club:80
+[2018-08-16 23:35:27] [Info] Disconnect jzav-cloudflare.club:80
+[2018-08-16 23:35:27] [Info] Disconnect jzav-cloudflare.club:80
+[2018-08-16 23:35:27] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Disconnect jzav-cloudflare.club:80
+[2018-08-16 23:35:28] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:28] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:28] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:28] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:28] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:28] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:29] [Info] Disconnect jzav-cloudflare.club:80
+[2018-08-16 23:35:29] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:29] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:29] [Info] Direct connect z7.cnzz.com:80
+[2018-08-16 23:35:29] [Info] Connect www.japanadult.net:80
+[2018-08-16 23:35:29] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:29] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:30] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:30] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:30] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:30] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:30] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:30] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:31] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:31] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:31] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:31] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:31] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:32] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:32] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:32] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:32] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:32] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:32] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:32] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:32] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:33] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:33] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:33] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:34] [Info] Disconnect www.japanadult.net:80
+[2018-08-16 23:35:34] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:34] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:34] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:35] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:35] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:35] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:35] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:35] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:35] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:36] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:36] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:36] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:36] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:37] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:37] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:37] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:37] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:37] [Info] Connect z-jzav.com:443
+[2018-08-16 23:35:38] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:38] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:38] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:40] [Info] Connect www.66xzxz.com:80
+[2018-08-16 23:35:40] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:40] [Info] Disconnect jzav-cloudflare.club:80
+[2018-08-16 23:35:40] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:41] [Info] Disconnect z-jzav.com:443
+[2018-08-16 23:35:42] [Info] Disconnect www.66xzxz.com:80
+[2018-08-16 23:35:43] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:43] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:48] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:49] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:51] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:51] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:51] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:51] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:51] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:51] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:51] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:51] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:51] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:51] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:51] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:51] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:51] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:51] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:51] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:52] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:52] [Info] Direct connect z7.cnzz.com:80
+[2018-08-16 23:35:52] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:52] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:52] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:52] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:52] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:53] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:53] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:53] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:53] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:53] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:53] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:53] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:53] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:53] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:53] [Info] Connect j-jzav.com:443
+[2018-08-16 23:35:54] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:54] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:54] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:54] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:54] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:54] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:54] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:54] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:54] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:35:55] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:55] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:55] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:55] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:55] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:55] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:55] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:55] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:55] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:55] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:55] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:55] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:55] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:55] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:55] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:55] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:55] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:55] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:55] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:56] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:56] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:56] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:56] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:56] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:56] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:56] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:57] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:57] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:57] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:57] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:57] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:57] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:57] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:57] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:57] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:57] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:57] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:57] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:57] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:57] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:58] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:58] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:58] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:58] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:58] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:58] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:58] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:58] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:58] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:58] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:59] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:59] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:59] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:59] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:59] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:59] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:35:59] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:35:59] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:35:59] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:00] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:00] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:00] [Info] Connect j-jzav.com:443
+[2018-08-16 23:36:00] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:00] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:01] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:01] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:02] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:02] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:03] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:03] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:03] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:04] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:04] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:04] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:04] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:04] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:04] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:04] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:04] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:04] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:04] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:04] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:04] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:05] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:05] [Info] Connect j-jzav.com:443
+[2018-08-16 23:36:05] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:05] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:05] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:05] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:05] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:05] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:05] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:06] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:06] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:06] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:06] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:06] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:06] [Debug] DNS query fail: caiji.9zav.vip
+[2018-08-16 23:36:06] [Info] Connect caiji.9zav.vip:2100
+[2018-08-16 23:36:06] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:06] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:06] [Info] Connect j-jzav.com:443
+[2018-08-16 23:36:06] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:07] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:07] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:07] [Info] Direct connect union.maccms.com:80
+[2018-08-16 23:36:07] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:07] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:07] [Info] Connect j-jzav.com:443
+[2018-08-16 23:36:08] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:08] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:36:08] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:08] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:08] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:08] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:36:08] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:09] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:09] [Info] Connect j-jzav.com:443
+[2018-08-16 23:36:09] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:09] [Info] Direct connect z7.cnzz.com:80
+[2018-08-16 23:36:09] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:09] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:36:09] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:36:09] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:09] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:09] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:10] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:10] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:11] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:11] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:11] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:12] [Info] Disconnect caiji.9zav.vip:2100
+[2018-08-16 23:36:12] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:12] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:12] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:12] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:12] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:12] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:12] [Info] Direct connect api.share.baidu.com:80
+[2018-08-16 23:36:12] [Info] Direct connect nsclick.baidu.com:80
+[2018-08-16 23:36:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:13] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:13] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:13] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:13] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:14] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:14] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:14] [Info] Connect j-jzav.com:443
+[2018-08-16 23:36:14] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:14] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:14] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:15] [Info] Disconnect j-jzav.com:443
+[2018-08-16 23:36:15] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:16] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:36:16] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:36:16] [Info] Direct connect bdimg.share.baidu.com:80
+[2018-08-16 23:36:17] [Info] Connect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:17] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:18] [Info] Disconnect www.xiaoyk4.xyz:80
+[2018-08-16 23:36:19] [Info] Direct connect nsclick.baidu.com:80
+[2018-08-16 23:36:22] [Info] Connect map.map-av1024.info:443
+[2018-08-16 23:36:25] [Info] Direct connect s19.cnzz.com:443
+[2018-08-16 23:36:26] [Info] Direct connect c.cnzz.com:443
+[2018-08-16 23:36:26] [Info] Direct connect z8.cnzz.com:443
+[2018-08-16 23:36:31] [Info] Connect klav213.xyz:80
+[2018-08-16 23:36:33] [Info] Connect klav213.xyz:80
+[2018-08-16 23:36:33] [Info] Disconnect klav213.xyz:80
+[2018-08-16 23:36:34] [Info] Disconnect mtalk.google.com:5228
+[2018-08-16 23:36:34] [Info] Connect mtalk.google.com:5228
+[2018-08-16 23:36:36] [Info] Connect klav213.xyz:80
+[2018-08-16 23:36:36] [Info] Connect klav213.xyz:80
+[2018-08-16 23:36:36] [Info] Connect klav213.xyz:80
+[2018-08-16 23:36:36] [Info] Connect klav213.xyz:80
+[2018-08-16 23:36:36] [Info] Connect klav213.xyz:80
+[2018-08-16 23:36:36] [Info] Disconnect klav213.xyz:80
+[2018-08-16 23:36:36] [Info] Direct connect img.zcool.cn:80
+[2018-08-16 23:36:36] [Info] Direct connect apps.bdimg.com:80
+[2018-08-16 23:36:36] [Info] Direct connect apps.bdimg.com:80
+[2018-08-16 23:36:36] [Info] Disconnect klav213.xyz:80
+[2018-08-16 23:36:37] [Info] Disconnect klav213.xyz:80
+[2018-08-16 23:36:37] [Info] Direct connect s19.cnzz.com:80
+[2018-08-16 23:36:37] [Info] Direct connect fgrt.yjoiunf.com:5656
+[2018-08-16 23:36:37] [Info] Direct connect fgrt.yjoiunf.com:5656
+[2018-08-16 23:36:37] [Info] Disconnect klav213.xyz:80
+[2018-08-16 23:36:37] [Info] Direct connect c.cnzz.com:80
+[2018-08-16 23:36:37] [Info] Direct connect z8.cnzz.com:80
+[2018-08-16 23:36:37] [Info] Direct connect cnzz.mmstat.com:80
+[2018-08-16 23:36:37] [Info] Direct connect pcookie.cnzz.com:80
+[2018-08-16 23:36:37] [Info] Disconnect klav213.xyz:80
+[2018-08-16 23:36:38] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:39] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:39] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:39] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Connect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Direct connect push.zhanzhang.baidu.com:80
+[2018-08-16 23:36:40] [Info] Connect dumpt.com:443
+[2018-08-16 23:36:40] [Info] Connect dumpt.com:443
+[2018-08-16 23:36:40] [Info] Direct connect wx1.sinaimg.cn:80
+[2018-08-16 23:36:40] [Info] Direct connect wx2.sinaimg.cn:80
+[2018-08-16 23:36:40] [Info] Direct connect r.photo.store.qq.com:80
+[2018-08-16 23:36:40] [Info] Direct connect r.photo.store.qq.com:80
+[2018-08-16 23:36:40] [Info] Direct connect ws3.sinaimg.cn:80
+[2018-08-16 23:36:40] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:40] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:40] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:40] [Info] Disconnect klav213.xyz:80
+[2018-08-16 23:36:40] [Info] Direct connect wx3.sinaimg.cn:80
+[2018-08-16 23:36:40] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:40] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:40] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:40] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:40] [Info] Direct connect api.share.baidu.com:80
+[2018-08-16 23:36:41] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:41] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:41] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:42] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:42] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:42] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:42] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:42] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:42] [Info] Disconnect www.yly69.info:80
+[2018-08-16 23:36:43] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:43] [Info] Connect www.pytgo.com:80
+[2018-08-16 23:36:43] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:43] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:44] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:44] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:44] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:44] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:45] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:46] [Info] Disconnect www.pytgo.com:80
+[2018-08-16 23:36:48] [Info] Connect www.renrenc.xyz:80
+[2018-08-16 23:36:49] [Info] Disconnect 31.media.tumblr.com:443
+[2018-08-16 23:36:50] [Info] Connect www.renrenc.xyz:80
+[2018-08-16 23:36:50] [Info] Direct connect s22.cnzz.com:443
+[2018-08-16 23:36:50] [Info] Disconnect www.renrenc.xyz:80
+[2018-08-16 23:36:50] [Info] Direct connect z1.cnzz.com:443
+[2018-08-16 23:36:50] [Info] Connect www.renrenc.xyz:80
+[2018-08-16 23:36:51] [Info] Disconnect www.renrenc.xyz:80
+[2018-08-16 23:36:55] [Info] Connect www.wolaixia.com:443
+[2018-08-16 23:36:56] [Info] Connect www.renrenc.xyz:80
+[2018-08-16 23:36:56] [Info] Disconnect www.renrenc.xyz:80
+[2018-08-16 23:36:59] [Info] Connect www.lunlidao.com:443
+[2018-08-16 23:36:59] [Info] Disconnect dumpt.com:443
+[2018-08-16 23:36:59] [Info] Disconnect dumpt.com:443
+[2018-08-16 23:37:02] [Info] Connect www.lunlidao.com:443
+[2018-08-16 23:37:02] [Info] Connect www.lunlidao.com:443
+[2018-08-16 23:37:02] [Info] Connect www.lunlidao.com:443
+[2018-08-16 23:37:02] [Info] Connect www.lunlidao.com:443
+[2018-08-16 23:37:02] [Info] Connect www.lunlidao.com:443
+[2018-08-16 23:37:02] [Info] Direct connect jjyy.gaopengqcdz.cn:443
+[2018-08-16 23:37:02] [Info] Direct connect jjyy.gaopengqcdz.cn:443
+[2018-08-16 23:37:05] [Info] Direct connect api.zgjf123.com.:443
+[2018-08-16 23:37:05] [Info] Direct connect s13.cnzz.com:443
+[2018-08-16 23:37:05] [Info] Direct connect z7.cnzz.com:443
+[2018-08-16 23:37:05] [Info] Direct connect z1.cnzz.com:443
+[2018-08-16 23:37:05] [Info] Direct connect cnzz.mmstat.com:443
+[2018-08-16 23:37:05] [Info] Direct connect zz.bdstatic.com:443
+[2018-08-16 23:37:05] [Info] Direct connect asd.ckbeck.com:5757
+[2018-08-16 23:37:05] [Info] Direct connect asd.ckbeck.com:5757
+[2018-08-16 23:37:05] [Info] Direct connect sp0.baidu.com:443
+[2018-08-16 23:37:07] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:07] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:07] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:07] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:07] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:07] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:07] [Info] Connect www.lunlidao.com:443
+[2018-08-16 23:37:08] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:08] [Info] Disconnect www.1024zyw.com:80
+[2018-08-16 23:37:08] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:09] [Info] Disconnect www.1024zyw.com:80
+[2018-08-16 23:37:11] [Info] Connect www.1024zyw.com:80
+[2018-08-16 23:37:11] [Info] Disconnect www.1024zyw.com:80
+[2018-08-23 15:25:46] ShadowsocksR started on port 10800
+[2018-08-23 15:25:50] [Info] Connect docs.google.com:443
+[2018-08-23 15:25:50] [Info] Connect docs.google.com:443
+[2018-08-23 15:25:50] [Info] Disconnect docs.google.com:443
+[2018-08-23 15:25:51] [Info] Connect ssl.gstatic.com:443
+[2018-08-23 15:25:51] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-23 15:25:51] [Info] Connect ben.crxmouse.com:443
+[2018-08-23 15:25:51] [Info] Connect ssl.gstatic.com:443
+[2018-08-23 15:25:51] [Info] Connect www.gstatic.com:443
+[2018-08-23 15:25:56] [Info] Connect raw.githubusercontent.com:443
+[2018-08-23 15:25:57] [Error] connect to update server error
+[2018-08-23 15:26:00] [Info] Connect support.google.com:443
+[2018-08-23 15:26:00] [Info] Connect support.google.com:443
+[2018-08-23 15:26:01] [Info] Direct connect fonts.googleapis.com:443
+[2018-08-23 15:26:01] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-23 15:26:02] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Connect www.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-23 15:26:02] [Info] Connect www.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Connect www.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Connect www.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Connect www.google.com:443
+[2018-08-23 15:26:02] [Info] Connect ssl.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Disconnect www.gstatic.com:443
+[2018-08-23 15:26:02] [Info] Connect apis.google.com:443
+[2018-08-23 15:26:02] [Info] Connect ogs.google.com:443
+[2018-08-23 15:26:02] [Info] Connect ogs.google.com:443
+[2018-08-23 15:26:03] [Info] Connect apis.google.com:443
+[2018-08-23 15:26:03] [Info] Connect play.google.com:443
+[2018-08-23 15:26:04] [Info] Connect accounts.google.com:443
+[2018-08-23 15:26:04] [Info] Connect realtimesupport.clients6.google.com:443
+[2018-08-23 15:26:04] [Info] Connect play.google.com:443
+[2018-08-23 15:26:04] [Info] Connect clients1.google.com:443
+[2018-08-23 15:26:04] [Info] Connect clients1.google.com:443
+[2018-08-23 15:26:04] [Info] Connect clients1.google.com:443
+[2018-08-23 15:26:04] [Info] Connect clients1.google.com:443
+[2018-08-23 15:26:04] [Info] Connect clients1.google.com:443
+[2018-08-23 15:26:07] [Info] Connect notifications.google.com:443
+[2018-08-23 15:26:23] [Info] Disconnect apis.google.com:443
+[2018-08-23 15:26:23] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-23 15:26:23] [Info] Disconnect support.google.com:443
+[2018-08-23 15:26:23] [Info] Disconnect ogs.google.com:443
+[2018-08-23 15:26:23] [Info] Disconnect www.gstatic.com:443
+[2018-08-23 15:26:23] [Info] Disconnect www.gstatic.com:443
+[2018-08-23 15:26:23] [Info] Disconnect clients1.google.com:443
+[2018-08-23 15:26:23] [Info] Disconnect clients1.google.com:443
+[2018-08-23 15:26:23] [Info] Connect android.clients.google.com:443
+[2018-08-23 15:26:23] [Info] Disconnect clients1.google.com:443
+[2018-08-23 15:26:23] [Info] Disconnect clients1.google.com:443
+[2018-08-23 15:26:24] [Info] Connect www.googleapis.com:443
+[2018-08-23 15:26:24] [Info] Connect clients4.google.com:443
+[2018-08-23 15:27:07] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-23 15:27:16] [Info] Connect google.com:443
+[2018-08-23 15:27:16] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-08-23 15:27:37] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-23 15:27:51] [Info] Disconnect docs.google.com:443
+[2018-08-23 15:27:53] [Info] Disconnect www.gstatic.com:443
+[2018-08-23 15:28:03] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-23 15:28:03] [Info] Disconnect www.gstatic.com:443
+[2018-08-23 15:28:03] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-23 15:28:05] [Info] Disconnect ogs.google.com:443
+[2018-08-23 15:28:05] [Info] Disconnect www.google.com:443
+[2018-08-23 15:28:05] [Info] Disconnect clients1.google.com:443
+[2018-08-23 15:28:05] [Info] Disconnect accounts.google.com:443
+[2018-08-23 15:28:05] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-23 15:28:05] [Info] Disconnect play.google.com:443
+[2018-08-23 15:28:07] [Info] Disconnect realtimesupport.clients6.google.com:443
+[2018-08-23 15:28:11] [Info] Disconnect notifications.google.com:443
+[2018-08-23 15:28:11] [Info] Disconnect play.google.com:443
+[2018-08-23 15:28:11] [Info] Disconnect apis.google.com:443
+[2018-08-23 15:28:13] [Info] Disconnect support.google.com:443
+[2018-08-23 15:28:25] [Info] Disconnect android.clients.google.com:443
+[2018-08-23 15:28:25] [Info] Disconnect www.googleapis.com:443
+[2018-08-23 15:28:27] [Info] Disconnect clients4.google.com:443
+[2018-08-23 15:28:46] [Info] Connect mtalk.google.com:5228
+[2018-08-23 15:29:17] [Info] Disconnect google.com:443
+[2018-08-23 15:29:22] [Info] Connect clients4.google.com:443
+[2018-08-23 15:30:22] [Info] Direct connect mail.dimpt.com:80
+[2018-08-23 15:30:23] [Info] Direct connect mail.dimpt.com:80
+[2018-08-23 15:30:23] [Info] Connect ben.crxmouse.com:443
+[2018-08-23 15:30:34] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:35] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:36] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:36] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:37] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:37] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:39] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-23 15:30:39] [Info] Direct connect www.baidu.com:443
+[2018-08-23 15:30:39] [Info] Direct connect www.baidu.com:443
+[2018-08-23 15:30:39] [Info] Connect ben.crxmouse.com:443
+[2018-08-23 15:30:39] [Info] Connect www.googleapis.com:443
+[2018-08-23 15:30:40] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-23 15:30:40] [Info] Direct connect ss0.baidu.com:443
+[2018-08-23 15:30:40] [Info] Direct connect sp0.baidu.com:443
+[2018-08-23 15:30:49] [Info] Disconnect mtalk.google.com:5228
+[2018-08-23 15:30:49] [Info] Connect mtalk.google.com:5228
+[2018-08-23 15:30:49] [Info] Direct connect sp2.baidu.com:443
+[2018-08-23 15:30:49] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-23 15:30:50] [Info] Direct connect www.cnblogs.com:443
+[2018-08-23 15:30:50] [Info] Direct connect www.cnblogs.com:443
+[2018-08-23 15:30:50] [Info] Direct connect www.google-analytics.com:443
+[2018-08-23 15:30:50] [Info] Direct connect counter.cnblogs.com:443
+[2018-08-23 15:30:50] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-08-23 15:30:50] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-23 15:30:51] [Info] Direct connect common.cnblogs.com:443
+[2018-08-23 15:30:51] [Info] Direct connect common.cnblogs.com:443
+[2018-08-23 15:30:51] [Info] Direct connect pic.cnblogs.com:443
+[2018-08-23 15:30:51] [Info] Direct connect static.cnblogs.com:443
+[2018-08-23 15:30:51] [Info] Direct connect static.cnblogs.com:443
+[2018-08-23 15:30:51] [Info] Connect www.google.com:443
+[2018-08-23 15:30:56] [Info] Connect raw.githubusercontent.com:443
+[2018-08-23 15:30:57] [Error] connect to update server error
+[2018-08-23 15:31:02] [Info] Direct connect ss2.baidu.com:443
+[2018-08-23 15:31:02] [Info] Direct connect ss1.baidu.com:443
+[2018-08-23 15:31:02] [Info] Direct connect ss3.baidu.com:443
+[2018-08-23 15:31:05] [Info] Direct connect ss2.baidu.com:443
+[2018-08-23 15:31:05] [Info] Direct connect ss2.baidu.com:443
+[2018-08-23 15:31:05] [Info] Direct connect ss1.baidu.com:443
+[2018-08-23 15:31:05] [Info] Direct connect ss1.baidu.com:443
+[2018-08-23 15:31:05] [Info] Direct connect ss1.baidu.com:443
+[2018-08-23 15:31:05] [Info] Direct connect ss1.baidu.com:443
+[2018-08-23 15:31:05] [Info] Direct connect ss1.baidu.com:443
+[2018-08-23 15:31:22] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-23 15:31:25] [Info] Disconnect clients4.google.com:443
+[2018-08-23 15:31:52] [Info] Direct connect ss0.baidu.com:443
+[2018-08-23 15:32:00] [Info] Direct connect www.baidu.com:443
+[2018-08-23 15:32:00] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-23 15:32:00] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-23 15:32:00] [Info] Direct connect events.jianshu.io:4006
+[2018-08-23 15:32:00] [Info] Direct connect hm.baidu.com:443
+[2018-08-23 15:32:00] [Info] Direct connect www.jianshu.com:443
+[2018-08-23 15:32:00] [Info] Direct connect www.jianshu.com:443
+[2018-08-23 15:32:00] [Info] Direct connect upload.jianshu.io:443
+[2018-08-23 15:32:00] [Info] Direct connect zz.bdstatic.com:443
+[2018-08-23 15:32:00] [Info] Direct connect cdn2.jianshu.io:443
+[2018-08-23 15:32:00] [Info] Direct connect upload-images.jianshu.io:443
+[2018-08-23 15:32:01] [Info] Connect v10.events.data.microsoft.com:443
+[2018-08-23 15:32:03] [Info] Disconnect v10.events.data.microsoft.com:443
+[2018-08-23 15:32:03] [Info] Direct connect cdn2.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload-images.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload-images.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload-images.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload-images.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect upload.jianshu.io:443
+[2018-08-23 15:32:04] [Info] Direct connect hm.baidu.com:443
+[2018-08-23 15:32:04] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-23 15:32:04] [Info] Direct connect events.jianshu.io:4006
+[2018-08-23 15:32:04] [Info] Direct connect www.jianshu.com:443
+[2018-08-23 15:32:04] [Info] Direct connect www.jianshu.com:443
+[2018-08-23 15:32:04] [Info] Connect translate.googleapis.com:443
+[2018-08-23 15:32:05] [Info] Direct connect hm.baidu.com:443
+[2018-08-23 15:32:37] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-23 15:32:41] [Info] Disconnect www.googleapis.com:443
+[2018-08-23 15:32:49] [Info] Disconnect mtalk.google.com:5228
+[2018-08-23 15:32:49] [Info] Connect mtalk.google.com:5228
+[2018-08-23 15:32:52] [Info] Disconnect www.google.com:443
+[2018-08-23 15:33:19] [Info] Connect clients4.google.com:443
+[2018-08-23 15:33:29] [Info] Direct connect upload-images.jianshu.io:443
+[2018-08-24 09:11:06] ShadowsocksR started on port 10800
+[2018-08-24 09:11:10] [Info] Connect chrome.google.com:443
+[2018-08-24 09:11:10] [Info] Connect chrome.google.com:443
+[2018-08-24 09:11:10] [Info] Disconnect chrome.google.com:443
+[2018-08-24 09:11:11] [Info] Connect www.gstatic.com:443
+[2018-08-24 09:11:11] [Info] Connect apis.google.com:443
+[2018-08-24 09:11:11] [Info] Connect www.google.com:443
+[2018-08-24 09:11:11] [Info] Connect www.google.com:443
+[2018-08-24 09:11:11] [Info] Disconnect www.google.com:443
+[2018-08-24 09:11:12] [Info] Direct connect ssl.google-analytics.com:443
+[2018-08-24 09:11:12] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:11:12] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:11:12] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:11:12] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-24 09:11:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:11:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:11:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:11:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:11:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:11:12] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:11:12] [Info] Direct connect stats.g.doubleclick.net:443
+[2018-08-24 09:11:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:11:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:11:15] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:11:16] [Info] Connect raw.githubusercontent.com:443
+[2018-08-24 09:11:16] [Error] connect to update server error
+[2018-08-24 09:11:18] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:11:20] [Info] Connect android.clients.google.com:443
+[2018-08-24 09:11:20] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:11:20] [Info] Connect clients2.google.com:443
+[2018-08-24 09:11:21] [Info] Connect clients2.googleusercontent.com:443
+[2018-08-24 09:11:23] [Info] Connect sb-ssl.google.com:443
+[2018-08-24 09:11:30] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:11:30] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:11:30] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:11:30] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:11:30] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:11:30] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:11:30] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:11:30] [Info] Connect mtalk.google.com:443
+[2018-08-24 09:11:30] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:11:31] [Info] Connect goalhacker-extension.firebaseio.com:443
+[2018-08-24 09:11:32] [Info] Direct connect mail.dimpt.com:80
+[2018-08-24 09:11:50] [Info] Connect goalhacker.app:443
+[2018-08-24 09:11:52] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:11:52] [Info] Connect cdn.onenote.net:443
+[2018-08-24 09:11:54] [Info] Connect translate.googleapis.com:443
+[2018-08-24 09:11:54] [Info] Connect accounts.google.com:443
+[2018-08-24 09:11:56] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:11:56] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-24 09:11:56] [Info] Connect accounts.youtube.com:443
+[2018-08-24 09:11:56] [Info] Connect play.google.com:443
+[2018-08-24 09:11:56] [Info] Connect play.google.com:443
+[2018-08-24 09:11:57] [Info] Connect play.google.com:443
+[2018-08-24 09:12:15] [Info] Connect clients2.google.com:443
+[2018-08-24 09:12:16] [Info] Disconnect play.google.com:443
+[2018-08-24 09:12:16] [Info] Connect google.com:443
+[2018-08-24 09:12:16] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-08-24 09:12:16] [Info] Connect clients2.googleusercontent.com:443
+[2018-08-24 09:12:23] [Info] Direct connect redirector.gvt1.com:80
+[2018-08-24 09:12:23] [Info] Direct connect r4---sn-2x3eln7e.gvt1.com:80
+[2018-08-24 09:12:23] [Info] Direct connect www.google-analytics.com:443
+[2018-08-24 09:12:26] [Info] Connect raw.githubusercontent.com:443
+[2018-08-24 09:12:26] [Info] Connect raw.githubusercontent.com:443
+[2018-08-24 09:12:40] [Info] Connect storage.googleapis.com:80
+[2018-08-24 09:12:41] [Info] Disconnect storage.googleapis.com:80
+[2018-08-24 09:12:41] [Info] Direct connect update.googleapis.com:443
+[2018-08-24 09:12:53] [Info] Disconnect cdn.onenote.net:443
+[2018-08-24 09:12:56] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-24 09:13:01] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:13:13] [Info] Disconnect www.gstatic.com:443
+[2018-08-24 09:13:19] [Info] Connect clients4.google.com:443
+[2018-08-24 09:13:19] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:13:21] [Info] Disconnect android.clients.google.com:443
+[2018-08-24 09:13:21] [Info] Disconnect clients2.google.com:443
+[2018-08-24 09:13:25] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-08-24 09:13:25] [Info] Disconnect sb-ssl.google.com:443
+[2018-08-24 09:13:31] [Info] Disconnect mtalk.google.com:443
+[2018-08-24 09:13:31] [Info] Connect mtalk.google.com:5228
+[2018-08-24 09:13:50] [Info] Disconnect apis.google.com:443
+[2018-08-24 09:13:50] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:13:56] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:13:56] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:13:56] [Info] Disconnect translate.googleapis.com:443
+[2018-08-24 09:13:56] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:13:56] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:13:58] [Info] Disconnect play.google.com:443
+[2018-08-24 09:13:58] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:13:58] [Info] Disconnect play.google.com:443
+[2018-08-24 09:13:58] [Info] Disconnect www.google.com:443
+[2018-08-24 09:13:58] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:13:58] [Info] Disconnect accounts.youtube.com:443
+[2018-08-24 09:13:58] [Info] Connect lh5.googleusercontent.com:443
+[2018-08-24 09:14:05] [Info] Connect api.unsplash.com:443
+[2018-08-24 09:14:06] [Info] Connect images.unsplash.com:443
+[2018-08-24 09:14:06] [Info] Connect images.unsplash.com:443
+[2018-08-24 09:14:16] [Info] Disconnect clients2.google.com:443
+[2018-08-24 09:14:18] [Info] Disconnect google.com:443
+[2018-08-24 09:14:28] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-24 09:14:28] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-24 09:14:28] [Info] Disconnect clients2.googleusercontent.com:443
+[2018-08-24 09:14:30] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:14:30] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:14:30] [Info] Disconnect images.unsplash.com:443
+[2018-08-24 09:14:30] [Info] Connect www.google.com:443
+[2018-08-24 09:14:30] [Info] Direct connect csi.gstatic.com:443
+[2018-08-24 09:14:30] [Info] Connect clients1.google.com:443
+[2018-08-24 09:14:31] [Info] Connect www.gstatic.com:443
+[2018-08-24 09:14:58] [Info] Connect apis.google.com:443
+[2018-08-24 09:15:00] [Info] Connect plus.google.com:443
+[2018-08-24 09:15:00] [Info] Connect plus.google.com:443
+[2018-08-24 09:15:00] [Info] Connect plus.google.com:443
+[2018-08-24 09:15:00] [Info] Connect plus.google.com:443
+[2018-08-24 09:15:00] [Info] Connect plus.google.com:443
+[2018-08-24 09:15:00] [Info] Connect plus.google.com:443
+[2018-08-24 09:15:00] [Info] Disconnect plus.google.com:443
+[2018-08-24 09:15:00] [Info] Disconnect plus.google.com:443
+[2018-08-24 09:15:20] [Info] Disconnect clients4.google.com:443
+[2018-08-24 09:15:32] [Info] Disconnect mtalk.google.com:5228
+[2018-08-24 09:15:32] [Info] Connect mtalk.google.com:5228
+[2018-08-24 09:15:38] [Info] Direct connect cdn.sspai.com:443
+[2018-08-24 09:15:38] [Info] Connect google.com:443
+[2018-08-24 09:15:39] [Info] Disconnect apis.google.com:443
+[2018-08-24 09:15:39] [Info] Disconnect plus.google.com:443
+[2018-08-24 09:15:39] [Info] Disconnect plus.google.com:443
+[2018-08-24 09:15:39] [Info] Disconnect plus.google.com:443
+[2018-08-24 09:15:58] [Info] Disconnect goalhacker.app:443
+[2018-08-24 09:15:58] [Info] Disconnect accounts.google.com:443
+[2018-08-24 09:16:01] [Info] Disconnect lh5.googleusercontent.com:443
+[2018-08-24 09:16:01] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:16:04] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:16:08] [Info] Disconnect images.unsplash.com:443
+[2018-08-24 09:16:08] [Info] Disconnect api.unsplash.com:443
+[2018-08-24 09:16:15] [Info] Connect raw.githubusercontent.com:443
+[2018-08-24 09:16:16] [Error] connect to update server error
+[2018-08-24 09:16:32] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:16:32] [Info] Disconnect clients1.google.com:443
+[2018-08-24 09:16:33] [Info] Direct connect mail.dimpt.com:80
+[2018-08-24 09:16:35] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:16:50] [Info] Connect api.unsplash.com:443
+[2018-08-24 09:16:51] [Info] Connect images.unsplash.com:443
+[2018-08-24 09:16:59] [Info] Disconnect www.gstatic.com:443
+[2018-08-24 09:16:59] [Info] Disconnect www.google.com:443
+[2018-08-24 09:16:59] [Info] Disconnect goalhacker-extension.firebaseio.com:443
+[2018-08-24 09:17:01] [Info] Disconnect plus.google.com:443
+[2018-08-24 09:17:01] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:17:04] [Info] Connect cdn.mxpnl.com:443
+[2018-08-24 09:17:05] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:17:05] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:25:24] ShadowsocksR started on port 10800
+[2018-08-24 09:25:26] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:25:26] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:25:26] [Info] Connect clients2.google.com:443
+[2018-08-24 09:25:30] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:25:33] [Info] Connect raw.githubusercontent.com:443
+[2018-08-24 09:25:34] [Error] connect to update server error
+[2018-08-24 09:25:36] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:25:37] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:25:37] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:25:37] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:25:37] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:25:38] [Info] Connect accounts.google.com:443
+[2018-08-24 09:25:38] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:25:38] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:25:38] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:25:38] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:25:39] [Info] Connect clients4.google.com:443
+[2018-08-24 09:25:40] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:25:40] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:25:58] [Info] Connect api.unsplash.com:443
+[2018-08-24 09:25:58] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:26:02] [Info] Connect images.unsplash.com:443
+[2018-08-24 09:26:06] [Info] Connect android.clients.google.com:443
+[2018-08-24 09:26:07] [Info] Connect mtalk.google.com:443
+[2018-08-24 09:26:39] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:26:39] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:26:40] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:26:40] [Info] Connect accounts.google.com:443
+[2018-08-24 09:26:40] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2018-08-24 09:26:40] [Info] Connect clients4.google.com:443
+[2018-08-24 09:26:42] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:26:42] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:27:14] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-24 09:27:28] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:27:28] [Info] Disconnect clients2.google.com:443
+[2018-08-24 09:27:28] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:27:39] [Info] Disconnect accounts.google.com:443
+[2018-08-24 09:27:39] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:28:00] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:28:00] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:28:00] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:28:00] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:28:00] [Info] Connect translate.googleapis.com:443
+[2018-08-24 09:28:01] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:28:08] [Info] Disconnect android.clients.google.com:443
+[2018-08-24 09:28:17] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:28:29] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:28:37] [Info] Disconnect mtalk.google.com:443
+[2018-08-24 09:28:37] [Info] Connect mtalk.google.com:5228
+[2018-08-24 09:28:42] [Info] Disconnect accounts.google.com:443
+[2018-08-24 09:28:42] [Info] Disconnect clients4.google.com:443
+[2018-08-24 09:28:47] [Info] Direct connect safebrowsing.googleapis.com:443
+[2018-08-24 09:28:53] [Info] Connect accounts.google.com:443
+[2018-08-24 09:28:54] [Info] Connect accounts.google.com:443
+[2018-08-24 09:28:55] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:28:55] [Info] Connect www.google.com:443
+[2018-08-24 09:28:56] [Info] Direct connect fonts.gstatic.com:443
+[2018-08-24 09:28:56] [Info] Connect lh3.googleusercontent.com:443
+[2018-08-24 09:28:56] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:28:56] [Info] Connect accounts.youtube.com:443
+[2018-08-24 09:28:56] [Info] Connect play.google.com:443
+[2018-08-24 09:28:57] [Info] Connect play.google.com:443
+[2018-08-24 09:29:05] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:29:06] [Info] Disconnect www.google.com:443
+[2018-08-24 09:29:40] [Info] Connect cdn.mxpnl.com:443
+[2018-08-24 09:29:40] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:29:40] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:29:40] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:29:41] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:29:41] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:29:41] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:29:41] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:29:41] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-24 09:29:41] [Info] Direct connect ss1.baidu.com:443
+[2018-08-24 09:29:41] [Info] Direct connect ss2.baidu.com:443
+[2018-08-24 09:29:41] [Info] Direct connect sp0.baidu.com:443
+[2018-08-24 09:29:41] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-24 09:29:41] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:29:41] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:29:42] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:29:43] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:29:43] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-24 09:29:43] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-24 09:29:53] [Info] Disconnect api.unsplash.com:443
+[2018-08-24 09:29:55] [Info] Disconnect images.unsplash.com:443
+[2018-08-24 09:30:01] [Info] Disconnect translate.googleapis.com:443
+[2018-08-24 09:30:13] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:30:13] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:30:33] [Info] Connect raw.githubusercontent.com:443
+[2018-08-24 09:30:34] [Error] connect to update server error
+[2018-08-24 09:30:40] [Info] Disconnect mtalk.google.com:5228
+[2018-08-24 09:30:40] [Info] Connect mtalk.google.com:5228
+[2018-08-24 09:30:46] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:30:49] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:30:54] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:30:56] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:30:58] [Info] Disconnect accounts.youtube.com:443
+[2018-08-24 09:31:00] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:31:00] [Info] Disconnect lh3.googleusercontent.com:443
+[2018-08-24 09:31:00] [Info] Disconnect play.google.com:443
+[2018-08-24 09:31:00] [Info] Disconnect play.google.com:443
+[2018-08-24 09:31:08] [Info] Disconnect accounts.google.com:443
+[2018-08-24 09:31:16] [Info] Direct connect update.googleapis.com:443
+[2018-08-24 09:31:16] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:31:16] [Info] Disconnect mtalk.google.com:5228
+[2018-08-24 09:31:16] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:31:16] [Info] Disconnect accounts.google.com:443
+[2018-08-24 09:31:16] [Info] Disconnect cdn.mxpnl.com:443
+[2018-08-24 09:31:16] [Info] Disconnect clients4.google.com:443
+[2018-08-24 09:31:16] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:31:19] [Info] Connect mtalk.google.com:5228
+[2018-08-24 09:31:19] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:31:19] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:19] [Info] Connect accounts.google.com:443
+[2018-08-24 09:31:19] [Info] Direct connect clientservices.googleapis.com:443
+[2018-08-24 09:31:19] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:31:19] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:31:19] [Info] Connect raw.githubusercontent.com:443
+[2018-08-24 09:31:20] [Info] Connect www.googleapis.com:443
+[2018-08-24 09:31:20] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:31:21] [Info] Connect clients4.google.com:443
+[2018-08-24 09:31:21] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:31:21] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:31:21] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:31:27] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:31:28] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:31:28] [Info] Connect ssl.gstatic.com:443
+[2018-08-24 09:31:28] [Info] Connect clients2.google.com:443
+[2018-08-24 09:31:35] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:35] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:35] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:35] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:36] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:37] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:37] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:38] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:31:39] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:31:39] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:31:39] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-24 09:31:39] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:31:39] [Info] Direct connect sp0.baidu.com:443
+[2018-08-24 09:31:39] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:31:39] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:31:40] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:31:40] [Info] Connect translate.googleapis.com:443
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect wpa.qq.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect api.share.baidu.com:80
+[2018-08-24 09:31:46] [Info] Direct connect open.t.qq.com:80
+[2018-08-24 09:31:46] [Info] Direct connect pub.idqqimg.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:46] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:47] [Info] Direct connect jue-ce.com:80
+[2018-08-24 09:31:58] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:31:58] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-24 09:31:58] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:32:00] [Info] Connect www.goalunited.org:80
+[2018-08-24 09:32:02] [Info] Disconnect www.goalunited.org:80
+[2018-08-24 09:32:14] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-24 09:32:22] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:32:22] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:32:23] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:32:29] [Info] Connect clients4.google.com:443
+[2018-08-24 09:32:31] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:32:31] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:32:40] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:32:40] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:32:40] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:32:41] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:32:41] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:41] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:41] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:41] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:42] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:43] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:43] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:44] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:44] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:44] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:45] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:45] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:45] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:45] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:46] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:32:46] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:32:46] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:32:46] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-24 09:32:46] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:32:46] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:32:47] [Info] Direct connect ss0.bdstatic.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss1.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss2.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss3.baidu.com:443
+[2018-08-24 09:33:00] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:33:00] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:33:00] [Info] Direct connect sp1.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss1.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss1.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss1.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss1.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss1.baidu.com:443
+[2018-08-24 09:33:00] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:33:15] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:33:17] [Info] Direct connect suggestion.baidu.com:80
+[2018-08-24 09:33:18] [Info] Connect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:33:21] [Info] Disconnect raw.githubusercontent.com:443
+[2018-08-24 09:33:21] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:33:21] [Info] Disconnect accounts.google.com:443
+[2018-08-24 09:33:31] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:33:31] [Info] Disconnect clients2.google.com:443
+[2018-08-24 09:33:31] [Info] Disconnect ssl.gstatic.com:443
+[2018-08-24 09:33:31] [Info] Disconnect mtalk.google.com:5228
+[2018-08-24 09:33:31] [Info] Connect mtalk.google.com:5228
+[2018-08-24 09:33:41] [Info] Disconnect translate.googleapis.com:443
+[2018-08-24 09:33:42] [Info] Connect api.unsplash.com:443
+[2018-08-24 09:33:44] [Info] Connect images.unsplash.com:443
+[2018-08-24 09:34:07] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:34:15] [Info] Connect c.urs.microsoft.com:443
+[2018-08-24 09:34:16] [Info] Disconnect c.urs.microsoft.com:443
+[2018-08-24 09:34:23] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:34:31] [Info] Disconnect clients4.google.com:443
+[2018-08-24 09:34:40] [Info] Connect api.mixpanel.com:443
+[2018-08-24 09:34:45] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:34:45] [Info] Direct connect www.baidu.com:443
+[2018-08-24 09:34:45] [Info] Direct connect ss0.baidu.com:443
+[2018-08-24 09:34:45] [Info] Direct connect sp0.baidu.com:443
+[2018-08-24 09:34:45] [Info] Direct connect ss1.bdstatic.com:443
+[2018-08-24 09:34:45] [Info] Connect ben.crxmouse.com:443
+[2018-08-24 09:34:45] [Info] Direct connect sp1.baidu.com:443
+[2018-08-24 09:34:53] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:35:33] [Info] Disconnect mtalk.google.com:5228
+[2018-08-24 09:35:33] [Info] Connect mtalk.google.com:5228
+[2018-08-24 09:35:41] [Info] Direct connect qbwup.imtt.qq.com:80
+[2018-08-24 09:35:46] [Info] Disconnect images.unsplash.com:443
+[2018-08-24 09:35:52] [Info] Disconnect ben.crxmouse.com:443
+[2018-08-24 09:35:54] [Info] Disconnect s-usc1c-nss-205.firebaseio.com:443
+[2018-08-24 09:35:54] [Info] Disconnect mtalk.google.com:5228
+[2018-08-24 09:35:54] [Info] Disconnect www.googleapis.com:443
+[2018-08-24 09:35:54] [Info] Disconnect clients4.google.com:443
+[2018-08-24 09:35:54] [Info] Disconnect api.mixpanel.com:443
+[2018-08-24 09:35:54] [Info] Disconnect api.unsplash.com:443
